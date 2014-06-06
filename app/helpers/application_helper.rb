@@ -4,7 +4,7 @@ end
 
 def image_path(item)
   if item.is_a? Animal
-    "https://s3.amazonaws.com/whatanimaldoyoulift/images/#{animal.slug}.png"
+    "https://s3.amazonaws.com/whatanimaldoyoulift/images/#{item.slug}.png"
   else
     "https://s3.amazonaws.com/whatanimaldoyoulift/images/#{item}"
   end
