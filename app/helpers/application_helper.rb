@@ -2,8 +2,12 @@ def home_path
   "http://whatanimaldoyoulift.herokuapp.com"
 end
 
-def image_path(animal)
-  "/images/#{animal.slug}.png"
+def image_path(item)
+  if item.is_a? Animal
+    "https://s3.amazonaws.com/whatanimaldoyoulift/images/#{animal.slug}.png"
+  else
+    "https://s3.amazonaws.com/whatanimaldoyoulift/images/#{item}"
+  end
 end
 
 def twitter_share_text(name)

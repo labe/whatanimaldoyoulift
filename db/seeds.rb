@@ -75,7 +75,7 @@ WHAT = [
   # ["Mature Blue Whale", 220_000, 352_000]
 ]
 
-[LOW, MEDIUM, HIGH, WHOA].each do |weight_class|
+[LOW, MEDIUM, HIGH, WHOA, WHAT].each do |weight_class|
   weight_class.each do |name, min_lbs, max_lbs|
     Animal.create(name: name, min_weight_in_lbs: min_lbs, max_weight_in_lbs: max_lbs)
   end
