@@ -10,7 +10,7 @@ class TofuBacon
   validateWeight: (e) =>
     e.preventDefault()
     weight = @weightField.val()
-    validWeight = /^[0-9]+\.{0,1}[0-9]*$/
+    validWeight = /^[0-9]*\.{0,1}[0-9]*$/
     if @weightField.val() == ""
       $('#errors p').html("Even air weighs something!")
     else if validWeight.test(weight) == false

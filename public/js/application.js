@@ -19,7 +19,7 @@
       var validWeight, weight;
       e.preventDefault();
       weight = this.weightField.val();
-      validWeight = /^[0-9]+\.{0,1}[0-9]*$/;
+      validWeight = /^[0-9]*\.{0,1}[0-9]*$/;
       if (this.weightField.val() === "") {
         return $('#errors p').html("Even air weighs something!");
       } else if (validWeight.test(weight) === false) {
