@@ -45,12 +45,7 @@ img {
 
 h1 {
   font-size: 50px;
-  text-align: center;
   margin-bottom: 20px;
-}
-
-h4 {
-  text-align: center;
 }
 
 .units {
@@ -59,5 +54,19 @@ h4 {
 
 #errors p {
   color: red;
+}
+
+h1, h4, h5, #errors p {
   text-align: center;
+}
+
+h5 > a {
+  text-decoration: underline;
+  font-weight: normal;
+  color: #4099FF;
+}
+
+h5 > a > img {
+  display: inline;
+  margin: 0 5px;
 }

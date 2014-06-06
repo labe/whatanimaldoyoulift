@@ -13,3 +13,7 @@ end
 def urlify(text)
   text.gsub(" ", "%20")
 end
+
+def twitter_contact_url
+  "https://twitter.com/intent/tweet?text=@dottedlinegirl%20"
+end
