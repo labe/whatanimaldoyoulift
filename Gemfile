@@ -22,3 +22,4 @@ gem 'rake'
 
 gem 'shotgun'
 gem 'twitter'
+gem 'geocoder'

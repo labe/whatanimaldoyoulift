@@ -2,6 +2,7 @@ get '/' do
   if request.xhr?
     status 500
   else
+    @use_metric = request.location.country_code != "US"
     erb :index
   end
 end
