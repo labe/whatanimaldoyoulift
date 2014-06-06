@@ -8,7 +8,7 @@ end
 
 post '/' do
   units =  params[:units]
-  weight = units == "lbs" ? params[:weight] : (params[:weight].to_f * 2.2)
+  weight = units == "lbs" ? params[:weight].to_f : (params[:weight].to_f * 2.2)
   animal = Animal.where("min_weight_in_lbs < ? AND max_weight_in_lbs >= ?", weight, weight).sample
   
   redirect to "/#{animal.name.parameterize}"
