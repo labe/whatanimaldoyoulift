@@ -1,7 +1,7 @@
 #0 - 100
 LOW = [
-  ["Roberto's California Burrito", 1, 1],
-  ["Platypus", 2, 5],
+  ["Roberto's California Burrito", 0, 1],
+  ["Platypus", 1, 5],
   ["European Hare", 5, 10],
   ["Red Fox", 10, 15],
   ["River Otter", 15, 20],
@@ -57,7 +57,7 @@ WHOA = [
   ["Mature Bluefin Tuna", 500, 600],
   ["Polar Bear", 500, 700],
   ["American Elk", 600, 700],
-  ["Superior Eastern Highland Gorilla", 600, 800],
+  ["Superior Eastern Highland Gorilla", 700, 800],
   ["Galapagos Tortoise", 800, 900],
   ["Jersey Cow", 800, 1000],
   ["Musk Ox", 900, 1000],
