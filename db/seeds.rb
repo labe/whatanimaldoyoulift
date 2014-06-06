@@ -64,19 +64,16 @@ WHOA = [
   ["Hammerhead Shark", 900, 1000]
 ]
 
-# # 1000 +
-# WHAT = [
-#   ["Mature Male Moose", 1_000, 1_500],
-#   ["Clydesdale", 1_500, 2_000],
-#   ["Giraffe", 1_800, 3_520],
-#   ["Water Buffalo", 2_000, 3_000],
-#   ["Black Rhinoceros", 3_000, 4_500],
-#   ["White Rhinoceros", 4_000, 6_000],
-#   ["Newborn Blue Whale", 6_000, 8_000],
-#   ["African Elephant", 8_000, 15_000],
-#   ["Whale Shark", 40_000, 75_000],
-#   ["Mature Blue Whale", 220_000, 352_000]
-# ]
+# 1000 +
+WHAT = [
+  ["Mature Male Moose", 1_000, 1_800],
+  ["Clydesdale", 1_800, 2_300],
+  ["Water Buffalo", 2_300, 3_000],
+  ["Black Rhinoceros", 3_000, 4_000],
+  ["Newborn Blue Whale", 4_000, 6_000]
+  # ["Whale Shark", 40_000, 75_000],
+  # ["Mature Blue Whale", 220_000, 352_000]
+]
 
 [LOW, MEDIUM, HIGH, WHOA].each do |weight_class|
   weight_class.each do |name, min_lbs, max_lbs|

@@ -37,7 +37,7 @@
 
     TofuBacon.prototype.pickUppableWeight = function() {
       var max;
-      max = 1000;
+      max = 6000;
       return (this.unitField.val() === "lbs" && this.weightField.val() <= max) || (this.unitField.val() === "kg" && (this.weightField.val() * 2.2) <= max);
     };
 

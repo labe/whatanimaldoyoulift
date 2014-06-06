@@ -24,7 +24,7 @@ class TofuBacon
       @getAnimalResult()
 
   pickUppableWeight: =>
-    max = 1000
+    max = 6000
     return (@unitField.val() == "lbs" && @weightField.val() <= max) || (@unitField.val() == "kg" && (@weightField.val() * 2.2) <= max)
 
   getAnimalResult: =>
