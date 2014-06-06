@@ -1,5 +1,9 @@
 get '/' do
-  erb :index
+  if request.xhr?
+    status 500
+  else
+    erb :index
+  end
 end
 
 post '/' do
@@ -16,12 +20,7 @@ get '/:animal_slug' do
 
   if !@animal
     redirect to "/"
-  elsif request.xhr?
-    { name:             @animal.name,
-      image_path:       image_path(@animal),
-      next_animal_name: @next_animal.try(:name)
-    }.to_json
   else
-    erb :result
+    erb :result, layout: (request.xhr? ? false : true)
   end
 end
