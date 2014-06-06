@@ -10,9 +10,13 @@ class TofuBacon
   validateWeight: (e) =>
     e.preventDefault()
     weight = @weightField.val()
-    validWeight = /^[0-9]+$/
-    if validWeight.test(weight) == false
+    validWeight = /^[0-9]+\.{0,1}[0-9]*$/
+    if @weightField.val() == ""
+      $('#errors p').html("Even air weighs something!")
+    else if validWeight.test(weight) == false
       $('#errors p').html("Thinking outside the box is great, but to avoid inevitable errors in translation, enter a weight using numerical digits (0-9) only.")
+    else if @weightField.val() < 1
+      $('#errors p').html("A burrito weighs more than that! Surely you can even lift a burrito.")
     else if @weightField.val() > 1000
       $('#errors p').html("Whoa there, mega machine! This app is only meant for humans who even lift.<br>Try entering a more human-pick-uppable weight.")
     else
