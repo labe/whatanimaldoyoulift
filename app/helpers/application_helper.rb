@@ -15,5 +15,5 @@ def urlify(text)
 end
 
 def twitter_contact_url
-  "https://twitter.com/intent/tweet?text=@dottedlinegirl%20"
+  "https://twitter.com/intent/tweet?in_reply_to=474940081879670785"
 end
