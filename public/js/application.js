@@ -7,10 +7,12 @@
       this.resetAll = __bind(this.resetAll, this);
       this.showAnimalResult = __bind(this.showAnimalResult, this);
       this.getAnimalResult = __bind(this.getAnimalResult, this);
+      this.pickUppableWeight = __bind(this.pickUppableWeight, this);
       this.validateWeight = __bind(this.validateWeight, this);
       this.questionForm = $('#generate_animal');
       this.questionForm.on('submit', this.validateWeight);
       this.weightField = $('input[name="weight"]');
+      this.unitField = $('select[name="units"]');
       this.weightField.on('click', this.clearErrors);
       this.weightField.on('keydown', this.clearErrors);
     }
@@ -26,11 +28,17 @@
         return $('#errors p').html("Thinking outside the box is great, but to avoid inevitable errors in translation, enter a weight using numerical digits (0-9) only.");
       } else if (this.weightField.val() < 1) {
         return $('#errors p').html("A burrito weighs more than that! Surely you can even lift a burrito.");
-      } else if (this.weightField.val() > 1000) {
+      } else if (this.pickUppableWeight() === false) {
         return $('#errors p').html("Whoa there, mega machine! This app is only meant for humans who even lift.<br>Try entering a more human-pick-uppable weight.");
       } else {
         return this.getAnimalResult();
       }
+    };
+
+    TofuBacon.prototype.pickUppableWeight = function() {
+      var max;
+      max = 1000;
+      return (this.unitField.val() === "lbs" && this.weightField.val() <= max) || (this.unitField.val() === "kg" && (this.weightField.val() * 2.2) <= max);
     };
 
     TofuBacon.prototype.getAnimalResult = function() {
