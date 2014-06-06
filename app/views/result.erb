@@ -8,6 +8,10 @@
 
 <h4 id="next_animal">Keep it up and soon you'll be picking up a <span><%= @next_animal.name if @next_animal %></span> and putting it down with authority</h4>
 
+<a href="https://twitter.com/intent/tweet?text=<%= urlify(twitter_share_text(@animal.name)) if @animal %>&url=<%= home_path %>" target="_new">
+  <button id="twitter_it">TWITTER-BRAG AT THE BROS</button>
+</a>
+
 <a href="/">
   <button id="lift_again">WHAT OTHER ANIMALS DO YOU EVEN LIFT</button>
 </a>

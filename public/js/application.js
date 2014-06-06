@@ -5,6 +5,7 @@
   TofuBacon = (function() {
     function TofuBacon() {
       this.resetAll = __bind(this.resetAll, this);
+      this.showAnimalResult = __bind(this.showAnimalResult, this);
       this.getAnimalResult = __bind(this.getAnimalResult, this);
       this.validateWeight = __bind(this.validateWeight, this);
       this.questionForm = $('#generate_animal');
@@ -12,7 +13,6 @@
       this.weightField = $('input[name="weight"]');
       this.weightField.on('click', this.clearErrors);
       this.weightField.on('keydown', this.clearErrors);
-      $('#lift_again').on('click', this.resetAll);
     }
 
     TofuBacon.prototype.validateWeight = function(e) {
@@ -32,12 +32,9 @@
     TofuBacon.prototype.getAnimalResult = function() {
       return $.post('/', this.questionForm.serialize(), (function(_this) {
         return function(result) {
-          _this.swapViews();
-          _this.showAnimalResult(result['name'], result['image_path']);
-          _this.showNextAnimal(result['next_animal_name']);
-          return _this.focusOn($('#lift_again'));
+          return _this.showAnimalResult(result);
         };
-      })(this), 'json');
+      })(this));
     };
 
     TofuBacon.prototype.swapViews = function() {
@@ -45,18 +42,11 @@
       return $('#result').toggle();
     };
 
-    TofuBacon.prototype.showAnimalResult = function(name, imagePath) {
-      $('#animal_name').html(name);
-      return $('#animal_image').html("<image src='" + imagePath + "' width='400px'>");
-    };
-
-    TofuBacon.prototype.showNextAnimal = function(name) {
-      if (name) {
-        $('#next_animal span').html(name);
-        return $('#next_animal').show();
-      } else {
-        return $('#next_animal').hide();
-      }
+    TofuBacon.prototype.showAnimalResult = function(result) {
+      $('#result').html(result);
+      this.swapViews();
+      this.focusOn($('body').find('#twitter_it'));
+      return $('body').find('#lift_again').on('click', this.resetAll);
     };
 
     TofuBacon.prototype.clearErrors = function() {
