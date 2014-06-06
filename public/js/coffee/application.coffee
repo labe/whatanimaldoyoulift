@@ -25,6 +25,7 @@ class TofuBacon
       @swapViews()
       @showAnimalResult(result['name'], result['image_path'])
       @showNextAnimal(result['next_animal_name'])
+      @focusOn($('#lift_again'))
     , 'json'
 
   swapViews: ->
@@ -49,9 +50,12 @@ class TofuBacon
     e.preventDefault()
     @clearErrors()
     @weightField.val("")
-    setTimeout =>
-      @weightField.focus()
+    @focusOn(@weightField)
     @swapViews()
+
+  focusOn: (el) ->
+    setTimeout ->
+      el.focus()
 
 $ ->
   new TofuBacon

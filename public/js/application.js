@@ -34,7 +34,8 @@
         return function(result) {
           _this.swapViews();
           _this.showAnimalResult(result['name'], result['image_path']);
-          return _this.showNextAnimal(result['next_animal_name']);
+          _this.showNextAnimal(result['next_animal_name']);
+          return _this.focusOn($('#lift_again'));
         };
       })(this), 'json');
     };
@@ -66,12 +67,14 @@
       e.preventDefault();
       this.clearErrors();
       this.weightField.val("");
-      setTimeout((function(_this) {
-        return function() {
-          return _this.weightField.focus();
-        };
-      })(this));
+      this.focusOn(this.weightField);
       return this.swapViews();
+    };
+
+    TofuBacon.prototype.focusOn = function(el) {
+      return setTimeout(function() {
+        return el.focus();
+      });
     };
 
     return TofuBacon;
