@@ -1,0 +1,63 @@
+.container {
+  margin: 60px auto;
+  width: 800px;
+  padding: 0px 20px 20px 20px;
+}
+
+#question {
+  display: block;
+}
+
+#generate_animal {
+  display: block;
+  margin: 0 auto;
+  width: 600px;
+}
+
+#generate_animal input[type="text"] {
+  width: 100px;
+  height: 50px;
+  font-size: 50px;
+  text-align: center;
+  padding: 5px;
+}
+
+#generate_animal input[type="submit"], button {
+  display: block;
+  margin: 30px auto 0 auto;
+  font-size: 25px;
+}
+
+#weight_data {
+  display: block;
+  width: 200px;
+  margin: 10px auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 50px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+h4 {
+  text-align: center;
+}
+
+.units {
+  font-size: 30px;
+}
+
+#errors p {
+  color: red;
+  text-align: center;
+}

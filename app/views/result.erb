@@ -1,0 +1,13 @@
+<h1>You are even lifting a<br><span id="animal_name"><%= @animal.name if @animal %></span></h1>
+
+<div id="animal_image">
+  <% if @animal %>
+    <image src='<%= image_path(@animal) %>' width='400px'>
+  <% end %>
+</div>
+
+<h4 id="next_animal">Keep it up and soon you'll be picking up a <span><%= @next_animal.name if @next_animal %></span> and putting it down with authority</h4>
+
+<a href="/">
+  <button id="lift_again">WHAT OTHER ANIMALS DO YOU EVEN LIFT</button>
+</a>

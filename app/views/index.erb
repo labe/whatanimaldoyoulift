@@ -1,0 +1,22 @@
+<div id="question">
+  <h1>How much weight are you picking up and putting down with authority?</h1>
+  <form id="generate_animal">
+    <div id="weight_data">
+      <input type="text" name="weight" autofocus="true">
+      <span class="units">
+        <select name="units">
+          <option value="lbs">lbs</option>
+          <option value="kg">kg</option>
+        </select>
+      </span>
+    </div>
+    <div id="errors">
+      <p></p>
+    </div>
+    <input type="submit" value="SHOW ME THE ANIMAL I AM EVEN LIFTING">
+  </form>
+</div>
+
+<div id="result" style="display:none">
+  <%= erb :result %>
+</div>
