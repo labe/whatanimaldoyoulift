@@ -56,7 +56,7 @@ WHOA = [
   ["West Indian Manatee", 400, 500],
   ["Mature Bluefin Tuna", 500, 600],
   ["Polar Bear", 500, 700],
-  ["American Elk", 600, 700],
+  ["Stately American Elk", 600, 700],
   ["Superior Eastern Highland Gorilla", 700, 800],
   ["Galapagos Tortoise", 800, 900],
   ["Jersey Cow", 800, 1000],
