@@ -23,6 +23,7 @@ require 'erb'
 
 require 'twitter'
 require 'geocoder'
+require "newrelic_rpm"
 
 # Some helper constants for path-centric logic
 APP_ROOT = Pathname.new(File.expand_path('../../', __FILE__))
