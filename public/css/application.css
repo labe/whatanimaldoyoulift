@@ -60,6 +60,10 @@ h1, h4, h5, #errors p {
   text-align: center;
 }
 
+h5 {
+  margin: 0 0 10px 0;
+}
+
 h5 > a {
   text-decoration: underline;
   font-weight: normal;
@@ -69,4 +73,13 @@ h5 > a {
 h5 > a > img {
   display: inline;
   margin: 0 5px;
+}
+
+h5.inspired-by {
+  font-weight: normal;
+  color: #333;
+}
+
+h5.inspired-by > a {
+  color: #777;
 }
