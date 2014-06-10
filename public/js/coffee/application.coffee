@@ -31,29 +31,28 @@ class TofuBacon
     $.post '/', @questionForm.serialize(), (result) =>
       @showAnimalResult(result)
 
+  showAnimalResult: (result) =>
+    $('#result').html(result)
+    @focusOn($('body').find('#twitter_it'))
+    @swapViews()
+    $('body').find('#lift_again').on 'click', @resetAll
+
+  focusOn: (el) ->
+    setTimeout ->
+      el.focus()
+
   swapViews: ->
     $('#question').toggle()
     $('#result').toggle()
-
-  showAnimalResult: (result) =>
-    $('#result').html(result)
-    @swapViews()
-    @focusOn($('body').find('#twitter_it'))
-    $('body').find('#lift_again').on 'click', @resetAll
 
   clearErrors: ->
     $('#errors p').html("")
 
   resetAll: (e) =>
     e.preventDefault()
-    @clearErrors()
     @weightField.val("")
     @focusOn(@weightField)
     @swapViews()
-
-  focusOn: (el) ->
-    setTimeout ->
-      el.focus()
 
 $ ->
   new TofuBacon

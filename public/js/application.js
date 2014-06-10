@@ -49,16 +49,22 @@
       })(this));
     };
 
+    TofuBacon.prototype.showAnimalResult = function(result) {
+      $('#result').html(result);
+      this.focusOn($('body').find('#twitter_it'));
+      this.swapViews();
+      return $('body').find('#lift_again').on('click', this.resetAll);
+    };
+
+    TofuBacon.prototype.focusOn = function(el) {
+      return setTimeout(function() {
+        return el.focus();
+      });
+    };
+
     TofuBacon.prototype.swapViews = function() {
       $('#question').toggle();
       return $('#result').toggle();
-    };
-
-    TofuBacon.prototype.showAnimalResult = function(result) {
-      $('#result').html(result);
-      this.swapViews();
-      this.focusOn($('body').find('#twitter_it'));
-      return $('body').find('#lift_again').on('click', this.resetAll);
     };
 
     TofuBacon.prototype.clearErrors = function() {
@@ -67,16 +73,9 @@
 
     TofuBacon.prototype.resetAll = function(e) {
       e.preventDefault();
-      this.clearErrors();
       this.weightField.val("");
       this.focusOn(this.weightField);
       return this.swapViews();
-    };
-
-    TofuBacon.prototype.focusOn = function(el) {
-      return setTimeout(function() {
-        return el.focus();
-      });
     };
 
     return TofuBacon;
