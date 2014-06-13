@@ -1,17 +1,20 @@
 get '/' do
-  if request.xhr?
-    status 500
-  else
+  return status 500 if request.xhr?
+
+  begin
     @use_metric = request.location ? (request.location.country_code != "US") : false
-    erb :index
+  rescue => e
+    logger.error "Problem with geocoder, possibly freegeoip.net is down"
   end
+
+  erb :index
 end
 
 post '/' do
   units =  params[:units]
   weight = units == "lbs" ? params[:weight].to_f : (params[:weight].to_f * 2.2)
   animal = Animal.where("min_weight_in_lbs < ? AND max_weight_in_lbs >= ?", weight, weight).sample
-  
+
   redirect to "/#{animal.name.parameterize}"
 end
 
