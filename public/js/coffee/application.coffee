@@ -56,3 +56,8 @@ class TofuBacon
 
 $ ->
   new TofuBacon
+  if $('#freegeoip').data('status') == 'down'
+    $.getJSON "http://www.telize.com/geoip?callback=?",
+      (response) ->
+        $.post "/beached_freegeoip", {"loc": response.country_code}
+        $('#generate_animal select').val('kg') if response.country_code != 'US'

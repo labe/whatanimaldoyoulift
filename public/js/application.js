@@ -83,7 +83,17 @@
   })();
 
   $(function() {
-    return new TofuBacon;
+    new TofuBacon;
+    if ($('#freegeoip').data('status') === 'down') {
+      return $.getJSON("http://www.telize.com/geoip?callback=?", function(json) {
+        $.post("/beached_freegeoip", {
+          "loc": json.country_code
+        });
+        if (json.country_code !== 'US') {
+          return $('#generate_animal select').val('kg');
+        }
+      });
+    }
   });
 
 }).call(this);

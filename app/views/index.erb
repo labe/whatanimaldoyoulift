@@ -1,3 +1,7 @@
+<% if @geocoder_status == 500 %>
+  <div id="freegeoip" data-status="down"></div>
+<% end %>
+
 <div id="question">
   <h1>How much weight are you picking up and putting down with authority?</h1>
   <form id="generate_animal">

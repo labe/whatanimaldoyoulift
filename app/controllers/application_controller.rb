@@ -4,7 +4,7 @@ get '/' do
   begin
     @use_metric = request.location ? (request.location.country_code != "US") : false
   rescue => e
-    logger.error "Problem with geocoder, possibly freegeoip.net is down"
+    @geocoder_status = 500
   end
 
   erb :index
@@ -27,4 +27,8 @@ get '/:animal_slug' do
   else
     erb :result, layout: (request.xhr? ? false : true)
   end
+end
+
+post '/beached_freegeoip' do
+  logger.error "freegeoip is heaps beached, bru! but telize sez yoor comin' in from #{params["loc"]}"
 end
