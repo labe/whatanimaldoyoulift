@@ -1,0 +1,1852 @@
+# Logfile created on 2014-06-06 15:18:09 -0700 by logger.rb/44203
+[06/06/14 15:18:09 -0700 chiachai.local (43258)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 15:18:09 -0700 chiachai.local (43258)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 15:18:09 -0700 chiachai.local (43258)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 15:18:09 -0700 chiachai.local (43258)] INFO : Environment: development
+[06/06/14 15:18:09 -0700 chiachai.local (43258)] INFO : Dispatcher: thin
+[06/06/14 15:18:09 -0700 chiachai.local (43258)] INFO : Application: What Animal Do You Lift?
+[06/06/14 15:18:09 -0700 chiachai.local (43258)] WARN : Agent configured not to send data in this environment.
+[06/06/14 15:18:09 -0700 chiachai.local (43258)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 15:18:09 -0700 chiachai.local (43258)] INFO : Installing Net instrumentation
+[06/06/14 15:18:09 -0700 chiachai.local (43258)] INFO : Installing Sinatra instrumentation
+[06/06/14 15:18:09 -0700 chiachai.local (43258)] INFO : Installing deferred Rack instrumentation
+[06/06/14 15:18:09 -0700 chiachai.local (43258)] INFO : Finished instrumentation
+[06/06/14 15:18:09 -0700 chiachai.local (43258)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 15:18:15 -0700 chiachai.local (43261)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 15:18:15 -0700 chiachai.local (43261)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 15:18:15 -0700 chiachai.local (43261)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 15:18:15 -0700 chiachai.local (43261)] INFO : Environment: development
+[06/06/14 15:18:15 -0700 chiachai.local (43261)] INFO : Dispatcher: thin
+[06/06/14 15:18:15 -0700 chiachai.local (43261)] INFO : Application: What Animal Do You Lift?
+[06/06/14 15:18:15 -0700 chiachai.local (43261)] WARN : Agent configured not to send data in this environment.
+[06/06/14 15:18:15 -0700 chiachai.local (43261)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 15:18:15 -0700 chiachai.local (43261)] INFO : Installing Net instrumentation
+[06/06/14 15:18:15 -0700 chiachai.local (43261)] INFO : Installing Sinatra instrumentation
+[06/06/14 15:18:15 -0700 chiachai.local (43261)] INFO : Installing deferred Rack instrumentation
+[06/06/14 15:18:15 -0700 chiachai.local (43261)] INFO : Finished instrumentation
+[06/06/14 15:18:15 -0700 chiachai.local (43261)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 15:18:36 -0700 chiachai.local (43266)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 15:18:36 -0700 chiachai.local (43266)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 15:18:36 -0700 chiachai.local (43266)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 15:18:36 -0700 chiachai.local (43266)] INFO : Environment: development
+[06/06/14 15:18:36 -0700 chiachai.local (43266)] INFO : Dispatcher: thin
+[06/06/14 15:18:36 -0700 chiachai.local (43266)] INFO : Application: What Animal Do You Lift?
+[06/06/14 15:18:36 -0700 chiachai.local (43266)] WARN : Agent configured not to send data in this environment.
+[06/06/14 15:18:36 -0700 chiachai.local (43266)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 15:18:36 -0700 chiachai.local (43266)] INFO : Installing Net instrumentation
+[06/06/14 15:18:36 -0700 chiachai.local (43266)] INFO : Installing Sinatra instrumentation
+[06/06/14 15:18:36 -0700 chiachai.local (43266)] INFO : Installing deferred Rack instrumentation
+[06/06/14 15:18:36 -0700 chiachai.local (43266)] INFO : Finished instrumentation
+[06/06/14 15:18:36 -0700 chiachai.local (43266)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 15:18:47 -0700 chiachai.local (43398)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 15:18:47 -0700 chiachai.local (43398)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 15:18:47 -0700 chiachai.local (43398)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 15:18:47 -0700 chiachai.local (43398)] INFO : Environment: development
+[06/06/14 15:18:47 -0700 chiachai.local (43398)] INFO : No known dispatcher detected.
+[06/06/14 15:18:47 -0700 chiachai.local (43398)] INFO : Application: What Animal Do You Lift?
+[06/06/14 15:18:47 -0700 chiachai.local (43398)] WARN : Agent configured not to send data in this environment.
+[06/06/14 15:18:47 -0700 chiachai.local (43398)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 15:18:47 -0700 chiachai.local (43398)] INFO : Installing Net instrumentation
+[06/06/14 15:18:47 -0700 chiachai.local (43398)] INFO : Installing Sinatra instrumentation
+[06/06/14 15:18:47 -0700 chiachai.local (43398)] INFO : Installing deferred Rack instrumentation
+[06/06/14 15:18:47 -0700 chiachai.local (43398)] INFO : Finished instrumentation
+[06/06/14 15:19:32 -0700 chiachai.local (43518)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 15:19:32 -0700 chiachai.local (43518)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 15:19:32 -0700 chiachai.local (43518)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 15:19:32 -0700 chiachai.local (43518)] INFO : Environment: development
+[06/06/14 15:19:32 -0700 chiachai.local (43518)] INFO : Dispatcher: thin
+[06/06/14 15:19:32 -0700 chiachai.local (43518)] INFO : Application: What Animal Do You Lift?
+[06/06/14 15:19:32 -0700 chiachai.local (43518)] WARN : Agent configured not to send data in this environment.
+[06/06/14 15:19:32 -0700 chiachai.local (43518)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 15:19:32 -0700 chiachai.local (43518)] INFO : Installing Net instrumentation
+[06/06/14 15:19:32 -0700 chiachai.local (43518)] INFO : Installing Sinatra instrumentation
+[06/06/14 15:19:32 -0700 chiachai.local (43518)] INFO : Installing deferred Rack instrumentation
+[06/06/14 15:19:32 -0700 chiachai.local (43518)] INFO : Finished instrumentation
+[06/06/14 15:19:33 -0700 chiachai.local (43518)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 15:19:34 -0700 chiachai.local (43522)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 15:19:34 -0700 chiachai.local (43522)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 15:19:34 -0700 chiachai.local (43522)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 15:19:34 -0700 chiachai.local (43522)] INFO : Environment: development
+[06/06/14 15:19:34 -0700 chiachai.local (43522)] INFO : Dispatcher: thin
+[06/06/14 15:19:34 -0700 chiachai.local (43522)] INFO : Application: What Animal Do You Lift?
+[06/06/14 15:19:34 -0700 chiachai.local (43522)] WARN : Agent configured not to send data in this environment.
+[06/06/14 15:19:34 -0700 chiachai.local (43522)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 15:19:34 -0700 chiachai.local (43522)] INFO : Installing Net instrumentation
+[06/06/14 15:19:34 -0700 chiachai.local (43522)] INFO : Installing Sinatra instrumentation
+[06/06/14 15:19:34 -0700 chiachai.local (43522)] INFO : Installing deferred Rack instrumentation
+[06/06/14 15:19:34 -0700 chiachai.local (43522)] INFO : Finished instrumentation
+[06/06/14 15:19:34 -0700 chiachai.local (43522)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 15:32:45 -0700 chiachai.local (43625)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 15:32:45 -0700 chiachai.local (43625)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 15:32:45 -0700 chiachai.local (43625)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 15:32:45 -0700 chiachai.local (43625)] INFO : Environment: development
+[06/06/14 15:32:45 -0700 chiachai.local (43625)] INFO : Dispatcher: thin
+[06/06/14 15:32:45 -0700 chiachai.local (43625)] INFO : Application: What Animal Do You Lift?
+[06/06/14 15:32:45 -0700 chiachai.local (43625)] WARN : Agent configured not to send data in this environment.
+[06/06/14 15:32:45 -0700 chiachai.local (43625)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 15:32:45 -0700 chiachai.local (43625)] INFO : Installing Net instrumentation
+[06/06/14 15:32:45 -0700 chiachai.local (43625)] INFO : Installing Sinatra instrumentation
+[06/06/14 15:32:45 -0700 chiachai.local (43625)] INFO : Installing deferred Rack instrumentation
+[06/06/14 15:32:45 -0700 chiachai.local (43625)] INFO : Finished instrumentation
+[06/06/14 15:32:45 -0700 chiachai.local (43625)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 16:16:48 -0700 chiachai.local (65932)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 16:16:48 -0700 chiachai.local (65932)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 16:16:48 -0700 chiachai.local (65932)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 16:16:48 -0700 chiachai.local (65932)] INFO : Environment: development
+[06/06/14 16:16:48 -0700 chiachai.local (65932)] INFO : Dispatcher: thin
+[06/06/14 16:16:48 -0700 chiachai.local (65932)] INFO : Application: What Animal Do You Lift?
+[06/06/14 16:16:48 -0700 chiachai.local (65932)] WARN : Agent configured not to send data in this environment.
+[06/06/14 16:16:48 -0700 chiachai.local (65932)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 16:16:48 -0700 chiachai.local (65932)] INFO : Installing Net instrumentation
+[06/06/14 16:16:48 -0700 chiachai.local (65932)] INFO : Installing Sinatra instrumentation
+[06/06/14 16:16:48 -0700 chiachai.local (65932)] INFO : Installing deferred Rack instrumentation
+[06/06/14 16:16:48 -0700 chiachai.local (65932)] INFO : Finished instrumentation
+[06/06/14 16:16:49 -0700 chiachai.local (65932)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 16:16:49 -0700 chiachai.local (65934)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 16:16:49 -0700 chiachai.local (65934)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 16:16:49 -0700 chiachai.local (65934)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 16:16:49 -0700 chiachai.local (65934)] INFO : Environment: development
+[06/06/14 16:16:49 -0700 chiachai.local (65934)] INFO : Dispatcher: thin
+[06/06/14 16:16:49 -0700 chiachai.local (65934)] INFO : Application: What Animal Do You Lift?
+[06/06/14 16:16:49 -0700 chiachai.local (65934)] WARN : Agent configured not to send data in this environment.
+[06/06/14 16:16:49 -0700 chiachai.local (65934)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 16:16:49 -0700 chiachai.local (65934)] INFO : Installing Net instrumentation
+[06/06/14 16:16:49 -0700 chiachai.local (65934)] INFO : Installing Sinatra instrumentation
+[06/06/14 16:16:49 -0700 chiachai.local (65934)] INFO : Installing deferred Rack instrumentation
+[06/06/14 16:16:49 -0700 chiachai.local (65934)] INFO : Finished instrumentation
+[06/06/14 16:16:49 -0700 chiachai.local (65934)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 16:16:50 -0700 chiachai.local (65936)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 16:16:50 -0700 chiachai.local (65936)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 16:16:50 -0700 chiachai.local (65936)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 16:16:50 -0700 chiachai.local (65936)] INFO : Environment: development
+[06/06/14 16:16:50 -0700 chiachai.local (65936)] INFO : Dispatcher: thin
+[06/06/14 16:16:50 -0700 chiachai.local (65936)] INFO : Application: What Animal Do You Lift?
+[06/06/14 16:16:50 -0700 chiachai.local (65936)] WARN : Agent configured not to send data in this environment.
+[06/06/14 16:16:50 -0700 chiachai.local (65936)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 16:16:50 -0700 chiachai.local (65936)] INFO : Installing Net instrumentation
+[06/06/14 16:16:50 -0700 chiachai.local (65936)] INFO : Installing Sinatra instrumentation
+[06/06/14 16:16:50 -0700 chiachai.local (65936)] INFO : Installing deferred Rack instrumentation
+[06/06/14 16:16:50 -0700 chiachai.local (65936)] INFO : Finished instrumentation
+[06/06/14 16:16:51 -0700 chiachai.local (65936)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 16:16:53 -0700 chiachai.local (65938)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 16:16:53 -0700 chiachai.local (65938)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 16:16:53 -0700 chiachai.local (65938)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 16:16:53 -0700 chiachai.local (65938)] INFO : Environment: development
+[06/06/14 16:16:53 -0700 chiachai.local (65938)] INFO : Dispatcher: thin
+[06/06/14 16:16:53 -0700 chiachai.local (65938)] INFO : Application: What Animal Do You Lift?
+[06/06/14 16:16:53 -0700 chiachai.local (65938)] WARN : Agent configured not to send data in this environment.
+[06/06/14 16:16:53 -0700 chiachai.local (65938)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 16:16:53 -0700 chiachai.local (65938)] INFO : Installing Net instrumentation
+[06/06/14 16:16:53 -0700 chiachai.local (65938)] INFO : Installing Sinatra instrumentation
+[06/06/14 16:16:53 -0700 chiachai.local (65938)] INFO : Installing deferred Rack instrumentation
+[06/06/14 16:16:53 -0700 chiachai.local (65938)] INFO : Finished instrumentation
+[06/06/14 16:16:53 -0700 chiachai.local (65938)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 16:16:54 -0700 chiachai.local (65941)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 16:16:54 -0700 chiachai.local (65941)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 16:16:54 -0700 chiachai.local (65941)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 16:16:54 -0700 chiachai.local (65941)] INFO : Environment: development
+[06/06/14 16:16:54 -0700 chiachai.local (65941)] INFO : Dispatcher: thin
+[06/06/14 16:16:54 -0700 chiachai.local (65941)] INFO : Application: What Animal Do You Lift?
+[06/06/14 16:16:54 -0700 chiachai.local (65941)] WARN : Agent configured not to send data in this environment.
+[06/06/14 16:16:54 -0700 chiachai.local (65941)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 16:16:54 -0700 chiachai.local (65941)] INFO : Installing Net instrumentation
+[06/06/14 16:16:54 -0700 chiachai.local (65941)] INFO : Installing Sinatra instrumentation
+[06/06/14 16:16:54 -0700 chiachai.local (65941)] INFO : Installing deferred Rack instrumentation
+[06/06/14 16:16:54 -0700 chiachai.local (65941)] INFO : Finished instrumentation
+[06/06/14 16:16:54 -0700 chiachai.local (65941)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 16:17:20 -0700 chiachai.local (65945)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 16:17:20 -0700 chiachai.local (65945)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 16:17:20 -0700 chiachai.local (65945)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 16:17:20 -0700 chiachai.local (65945)] INFO : Environment: development
+[06/06/14 16:17:20 -0700 chiachai.local (65945)] INFO : Dispatcher: thin
+[06/06/14 16:17:20 -0700 chiachai.local (65945)] INFO : Application: What Animal Do You Lift?
+[06/06/14 16:17:20 -0700 chiachai.local (65945)] WARN : Agent configured not to send data in this environment.
+[06/06/14 16:17:20 -0700 chiachai.local (65945)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 16:17:20 -0700 chiachai.local (65945)] INFO : Installing Net instrumentation
+[06/06/14 16:17:20 -0700 chiachai.local (65945)] INFO : Installing Sinatra instrumentation
+[06/06/14 16:17:20 -0700 chiachai.local (65945)] INFO : Installing deferred Rack instrumentation
+[06/06/14 16:17:20 -0700 chiachai.local (65945)] INFO : Finished instrumentation
+[06/06/14 16:17:20 -0700 chiachai.local (65945)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 16:17:21 -0700 chiachai.local (65948)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 16:17:21 -0700 chiachai.local (65948)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 16:17:21 -0700 chiachai.local (65948)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 16:17:21 -0700 chiachai.local (65948)] INFO : Environment: development
+[06/06/14 16:17:21 -0700 chiachai.local (65948)] INFO : Dispatcher: thin
+[06/06/14 16:17:21 -0700 chiachai.local (65948)] INFO : Application: What Animal Do You Lift?
+[06/06/14 16:17:21 -0700 chiachai.local (65948)] WARN : Agent configured not to send data in this environment.
+[06/06/14 16:17:21 -0700 chiachai.local (65948)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 16:17:21 -0700 chiachai.local (65948)] INFO : Installing Net instrumentation
+[06/06/14 16:17:21 -0700 chiachai.local (65948)] INFO : Installing Sinatra instrumentation
+[06/06/14 16:17:21 -0700 chiachai.local (65948)] INFO : Installing deferred Rack instrumentation
+[06/06/14 16:17:21 -0700 chiachai.local (65948)] INFO : Finished instrumentation
+[06/06/14 16:17:22 -0700 chiachai.local (65948)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 16:17:46 -0700 chiachai.local (65952)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 16:17:46 -0700 chiachai.local (65952)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 16:17:46 -0700 chiachai.local (65952)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 16:17:46 -0700 chiachai.local (65952)] INFO : Environment: development
+[06/06/14 16:17:46 -0700 chiachai.local (65952)] INFO : Dispatcher: thin
+[06/06/14 16:17:46 -0700 chiachai.local (65952)] INFO : Application: What Animal Do You Lift?
+[06/06/14 16:17:46 -0700 chiachai.local (65952)] WARN : Agent configured not to send data in this environment.
+[06/06/14 16:17:46 -0700 chiachai.local (65952)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 16:17:46 -0700 chiachai.local (65952)] INFO : Installing Net instrumentation
+[06/06/14 16:17:46 -0700 chiachai.local (65952)] INFO : Installing Sinatra instrumentation
+[06/06/14 16:17:46 -0700 chiachai.local (65952)] INFO : Installing deferred Rack instrumentation
+[06/06/14 16:17:46 -0700 chiachai.local (65952)] INFO : Finished instrumentation
+[06/06/14 16:17:46 -0700 chiachai.local (65952)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 16:17:47 -0700 chiachai.local (65955)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 16:17:47 -0700 chiachai.local (65955)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 16:17:47 -0700 chiachai.local (65955)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 16:17:47 -0700 chiachai.local (65955)] INFO : Environment: development
+[06/06/14 16:17:47 -0700 chiachai.local (65955)] INFO : Dispatcher: thin
+[06/06/14 16:17:47 -0700 chiachai.local (65955)] INFO : Application: What Animal Do You Lift?
+[06/06/14 16:17:47 -0700 chiachai.local (65955)] WARN : Agent configured not to send data in this environment.
+[06/06/14 16:17:47 -0700 chiachai.local (65955)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 16:17:47 -0700 chiachai.local (65955)] INFO : Installing Net instrumentation
+[06/06/14 16:17:47 -0700 chiachai.local (65955)] INFO : Installing Sinatra instrumentation
+[06/06/14 16:17:47 -0700 chiachai.local (65955)] INFO : Installing deferred Rack instrumentation
+[06/06/14 16:17:47 -0700 chiachai.local (65955)] INFO : Finished instrumentation
+[06/06/14 16:17:47 -0700 chiachai.local (65955)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 16:17:54 -0700 chiachai.local (65958)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 16:17:54 -0700 chiachai.local (65958)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 16:17:54 -0700 chiachai.local (65958)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 16:17:54 -0700 chiachai.local (65958)] INFO : Environment: development
+[06/06/14 16:17:54 -0700 chiachai.local (65958)] INFO : Dispatcher: thin
+[06/06/14 16:17:54 -0700 chiachai.local (65958)] INFO : Application: What Animal Do You Lift?
+[06/06/14 16:17:54 -0700 chiachai.local (65958)] WARN : Agent configured not to send data in this environment.
+[06/06/14 16:17:54 -0700 chiachai.local (65958)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 16:17:54 -0700 chiachai.local (65958)] INFO : Installing Net instrumentation
+[06/06/14 16:17:54 -0700 chiachai.local (65958)] INFO : Installing Sinatra instrumentation
+[06/06/14 16:17:54 -0700 chiachai.local (65958)] INFO : Installing deferred Rack instrumentation
+[06/06/14 16:17:54 -0700 chiachai.local (65958)] INFO : Finished instrumentation
+[06/06/14 16:17:54 -0700 chiachai.local (65958)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 16:17:55 -0700 chiachai.local (65961)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 16:17:55 -0700 chiachai.local (65961)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 16:17:55 -0700 chiachai.local (65961)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 16:17:55 -0700 chiachai.local (65961)] INFO : Environment: development
+[06/06/14 16:17:55 -0700 chiachai.local (65961)] INFO : Dispatcher: thin
+[06/06/14 16:17:55 -0700 chiachai.local (65961)] INFO : Application: What Animal Do You Lift?
+[06/06/14 16:17:55 -0700 chiachai.local (65961)] WARN : Agent configured not to send data in this environment.
+[06/06/14 16:17:55 -0700 chiachai.local (65961)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 16:17:55 -0700 chiachai.local (65961)] INFO : Installing Net instrumentation
+[06/06/14 16:17:55 -0700 chiachai.local (65961)] INFO : Installing Sinatra instrumentation
+[06/06/14 16:17:55 -0700 chiachai.local (65961)] INFO : Installing deferred Rack instrumentation
+[06/06/14 16:17:55 -0700 chiachai.local (65961)] INFO : Finished instrumentation
+[06/06/14 16:17:55 -0700 chiachai.local (65961)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 16:18:18 -0700 chiachai.local (65964)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 16:18:18 -0700 chiachai.local (65964)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 16:18:18 -0700 chiachai.local (65964)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 16:18:18 -0700 chiachai.local (65964)] INFO : Environment: development
+[06/06/14 16:18:18 -0700 chiachai.local (65964)] INFO : Dispatcher: thin
+[06/06/14 16:18:18 -0700 chiachai.local (65964)] INFO : Application: What Animal Do You Lift?
+[06/06/14 16:18:18 -0700 chiachai.local (65964)] WARN : Agent configured not to send data in this environment.
+[06/06/14 16:18:18 -0700 chiachai.local (65964)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 16:18:18 -0700 chiachai.local (65964)] INFO : Installing Net instrumentation
+[06/06/14 16:18:18 -0700 chiachai.local (65964)] INFO : Installing Sinatra instrumentation
+[06/06/14 16:18:18 -0700 chiachai.local (65964)] INFO : Installing deferred Rack instrumentation
+[06/06/14 16:18:18 -0700 chiachai.local (65964)] INFO : Finished instrumentation
+[06/06/14 16:18:18 -0700 chiachai.local (65964)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 16:18:19 -0700 chiachai.local (65967)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 16:18:19 -0700 chiachai.local (65967)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 16:18:19 -0700 chiachai.local (65967)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 16:18:19 -0700 chiachai.local (65967)] INFO : Environment: development
+[06/06/14 16:18:19 -0700 chiachai.local (65967)] INFO : Dispatcher: thin
+[06/06/14 16:18:19 -0700 chiachai.local (65967)] INFO : Application: What Animal Do You Lift?
+[06/06/14 16:18:19 -0700 chiachai.local (65967)] WARN : Agent configured not to send data in this environment.
+[06/06/14 16:18:19 -0700 chiachai.local (65967)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 16:18:19 -0700 chiachai.local (65967)] INFO : Installing Net instrumentation
+[06/06/14 16:18:19 -0700 chiachai.local (65967)] INFO : Installing Sinatra instrumentation
+[06/06/14 16:18:19 -0700 chiachai.local (65967)] INFO : Installing deferred Rack instrumentation
+[06/06/14 16:18:19 -0700 chiachai.local (65967)] INFO : Finished instrumentation
+[06/06/14 16:18:19 -0700 chiachai.local (65967)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 16:18:24 -0700 chiachai.local (65969)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 16:18:24 -0700 chiachai.local (65969)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 16:18:24 -0700 chiachai.local (65969)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 16:18:24 -0700 chiachai.local (65969)] INFO : Environment: development
+[06/06/14 16:18:24 -0700 chiachai.local (65969)] INFO : Dispatcher: thin
+[06/06/14 16:18:24 -0700 chiachai.local (65969)] INFO : Application: What Animal Do You Lift?
+[06/06/14 16:18:24 -0700 chiachai.local (65969)] WARN : Agent configured not to send data in this environment.
+[06/06/14 16:18:24 -0700 chiachai.local (65969)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 16:18:24 -0700 chiachai.local (65969)] INFO : Installing Net instrumentation
+[06/06/14 16:18:24 -0700 chiachai.local (65969)] INFO : Installing Sinatra instrumentation
+[06/06/14 16:18:24 -0700 chiachai.local (65969)] INFO : Installing deferred Rack instrumentation
+[06/06/14 16:18:24 -0700 chiachai.local (65969)] INFO : Finished instrumentation
+[06/06/14 16:18:24 -0700 chiachai.local (65969)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 16:18:25 -0700 chiachai.local (65972)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 16:18:25 -0700 chiachai.local (65972)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 16:18:25 -0700 chiachai.local (65972)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 16:18:25 -0700 chiachai.local (65972)] INFO : Environment: development
+[06/06/14 16:18:25 -0700 chiachai.local (65972)] INFO : Dispatcher: thin
+[06/06/14 16:18:25 -0700 chiachai.local (65972)] INFO : Application: What Animal Do You Lift?
+[06/06/14 16:18:25 -0700 chiachai.local (65972)] WARN : Agent configured not to send data in this environment.
+[06/06/14 16:18:25 -0700 chiachai.local (65972)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 16:18:25 -0700 chiachai.local (65972)] INFO : Installing Net instrumentation
+[06/06/14 16:18:25 -0700 chiachai.local (65972)] INFO : Installing Sinatra instrumentation
+[06/06/14 16:18:25 -0700 chiachai.local (65972)] INFO : Installing deferred Rack instrumentation
+[06/06/14 16:18:25 -0700 chiachai.local (65972)] INFO : Finished instrumentation
+[06/06/14 16:18:25 -0700 chiachai.local (65972)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 16:20:11 -0700 chiachai.local (65983)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 16:20:11 -0700 chiachai.local (65983)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 16:20:11 -0700 chiachai.local (65983)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 16:20:11 -0700 chiachai.local (65983)] INFO : Environment: development
+[06/06/14 16:20:11 -0700 chiachai.local (65983)] INFO : No known dispatcher detected.
+[06/06/14 16:20:11 -0700 chiachai.local (65983)] INFO : Application: What Animal Do You Lift?
+[06/06/14 16:20:11 -0700 chiachai.local (65983)] WARN : Agent configured not to send data in this environment.
+[06/06/14 16:20:11 -0700 chiachai.local (65983)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 16:20:11 -0700 chiachai.local (65983)] INFO : Installing Net instrumentation
+[06/06/14 16:20:11 -0700 chiachai.local (65983)] INFO : Installing Sinatra instrumentation
+[06/06/14 16:20:11 -0700 chiachai.local (65983)] INFO : Installing deferred Rack instrumentation
+[06/06/14 16:20:11 -0700 chiachai.local (65983)] INFO : Finished instrumentation
+[06/06/14 16:21:56 -0700 chiachai.local (66060)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 16:21:56 -0700 chiachai.local (66060)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 16:21:56 -0700 chiachai.local (66060)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 16:21:56 -0700 chiachai.local (66060)] INFO : Environment: development
+[06/06/14 16:21:56 -0700 chiachai.local (66060)] INFO : Dispatcher: thin
+[06/06/14 16:21:56 -0700 chiachai.local (66060)] INFO : Application: What Animal Do You Lift?
+[06/06/14 16:21:56 -0700 chiachai.local (66060)] WARN : Agent configured not to send data in this environment.
+[06/06/14 16:21:56 -0700 chiachai.local (66060)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 16:21:56 -0700 chiachai.local (66060)] INFO : Installing Net instrumentation
+[06/06/14 16:21:56 -0700 chiachai.local (66060)] INFO : Installing Sinatra instrumentation
+[06/06/14 16:21:56 -0700 chiachai.local (66060)] INFO : Installing deferred Rack instrumentation
+[06/06/14 16:21:56 -0700 chiachai.local (66060)] INFO : Finished instrumentation
+[06/06/14 16:21:56 -0700 chiachai.local (66060)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 16:22:20 -0700 chiachai.local (66067)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 16:22:20 -0700 chiachai.local (66067)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 16:22:20 -0700 chiachai.local (66067)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 16:22:20 -0700 chiachai.local (66067)] INFO : Environment: development
+[06/06/14 16:22:20 -0700 chiachai.local (66067)] INFO : Dispatcher: thin
+[06/06/14 16:22:20 -0700 chiachai.local (66067)] INFO : Application: What Animal Do You Lift?
+[06/06/14 16:22:20 -0700 chiachai.local (66067)] WARN : Agent configured not to send data in this environment.
+[06/06/14 16:22:20 -0700 chiachai.local (66067)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 16:22:20 -0700 chiachai.local (66067)] INFO : Installing Net instrumentation
+[06/06/14 16:22:20 -0700 chiachai.local (66067)] INFO : Installing Sinatra instrumentation
+[06/06/14 16:22:20 -0700 chiachai.local (66067)] INFO : Installing deferred Rack instrumentation
+[06/06/14 16:22:20 -0700 chiachai.local (66067)] INFO : Finished instrumentation
+[06/06/14 16:22:20 -0700 chiachai.local (66067)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 16:30:04 -0700 chiachai.local (67713)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 16:30:04 -0700 chiachai.local (67713)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 16:30:04 -0700 chiachai.local (67713)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 16:30:04 -0700 chiachai.local (67713)] INFO : Environment: development
+[06/06/14 16:30:04 -0700 chiachai.local (67713)] INFO : Dispatcher: thin
+[06/06/14 16:30:04 -0700 chiachai.local (67713)] INFO : Application: What Animal Do You Lift?
+[06/06/14 16:30:04 -0700 chiachai.local (67713)] WARN : Agent configured not to send data in this environment.
+[06/06/14 16:30:04 -0700 chiachai.local (67713)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 16:30:04 -0700 chiachai.local (67713)] INFO : Installing Net instrumentation
+[06/06/14 16:30:04 -0700 chiachai.local (67713)] INFO : Installing Sinatra instrumentation
+[06/06/14 16:30:04 -0700 chiachai.local (67713)] INFO : Installing deferred Rack instrumentation
+[06/06/14 16:30:04 -0700 chiachai.local (67713)] INFO : Finished instrumentation
+[06/06/14 16:30:04 -0700 chiachai.local (67713)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 16:30:05 -0700 chiachai.local (67716)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 16:30:05 -0700 chiachai.local (67716)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 16:30:05 -0700 chiachai.local (67716)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 16:30:05 -0700 chiachai.local (67716)] INFO : Environment: development
+[06/06/14 16:30:05 -0700 chiachai.local (67716)] INFO : Dispatcher: thin
+[06/06/14 16:30:05 -0700 chiachai.local (67716)] INFO : Application: What Animal Do You Lift?
+[06/06/14 16:30:05 -0700 chiachai.local (67716)] WARN : Agent configured not to send data in this environment.
+[06/06/14 16:30:05 -0700 chiachai.local (67716)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 16:30:05 -0700 chiachai.local (67716)] INFO : Installing Net instrumentation
+[06/06/14 16:30:05 -0700 chiachai.local (67716)] INFO : Installing Sinatra instrumentation
+[06/06/14 16:30:05 -0700 chiachai.local (67716)] INFO : Installing deferred Rack instrumentation
+[06/06/14 16:30:05 -0700 chiachai.local (67716)] INFO : Finished instrumentation
+[06/06/14 16:30:05 -0700 chiachai.local (67716)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 16:30:07 -0700 chiachai.local (67718)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 16:30:07 -0700 chiachai.local (67718)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 16:30:07 -0700 chiachai.local (67718)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 16:30:07 -0700 chiachai.local (67718)] INFO : Environment: development
+[06/06/14 16:30:07 -0700 chiachai.local (67718)] INFO : Dispatcher: thin
+[06/06/14 16:30:07 -0700 chiachai.local (67718)] INFO : Application: What Animal Do You Lift?
+[06/06/14 16:30:07 -0700 chiachai.local (67718)] WARN : Agent configured not to send data in this environment.
+[06/06/14 16:30:08 -0700 chiachai.local (67718)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 16:30:08 -0700 chiachai.local (67718)] INFO : Installing Net instrumentation
+[06/06/14 16:30:08 -0700 chiachai.local (67718)] INFO : Installing Sinatra instrumentation
+[06/06/14 16:30:08 -0700 chiachai.local (67718)] INFO : Installing deferred Rack instrumentation
+[06/06/14 16:30:08 -0700 chiachai.local (67718)] INFO : Finished instrumentation
+[06/06/14 16:30:08 -0700 chiachai.local (67718)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 16:30:09 -0700 chiachai.local (67720)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 16:30:09 -0700 chiachai.local (67720)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 16:30:09 -0700 chiachai.local (67720)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 16:30:09 -0700 chiachai.local (67720)] INFO : Environment: development
+[06/06/14 16:30:09 -0700 chiachai.local (67720)] INFO : Dispatcher: thin
+[06/06/14 16:30:09 -0700 chiachai.local (67720)] INFO : Application: What Animal Do You Lift?
+[06/06/14 16:30:09 -0700 chiachai.local (67720)] WARN : Agent configured not to send data in this environment.
+[06/06/14 16:30:09 -0700 chiachai.local (67720)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 16:30:09 -0700 chiachai.local (67720)] INFO : Installing Net instrumentation
+[06/06/14 16:30:09 -0700 chiachai.local (67720)] INFO : Installing Sinatra instrumentation
+[06/06/14 16:30:09 -0700 chiachai.local (67720)] INFO : Installing deferred Rack instrumentation
+[06/06/14 16:30:09 -0700 chiachai.local (67720)] INFO : Finished instrumentation
+[06/06/14 16:30:09 -0700 chiachai.local (67720)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 16:30:31 -0700 chiachai.local (67725)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 16:30:31 -0700 chiachai.local (67725)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 16:30:31 -0700 chiachai.local (67725)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 16:30:31 -0700 chiachai.local (67725)] INFO : Environment: development
+[06/06/14 16:30:31 -0700 chiachai.local (67725)] INFO : Dispatcher: thin
+[06/06/14 16:30:31 -0700 chiachai.local (67725)] INFO : Application: What Animal Do You Lift?
+[06/06/14 16:30:31 -0700 chiachai.local (67725)] WARN : Agent configured not to send data in this environment.
+[06/06/14 16:30:31 -0700 chiachai.local (67725)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 16:30:31 -0700 chiachai.local (67725)] INFO : Installing Net instrumentation
+[06/06/14 16:30:31 -0700 chiachai.local (67725)] INFO : Installing Sinatra instrumentation
+[06/06/14 16:30:31 -0700 chiachai.local (67725)] INFO : Installing deferred Rack instrumentation
+[06/06/14 16:30:31 -0700 chiachai.local (67725)] INFO : Finished instrumentation
+[06/06/14 16:30:31 -0700 chiachai.local (67725)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 16:30:34 -0700 chiachai.local (67728)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 16:30:34 -0700 chiachai.local (67728)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 16:30:34 -0700 chiachai.local (67728)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 16:30:34 -0700 chiachai.local (67728)] INFO : Environment: development
+[06/06/14 16:30:34 -0700 chiachai.local (67728)] INFO : Dispatcher: thin
+[06/06/14 16:30:34 -0700 chiachai.local (67728)] INFO : Application: What Animal Do You Lift?
+[06/06/14 16:30:34 -0700 chiachai.local (67728)] WARN : Agent configured not to send data in this environment.
+[06/06/14 16:30:34 -0700 chiachai.local (67728)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 16:30:34 -0700 chiachai.local (67728)] INFO : Installing Net instrumentation
+[06/06/14 16:30:34 -0700 chiachai.local (67728)] INFO : Installing Sinatra instrumentation
+[06/06/14 16:30:34 -0700 chiachai.local (67728)] INFO : Installing deferred Rack instrumentation
+[06/06/14 16:30:34 -0700 chiachai.local (67728)] INFO : Finished instrumentation
+[06/06/14 16:30:34 -0700 chiachai.local (67728)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 16:30:35 -0700 chiachai.local (67731)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 16:30:35 -0700 chiachai.local (67731)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 16:30:35 -0700 chiachai.local (67731)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 16:30:35 -0700 chiachai.local (67731)] INFO : Environment: development
+[06/06/14 16:30:35 -0700 chiachai.local (67731)] INFO : Dispatcher: thin
+[06/06/14 16:30:35 -0700 chiachai.local (67731)] INFO : Application: What Animal Do You Lift?
+[06/06/14 16:30:35 -0700 chiachai.local (67731)] WARN : Agent configured not to send data in this environment.
+[06/06/14 16:30:35 -0700 chiachai.local (67731)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 16:30:35 -0700 chiachai.local (67731)] INFO : Installing Net instrumentation
+[06/06/14 16:30:35 -0700 chiachai.local (67731)] INFO : Installing Sinatra instrumentation
+[06/06/14 16:30:35 -0700 chiachai.local (67731)] INFO : Installing deferred Rack instrumentation
+[06/06/14 16:30:35 -0700 chiachai.local (67731)] INFO : Finished instrumentation
+[06/06/14 16:30:35 -0700 chiachai.local (67731)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 19:30:39 -0700 chiachai.local (68925)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 19:30:39 -0700 chiachai.local (68925)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 19:30:39 -0700 chiachai.local (68925)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 19:30:39 -0700 chiachai.local (68925)] INFO : Environment: development
+[06/06/14 19:30:39 -0700 chiachai.local (68925)] INFO : Dispatcher: thin
+[06/06/14 19:30:39 -0700 chiachai.local (68925)] INFO : Application: What Animal Do You Lift?
+[06/06/14 19:30:39 -0700 chiachai.local (68925)] WARN : Agent configured not to send data in this environment.
+[06/06/14 19:30:39 -0700 chiachai.local (68925)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 19:30:39 -0700 chiachai.local (68925)] INFO : Installing Net instrumentation
+[06/06/14 19:30:39 -0700 chiachai.local (68925)] INFO : Installing Sinatra instrumentation
+[06/06/14 19:30:39 -0700 chiachai.local (68925)] INFO : Installing deferred Rack instrumentation
+[06/06/14 19:30:39 -0700 chiachai.local (68925)] INFO : Finished instrumentation
+[06/06/14 19:30:39 -0700 chiachai.local (68925)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 19:30:40 -0700 chiachai.local (68927)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 19:30:40 -0700 chiachai.local (68927)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 19:30:40 -0700 chiachai.local (68927)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 19:30:40 -0700 chiachai.local (68927)] INFO : Environment: development
+[06/06/14 19:30:40 -0700 chiachai.local (68927)] INFO : Dispatcher: thin
+[06/06/14 19:30:40 -0700 chiachai.local (68927)] INFO : Application: What Animal Do You Lift?
+[06/06/14 19:30:40 -0700 chiachai.local (68927)] WARN : Agent configured not to send data in this environment.
+[06/06/14 19:30:40 -0700 chiachai.local (68927)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 19:30:40 -0700 chiachai.local (68927)] INFO : Installing Net instrumentation
+[06/06/14 19:30:40 -0700 chiachai.local (68927)] INFO : Installing Sinatra instrumentation
+[06/06/14 19:30:40 -0700 chiachai.local (68927)] INFO : Installing deferred Rack instrumentation
+[06/06/14 19:30:40 -0700 chiachai.local (68927)] INFO : Finished instrumentation
+[06/06/14 19:30:40 -0700 chiachai.local (68927)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 19:33:33 -0700 chiachai.local (68943)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 19:33:33 -0700 chiachai.local (68943)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 19:33:33 -0700 chiachai.local (68943)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 19:33:33 -0700 chiachai.local (68943)] INFO : Environment: development
+[06/06/14 19:33:33 -0700 chiachai.local (68943)] INFO : Dispatcher: thin
+[06/06/14 19:33:33 -0700 chiachai.local (68943)] INFO : Application: What Animal Do You Lift?
+[06/06/14 19:33:33 -0700 chiachai.local (68943)] WARN : Agent configured not to send data in this environment.
+[06/06/14 19:33:33 -0700 chiachai.local (68943)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 19:33:33 -0700 chiachai.local (68943)] INFO : Installing Net instrumentation
+[06/06/14 19:33:33 -0700 chiachai.local (68943)] INFO : Installing Sinatra instrumentation
+[06/06/14 19:33:33 -0700 chiachai.local (68943)] INFO : Installing deferred Rack instrumentation
+[06/06/14 19:33:33 -0700 chiachai.local (68943)] INFO : Finished instrumentation
+[06/06/14 19:33:34 -0700 chiachai.local (68943)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 19:33:51 -0700 chiachai.local (68950)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 19:33:51 -0700 chiachai.local (68950)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 19:33:51 -0700 chiachai.local (68950)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 19:33:51 -0700 chiachai.local (68950)] INFO : Environment: development
+[06/06/14 19:33:51 -0700 chiachai.local (68950)] INFO : Dispatcher: thin
+[06/06/14 19:33:51 -0700 chiachai.local (68950)] INFO : Application: What Animal Do You Lift?
+[06/06/14 19:33:51 -0700 chiachai.local (68950)] WARN : Agent configured not to send data in this environment.
+[06/06/14 19:33:51 -0700 chiachai.local (68950)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 19:33:51 -0700 chiachai.local (68950)] INFO : Installing Net instrumentation
+[06/06/14 19:33:51 -0700 chiachai.local (68950)] INFO : Installing Sinatra instrumentation
+[06/06/14 19:33:51 -0700 chiachai.local (68950)] INFO : Installing deferred Rack instrumentation
+[06/06/14 19:33:51 -0700 chiachai.local (68950)] INFO : Finished instrumentation
+[06/06/14 19:33:51 -0700 chiachai.local (68950)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 19:34:06 -0700 chiachai.local (68955)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 19:34:06 -0700 chiachai.local (68955)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 19:34:06 -0700 chiachai.local (68955)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 19:34:06 -0700 chiachai.local (68955)] INFO : Environment: development
+[06/06/14 19:34:06 -0700 chiachai.local (68955)] INFO : Dispatcher: thin
+[06/06/14 19:34:06 -0700 chiachai.local (68955)] INFO : Application: What Animal Do You Lift?
+[06/06/14 19:34:06 -0700 chiachai.local (68955)] WARN : Agent configured not to send data in this environment.
+[06/06/14 19:34:06 -0700 chiachai.local (68955)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 19:34:06 -0700 chiachai.local (68955)] INFO : Installing Net instrumentation
+[06/06/14 19:34:06 -0700 chiachai.local (68955)] INFO : Installing Sinatra instrumentation
+[06/06/14 19:34:06 -0700 chiachai.local (68955)] INFO : Installing deferred Rack instrumentation
+[06/06/14 19:34:06 -0700 chiachai.local (68955)] INFO : Finished instrumentation
+[06/06/14 19:34:07 -0700 chiachai.local (68955)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 19:34:13 -0700 chiachai.local (68958)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 19:34:13 -0700 chiachai.local (68958)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 19:34:13 -0700 chiachai.local (68958)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 19:34:13 -0700 chiachai.local (68958)] INFO : Environment: development
+[06/06/14 19:34:13 -0700 chiachai.local (68958)] INFO : Dispatcher: thin
+[06/06/14 19:34:13 -0700 chiachai.local (68958)] INFO : Application: What Animal Do You Lift?
+[06/06/14 19:34:13 -0700 chiachai.local (68958)] WARN : Agent configured not to send data in this environment.
+[06/06/14 19:34:13 -0700 chiachai.local (68958)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 19:34:13 -0700 chiachai.local (68958)] INFO : Installing Net instrumentation
+[06/06/14 19:34:13 -0700 chiachai.local (68958)] INFO : Installing Sinatra instrumentation
+[06/06/14 19:34:13 -0700 chiachai.local (68958)] INFO : Installing deferred Rack instrumentation
+[06/06/14 19:34:13 -0700 chiachai.local (68958)] INFO : Finished instrumentation
+[06/06/14 19:34:14 -0700 chiachai.local (68958)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 19:34:25 -0700 chiachai.local (68962)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 19:34:25 -0700 chiachai.local (68962)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 19:34:25 -0700 chiachai.local (68962)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 19:34:25 -0700 chiachai.local (68962)] INFO : Environment: development
+[06/06/14 19:34:25 -0700 chiachai.local (68962)] INFO : Dispatcher: thin
+[06/06/14 19:34:25 -0700 chiachai.local (68962)] INFO : Application: What Animal Do You Lift?
+[06/06/14 19:34:25 -0700 chiachai.local (68962)] WARN : Agent configured not to send data in this environment.
+[06/06/14 19:34:25 -0700 chiachai.local (68962)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 19:34:25 -0700 chiachai.local (68962)] INFO : Installing Net instrumentation
+[06/06/14 19:34:25 -0700 chiachai.local (68962)] INFO : Installing Sinatra instrumentation
+[06/06/14 19:34:25 -0700 chiachai.local (68962)] INFO : Installing deferred Rack instrumentation
+[06/06/14 19:34:25 -0700 chiachai.local (68962)] INFO : Finished instrumentation
+[06/06/14 19:34:26 -0700 chiachai.local (68962)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 19:34:38 -0700 chiachai.local (68966)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 19:34:38 -0700 chiachai.local (68966)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 19:34:38 -0700 chiachai.local (68966)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 19:34:38 -0700 chiachai.local (68966)] INFO : Environment: development
+[06/06/14 19:34:38 -0700 chiachai.local (68966)] INFO : Dispatcher: thin
+[06/06/14 19:34:38 -0700 chiachai.local (68966)] INFO : Application: What Animal Do You Lift?
+[06/06/14 19:34:38 -0700 chiachai.local (68966)] WARN : Agent configured not to send data in this environment.
+[06/06/14 19:34:38 -0700 chiachai.local (68966)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 19:34:38 -0700 chiachai.local (68966)] INFO : Installing Net instrumentation
+[06/06/14 19:34:38 -0700 chiachai.local (68966)] INFO : Installing Sinatra instrumentation
+[06/06/14 19:34:38 -0700 chiachai.local (68966)] INFO : Installing deferred Rack instrumentation
+[06/06/14 19:34:38 -0700 chiachai.local (68966)] INFO : Finished instrumentation
+[06/06/14 19:34:39 -0700 chiachai.local (68966)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 19:34:44 -0700 chiachai.local (68968)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 19:34:44 -0700 chiachai.local (68968)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 19:34:44 -0700 chiachai.local (68968)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 19:34:44 -0700 chiachai.local (68968)] INFO : Environment: development
+[06/06/14 19:34:44 -0700 chiachai.local (68968)] INFO : Dispatcher: thin
+[06/06/14 19:34:44 -0700 chiachai.local (68968)] INFO : Application: What Animal Do You Lift?
+[06/06/14 19:34:44 -0700 chiachai.local (68968)] WARN : Agent configured not to send data in this environment.
+[06/06/14 19:34:44 -0700 chiachai.local (68968)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 19:34:44 -0700 chiachai.local (68968)] INFO : Installing Net instrumentation
+[06/06/14 19:34:44 -0700 chiachai.local (68968)] INFO : Installing Sinatra instrumentation
+[06/06/14 19:34:44 -0700 chiachai.local (68968)] INFO : Installing deferred Rack instrumentation
+[06/06/14 19:34:44 -0700 chiachai.local (68968)] INFO : Finished instrumentation
+[06/06/14 19:34:44 -0700 chiachai.local (68968)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 19:34:46 -0700 chiachai.local (68970)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 19:34:46 -0700 chiachai.local (68970)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 19:34:46 -0700 chiachai.local (68970)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 19:34:46 -0700 chiachai.local (68970)] INFO : Environment: development
+[06/06/14 19:34:46 -0700 chiachai.local (68970)] INFO : Dispatcher: thin
+[06/06/14 19:34:46 -0700 chiachai.local (68970)] INFO : Application: What Animal Do You Lift?
+[06/06/14 19:34:46 -0700 chiachai.local (68970)] WARN : Agent configured not to send data in this environment.
+[06/06/14 19:34:46 -0700 chiachai.local (68970)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 19:34:46 -0700 chiachai.local (68970)] INFO : Installing Net instrumentation
+[06/06/14 19:34:46 -0700 chiachai.local (68970)] INFO : Installing Sinatra instrumentation
+[06/06/14 19:34:46 -0700 chiachai.local (68970)] INFO : Installing deferred Rack instrumentation
+[06/06/14 19:34:46 -0700 chiachai.local (68970)] INFO : Finished instrumentation
+[06/06/14 19:34:46 -0700 chiachai.local (68970)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 19:35:00 -0700 chiachai.local (68974)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 19:35:00 -0700 chiachai.local (68974)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 19:35:00 -0700 chiachai.local (68974)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 19:35:00 -0700 chiachai.local (68974)] INFO : Environment: development
+[06/06/14 19:35:00 -0700 chiachai.local (68974)] INFO : Dispatcher: thin
+[06/06/14 19:35:00 -0700 chiachai.local (68974)] INFO : Application: What Animal Do You Lift?
+[06/06/14 19:35:00 -0700 chiachai.local (68974)] WARN : Agent configured not to send data in this environment.
+[06/06/14 19:35:00 -0700 chiachai.local (68974)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 19:35:00 -0700 chiachai.local (68974)] INFO : Installing Net instrumentation
+[06/06/14 19:35:00 -0700 chiachai.local (68974)] INFO : Installing Sinatra instrumentation
+[06/06/14 19:35:00 -0700 chiachai.local (68974)] INFO : Installing deferred Rack instrumentation
+[06/06/14 19:35:00 -0700 chiachai.local (68974)] INFO : Finished instrumentation
+[06/06/14 19:35:00 -0700 chiachai.local (68974)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 19:35:34 -0700 chiachai.local (68978)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 19:35:34 -0700 chiachai.local (68978)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 19:35:34 -0700 chiachai.local (68978)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 19:35:34 -0700 chiachai.local (68978)] INFO : Environment: development
+[06/06/14 19:35:34 -0700 chiachai.local (68978)] INFO : Dispatcher: thin
+[06/06/14 19:35:34 -0700 chiachai.local (68978)] INFO : Application: What Animal Do You Lift?
+[06/06/14 19:35:34 -0700 chiachai.local (68978)] WARN : Agent configured not to send data in this environment.
+[06/06/14 19:35:34 -0700 chiachai.local (68978)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 19:35:34 -0700 chiachai.local (68978)] INFO : Installing Net instrumentation
+[06/06/14 19:35:34 -0700 chiachai.local (68978)] INFO : Installing Sinatra instrumentation
+[06/06/14 19:35:34 -0700 chiachai.local (68978)] INFO : Installing deferred Rack instrumentation
+[06/06/14 19:35:34 -0700 chiachai.local (68978)] INFO : Finished instrumentation
+[06/06/14 19:35:34 -0700 chiachai.local (68978)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 19:35:43 -0700 chiachai.local (68983)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 19:35:43 -0700 chiachai.local (68983)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 19:35:43 -0700 chiachai.local (68983)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 19:35:43 -0700 chiachai.local (68983)] INFO : Environment: development
+[06/06/14 19:35:43 -0700 chiachai.local (68983)] INFO : Dispatcher: thin
+[06/06/14 19:35:43 -0700 chiachai.local (68983)] INFO : Application: What Animal Do You Lift?
+[06/06/14 19:35:43 -0700 chiachai.local (68983)] WARN : Agent configured not to send data in this environment.
+[06/06/14 19:35:43 -0700 chiachai.local (68983)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 19:35:43 -0700 chiachai.local (68983)] INFO : Installing Net instrumentation
+[06/06/14 19:35:43 -0700 chiachai.local (68983)] INFO : Installing Sinatra instrumentation
+[06/06/14 19:35:43 -0700 chiachai.local (68983)] INFO : Installing deferred Rack instrumentation
+[06/06/14 19:35:43 -0700 chiachai.local (68983)] INFO : Finished instrumentation
+[06/06/14 19:35:43 -0700 chiachai.local (68983)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 19:36:04 -0700 chiachai.local (68986)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 19:36:04 -0700 chiachai.local (68986)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 19:36:04 -0700 chiachai.local (68986)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 19:36:04 -0700 chiachai.local (68986)] INFO : Environment: development
+[06/06/14 19:36:04 -0700 chiachai.local (68986)] INFO : Dispatcher: thin
+[06/06/14 19:36:04 -0700 chiachai.local (68986)] INFO : Application: What Animal Do You Lift?
+[06/06/14 19:36:04 -0700 chiachai.local (68986)] WARN : Agent configured not to send data in this environment.
+[06/06/14 19:36:04 -0700 chiachai.local (68986)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 19:36:04 -0700 chiachai.local (68986)] INFO : Installing Net instrumentation
+[06/06/14 19:36:04 -0700 chiachai.local (68986)] INFO : Installing Sinatra instrumentation
+[06/06/14 19:36:04 -0700 chiachai.local (68986)] INFO : Installing deferred Rack instrumentation
+[06/06/14 19:36:04 -0700 chiachai.local (68986)] INFO : Finished instrumentation
+[06/06/14 19:36:04 -0700 chiachai.local (68986)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 19:36:12 -0700 chiachai.local (68990)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 19:36:12 -0700 chiachai.local (68990)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 19:36:12 -0700 chiachai.local (68990)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 19:36:12 -0700 chiachai.local (68990)] INFO : Environment: development
+[06/06/14 19:36:12 -0700 chiachai.local (68990)] INFO : Dispatcher: thin
+[06/06/14 19:36:12 -0700 chiachai.local (68990)] INFO : Application: What Animal Do You Lift?
+[06/06/14 19:36:12 -0700 chiachai.local (68990)] WARN : Agent configured not to send data in this environment.
+[06/06/14 19:36:12 -0700 chiachai.local (68990)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 19:36:12 -0700 chiachai.local (68990)] INFO : Installing Net instrumentation
+[06/06/14 19:36:12 -0700 chiachai.local (68990)] INFO : Installing Sinatra instrumentation
+[06/06/14 19:36:12 -0700 chiachai.local (68990)] INFO : Installing deferred Rack instrumentation
+[06/06/14 19:36:12 -0700 chiachai.local (68990)] INFO : Finished instrumentation
+[06/06/14 19:36:12 -0700 chiachai.local (68990)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 19:37:44 -0700 chiachai.local (69001)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 19:37:44 -0700 chiachai.local (69001)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 19:37:44 -0700 chiachai.local (69001)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 19:37:44 -0700 chiachai.local (69001)] INFO : Environment: development
+[06/06/14 19:37:44 -0700 chiachai.local (69001)] INFO : Dispatcher: thin
+[06/06/14 19:37:44 -0700 chiachai.local (69001)] INFO : Application: What Animal Do You Lift?
+[06/06/14 19:37:44 -0700 chiachai.local (69001)] WARN : Agent configured not to send data in this environment.
+[06/06/14 19:37:44 -0700 chiachai.local (69001)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 19:37:44 -0700 chiachai.local (69001)] INFO : Installing Net instrumentation
+[06/06/14 19:37:44 -0700 chiachai.local (69001)] INFO : Installing Sinatra instrumentation
+[06/06/14 19:37:44 -0700 chiachai.local (69001)] INFO : Installing deferred Rack instrumentation
+[06/06/14 19:37:44 -0700 chiachai.local (69001)] INFO : Finished instrumentation
+[06/06/14 19:37:45 -0700 chiachai.local (69001)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 19:37:52 -0700 chiachai.local (69004)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 19:37:52 -0700 chiachai.local (69004)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 19:37:52 -0700 chiachai.local (69004)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 19:37:52 -0700 chiachai.local (69004)] INFO : Environment: development
+[06/06/14 19:37:52 -0700 chiachai.local (69004)] INFO : Dispatcher: thin
+[06/06/14 19:37:52 -0700 chiachai.local (69004)] INFO : Application: What Animal Do You Lift?
+[06/06/14 19:37:52 -0700 chiachai.local (69004)] WARN : Agent configured not to send data in this environment.
+[06/06/14 19:37:52 -0700 chiachai.local (69004)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 19:37:52 -0700 chiachai.local (69004)] INFO : Installing Net instrumentation
+[06/06/14 19:37:52 -0700 chiachai.local (69004)] INFO : Installing Sinatra instrumentation
+[06/06/14 19:37:52 -0700 chiachai.local (69004)] INFO : Installing deferred Rack instrumentation
+[06/06/14 19:37:52 -0700 chiachai.local (69004)] INFO : Finished instrumentation
+[06/06/14 19:37:52 -0700 chiachai.local (69004)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 19:38:00 -0700 chiachai.local (69008)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 19:38:00 -0700 chiachai.local (69008)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 19:38:00 -0700 chiachai.local (69008)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 19:38:00 -0700 chiachai.local (69008)] INFO : Environment: development
+[06/06/14 19:38:00 -0700 chiachai.local (69008)] INFO : Dispatcher: thin
+[06/06/14 19:38:00 -0700 chiachai.local (69008)] INFO : Application: What Animal Do You Lift?
+[06/06/14 19:38:00 -0700 chiachai.local (69008)] WARN : Agent configured not to send data in this environment.
+[06/06/14 19:38:00 -0700 chiachai.local (69008)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 19:38:00 -0700 chiachai.local (69008)] INFO : Installing Net instrumentation
+[06/06/14 19:38:00 -0700 chiachai.local (69008)] INFO : Installing Sinatra instrumentation
+[06/06/14 19:38:00 -0700 chiachai.local (69008)] INFO : Installing deferred Rack instrumentation
+[06/06/14 19:38:00 -0700 chiachai.local (69008)] INFO : Finished instrumentation
+[06/06/14 19:38:01 -0700 chiachai.local (69008)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 19:38:34 -0700 chiachai.local (69013)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 19:38:34 -0700 chiachai.local (69013)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 19:38:34 -0700 chiachai.local (69013)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 19:38:34 -0700 chiachai.local (69013)] INFO : Environment: development
+[06/06/14 19:38:34 -0700 chiachai.local (69013)] INFO : Dispatcher: thin
+[06/06/14 19:38:34 -0700 chiachai.local (69013)] INFO : Application: What Animal Do You Lift?
+[06/06/14 19:38:34 -0700 chiachai.local (69013)] WARN : Agent configured not to send data in this environment.
+[06/06/14 19:38:34 -0700 chiachai.local (69013)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 19:38:34 -0700 chiachai.local (69013)] INFO : Installing Net instrumentation
+[06/06/14 19:38:34 -0700 chiachai.local (69013)] INFO : Installing Sinatra instrumentation
+[06/06/14 19:38:34 -0700 chiachai.local (69013)] INFO : Installing deferred Rack instrumentation
+[06/06/14 19:38:34 -0700 chiachai.local (69013)] INFO : Finished instrumentation
+[06/06/14 19:38:35 -0700 chiachai.local (69013)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 19:38:37 -0700 chiachai.local (69014)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 19:38:37 -0700 chiachai.local (69014)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 19:38:37 -0700 chiachai.local (69014)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 19:38:37 -0700 chiachai.local (69014)] INFO : Environment: development
+[06/06/14 19:38:37 -0700 chiachai.local (69014)] INFO : Dispatcher: thin
+[06/06/14 19:38:37 -0700 chiachai.local (69014)] INFO : Application: What Animal Do You Lift?
+[06/06/14 19:38:37 -0700 chiachai.local (69014)] WARN : Agent configured not to send data in this environment.
+[06/06/14 19:38:37 -0700 chiachai.local (69014)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 19:38:37 -0700 chiachai.local (69014)] INFO : Installing Net instrumentation
+[06/06/14 19:38:37 -0700 chiachai.local (69014)] INFO : Installing Sinatra instrumentation
+[06/06/14 19:38:38 -0700 chiachai.local (69014)] INFO : Installing deferred Rack instrumentation
+[06/06/14 19:38:38 -0700 chiachai.local (69014)] INFO : Finished instrumentation
+[06/06/14 19:38:38 -0700 chiachai.local (69014)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 19:38:38 -0700 chiachai.local (69015)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 19:38:38 -0700 chiachai.local (69015)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 19:38:38 -0700 chiachai.local (69015)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 19:38:38 -0700 chiachai.local (69015)] INFO : Environment: development
+[06/06/14 19:38:38 -0700 chiachai.local (69015)] INFO : Dispatcher: thin
+[06/06/14 19:38:38 -0700 chiachai.local (69015)] INFO : Application: What Animal Do You Lift?
+[06/06/14 19:38:38 -0700 chiachai.local (69015)] WARN : Agent configured not to send data in this environment.
+[06/06/14 19:38:38 -0700 chiachai.local (69015)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 19:38:38 -0700 chiachai.local (69015)] INFO : Installing Net instrumentation
+[06/06/14 19:38:38 -0700 chiachai.local (69015)] INFO : Installing Sinatra instrumentation
+[06/06/14 19:38:38 -0700 chiachai.local (69015)] INFO : Installing deferred Rack instrumentation
+[06/06/14 19:38:38 -0700 chiachai.local (69015)] INFO : Finished instrumentation
+[06/06/14 19:38:39 -0700 chiachai.local (69015)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 19:38:44 -0700 chiachai.local (69017)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 19:38:44 -0700 chiachai.local (69017)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 19:38:44 -0700 chiachai.local (69017)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 19:38:44 -0700 chiachai.local (69017)] INFO : Environment: development
+[06/06/14 19:38:44 -0700 chiachai.local (69017)] INFO : Dispatcher: thin
+[06/06/14 19:38:44 -0700 chiachai.local (69017)] INFO : Application: What Animal Do You Lift?
+[06/06/14 19:38:44 -0700 chiachai.local (69017)] WARN : Agent configured not to send data in this environment.
+[06/06/14 19:38:44 -0700 chiachai.local (69017)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 19:38:44 -0700 chiachai.local (69017)] INFO : Installing Net instrumentation
+[06/06/14 19:38:44 -0700 chiachai.local (69017)] INFO : Installing Sinatra instrumentation
+[06/06/14 19:38:44 -0700 chiachai.local (69017)] INFO : Installing deferred Rack instrumentation
+[06/06/14 19:38:44 -0700 chiachai.local (69017)] INFO : Finished instrumentation
+[06/06/14 19:38:45 -0700 chiachai.local (69017)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 19:38:48 -0700 chiachai.local (69019)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 19:38:48 -0700 chiachai.local (69019)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 19:38:48 -0700 chiachai.local (69019)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 19:38:48 -0700 chiachai.local (69019)] INFO : Environment: development
+[06/06/14 19:38:48 -0700 chiachai.local (69019)] INFO : Dispatcher: thin
+[06/06/14 19:38:48 -0700 chiachai.local (69019)] INFO : Application: What Animal Do You Lift?
+[06/06/14 19:38:48 -0700 chiachai.local (69019)] WARN : Agent configured not to send data in this environment.
+[06/06/14 19:38:48 -0700 chiachai.local (69019)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 19:38:48 -0700 chiachai.local (69019)] INFO : Installing Net instrumentation
+[06/06/14 19:38:48 -0700 chiachai.local (69019)] INFO : Installing Sinatra instrumentation
+[06/06/14 19:38:48 -0700 chiachai.local (69019)] INFO : Installing deferred Rack instrumentation
+[06/06/14 19:38:48 -0700 chiachai.local (69019)] INFO : Finished instrumentation
+[06/06/14 19:38:48 -0700 chiachai.local (69019)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 19:38:59 -0700 chiachai.local (69022)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 19:38:59 -0700 chiachai.local (69022)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 19:38:59 -0700 chiachai.local (69022)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 19:38:59 -0700 chiachai.local (69022)] INFO : Environment: development
+[06/06/14 19:38:59 -0700 chiachai.local (69022)] INFO : Dispatcher: thin
+[06/06/14 19:38:59 -0700 chiachai.local (69022)] INFO : Application: What Animal Do You Lift?
+[06/06/14 19:38:59 -0700 chiachai.local (69022)] WARN : Agent configured not to send data in this environment.
+[06/06/14 19:38:59 -0700 chiachai.local (69022)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 19:38:59 -0700 chiachai.local (69022)] INFO : Installing Net instrumentation
+[06/06/14 19:38:59 -0700 chiachai.local (69022)] INFO : Installing Sinatra instrumentation
+[06/06/14 19:38:59 -0700 chiachai.local (69022)] INFO : Installing deferred Rack instrumentation
+[06/06/14 19:38:59 -0700 chiachai.local (69022)] INFO : Finished instrumentation
+[06/06/14 19:38:59 -0700 chiachai.local (69022)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 19:39:15 -0700 chiachai.local (69026)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 19:39:15 -0700 chiachai.local (69026)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 19:39:15 -0700 chiachai.local (69026)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 19:39:15 -0700 chiachai.local (69026)] INFO : Environment: development
+[06/06/14 19:39:15 -0700 chiachai.local (69026)] INFO : Dispatcher: thin
+[06/06/14 19:39:15 -0700 chiachai.local (69026)] INFO : Application: What Animal Do You Lift?
+[06/06/14 19:39:15 -0700 chiachai.local (69026)] WARN : Agent configured not to send data in this environment.
+[06/06/14 19:39:15 -0700 chiachai.local (69026)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 19:39:15 -0700 chiachai.local (69026)] INFO : Installing Net instrumentation
+[06/06/14 19:39:15 -0700 chiachai.local (69026)] INFO : Installing Sinatra instrumentation
+[06/06/14 19:39:15 -0700 chiachai.local (69026)] INFO : Installing deferred Rack instrumentation
+[06/06/14 19:39:15 -0700 chiachai.local (69026)] INFO : Finished instrumentation
+[06/06/14 19:39:16 -0700 chiachai.local (69026)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 19:39:25 -0700 chiachai.local (69030)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 19:39:25 -0700 chiachai.local (69030)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 19:39:25 -0700 chiachai.local (69030)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 19:39:25 -0700 chiachai.local (69030)] INFO : Environment: development
+[06/06/14 19:39:25 -0700 chiachai.local (69030)] INFO : Dispatcher: thin
+[06/06/14 19:39:25 -0700 chiachai.local (69030)] INFO : Application: What Animal Do You Lift?
+[06/06/14 19:39:25 -0700 chiachai.local (69030)] WARN : Agent configured not to send data in this environment.
+[06/06/14 19:39:25 -0700 chiachai.local (69030)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 19:39:25 -0700 chiachai.local (69030)] INFO : Installing Net instrumentation
+[06/06/14 19:39:25 -0700 chiachai.local (69030)] INFO : Installing Sinatra instrumentation
+[06/06/14 19:39:25 -0700 chiachai.local (69030)] INFO : Installing deferred Rack instrumentation
+[06/06/14 19:39:25 -0700 chiachai.local (69030)] INFO : Finished instrumentation
+[06/06/14 19:39:26 -0700 chiachai.local (69030)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 19:39:40 -0700 chiachai.local (69033)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 19:39:40 -0700 chiachai.local (69033)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 19:39:40 -0700 chiachai.local (69033)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 19:39:40 -0700 chiachai.local (69033)] INFO : Environment: development
+[06/06/14 19:39:40 -0700 chiachai.local (69033)] INFO : Dispatcher: thin
+[06/06/14 19:39:40 -0700 chiachai.local (69033)] INFO : Application: What Animal Do You Lift?
+[06/06/14 19:39:40 -0700 chiachai.local (69033)] WARN : Agent configured not to send data in this environment.
+[06/06/14 19:39:40 -0700 chiachai.local (69033)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 19:39:40 -0700 chiachai.local (69033)] INFO : Installing Net instrumentation
+[06/06/14 19:39:40 -0700 chiachai.local (69033)] INFO : Installing Sinatra instrumentation
+[06/06/14 19:39:40 -0700 chiachai.local (69033)] INFO : Installing deferred Rack instrumentation
+[06/06/14 19:39:40 -0700 chiachai.local (69033)] INFO : Finished instrumentation
+[06/06/14 19:39:40 -0700 chiachai.local (69033)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 19:39:41 -0700 chiachai.local (69035)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 19:39:41 -0700 chiachai.local (69035)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 19:39:41 -0700 chiachai.local (69035)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 19:39:41 -0700 chiachai.local (69035)] INFO : Environment: development
+[06/06/14 19:39:41 -0700 chiachai.local (69035)] INFO : Dispatcher: thin
+[06/06/14 19:39:41 -0700 chiachai.local (69035)] INFO : Application: What Animal Do You Lift?
+[06/06/14 19:39:41 -0700 chiachai.local (69035)] WARN : Agent configured not to send data in this environment.
+[06/06/14 19:39:41 -0700 chiachai.local (69035)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 19:39:41 -0700 chiachai.local (69035)] INFO : Installing Net instrumentation
+[06/06/14 19:39:41 -0700 chiachai.local (69035)] INFO : Installing Sinatra instrumentation
+[06/06/14 19:39:41 -0700 chiachai.local (69035)] INFO : Installing deferred Rack instrumentation
+[06/06/14 19:39:41 -0700 chiachai.local (69035)] INFO : Finished instrumentation
+[06/06/14 19:39:42 -0700 chiachai.local (69035)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 19:39:52 -0700 chiachai.local (69041)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 19:39:52 -0700 chiachai.local (69041)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 19:39:52 -0700 chiachai.local (69041)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 19:39:52 -0700 chiachai.local (69041)] INFO : Environment: development
+[06/06/14 19:39:52 -0700 chiachai.local (69041)] INFO : Dispatcher: thin
+[06/06/14 19:39:52 -0700 chiachai.local (69041)] INFO : Application: What Animal Do You Lift?
+[06/06/14 19:39:52 -0700 chiachai.local (69041)] WARN : Agent configured not to send data in this environment.
+[06/06/14 19:39:52 -0700 chiachai.local (69041)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 19:39:52 -0700 chiachai.local (69041)] INFO : Installing Net instrumentation
+[06/06/14 19:39:52 -0700 chiachai.local (69041)] INFO : Installing Sinatra instrumentation
+[06/06/14 19:39:52 -0700 chiachai.local (69041)] INFO : Installing deferred Rack instrumentation
+[06/06/14 19:39:52 -0700 chiachai.local (69041)] INFO : Finished instrumentation
+[06/06/14 19:39:52 -0700 chiachai.local (69041)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 19:39:53 -0700 chiachai.local (69043)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 19:39:53 -0700 chiachai.local (69043)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 19:39:53 -0700 chiachai.local (69043)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 19:39:53 -0700 chiachai.local (69043)] INFO : Environment: development
+[06/06/14 19:39:53 -0700 chiachai.local (69043)] INFO : Dispatcher: thin
+[06/06/14 19:39:53 -0700 chiachai.local (69043)] INFO : Application: What Animal Do You Lift?
+[06/06/14 19:39:53 -0700 chiachai.local (69043)] WARN : Agent configured not to send data in this environment.
+[06/06/14 19:39:53 -0700 chiachai.local (69043)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 19:39:53 -0700 chiachai.local (69043)] INFO : Installing Net instrumentation
+[06/06/14 19:39:53 -0700 chiachai.local (69043)] INFO : Installing Sinatra instrumentation
+[06/06/14 19:39:53 -0700 chiachai.local (69043)] INFO : Installing deferred Rack instrumentation
+[06/06/14 19:39:53 -0700 chiachai.local (69043)] INFO : Finished instrumentation
+[06/06/14 19:39:53 -0700 chiachai.local (69043)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 19:39:57 -0700 chiachai.local (69046)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 19:39:57 -0700 chiachai.local (69046)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 19:39:57 -0700 chiachai.local (69046)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 19:39:57 -0700 chiachai.local (69046)] INFO : Environment: development
+[06/06/14 19:39:57 -0700 chiachai.local (69046)] INFO : Dispatcher: thin
+[06/06/14 19:39:57 -0700 chiachai.local (69046)] INFO : Application: What Animal Do You Lift?
+[06/06/14 19:39:57 -0700 chiachai.local (69046)] WARN : Agent configured not to send data in this environment.
+[06/06/14 19:39:57 -0700 chiachai.local (69046)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 19:39:57 -0700 chiachai.local (69046)] INFO : Installing Net instrumentation
+[06/06/14 19:39:57 -0700 chiachai.local (69046)] INFO : Installing Sinatra instrumentation
+[06/06/14 19:39:57 -0700 chiachai.local (69046)] INFO : Installing deferred Rack instrumentation
+[06/06/14 19:39:57 -0700 chiachai.local (69046)] INFO : Finished instrumentation
+[06/06/14 19:39:57 -0700 chiachai.local (69046)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 19:39:58 -0700 chiachai.local (69049)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 19:39:58 -0700 chiachai.local (69049)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 19:39:58 -0700 chiachai.local (69049)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 19:39:58 -0700 chiachai.local (69049)] INFO : Environment: development
+[06/06/14 19:39:58 -0700 chiachai.local (69049)] INFO : Dispatcher: thin
+[06/06/14 19:39:58 -0700 chiachai.local (69049)] INFO : Application: What Animal Do You Lift?
+[06/06/14 19:39:58 -0700 chiachai.local (69049)] WARN : Agent configured not to send data in this environment.
+[06/06/14 19:39:58 -0700 chiachai.local (69049)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 19:39:58 -0700 chiachai.local (69049)] INFO : Installing Net instrumentation
+[06/06/14 19:39:58 -0700 chiachai.local (69049)] INFO : Installing Sinatra instrumentation
+[06/06/14 19:39:58 -0700 chiachai.local (69049)] INFO : Installing deferred Rack instrumentation
+[06/06/14 19:39:58 -0700 chiachai.local (69049)] INFO : Finished instrumentation
+[06/06/14 19:39:58 -0700 chiachai.local (69049)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 19:40:37 -0700 chiachai.local (69054)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 19:40:37 -0700 chiachai.local (69054)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 19:40:37 -0700 chiachai.local (69054)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 19:40:37 -0700 chiachai.local (69054)] INFO : Environment: development
+[06/06/14 19:40:37 -0700 chiachai.local (69054)] INFO : Dispatcher: thin
+[06/06/14 19:40:37 -0700 chiachai.local (69054)] INFO : Application: What Animal Do You Lift?
+[06/06/14 19:40:37 -0700 chiachai.local (69054)] WARN : Agent configured not to send data in this environment.
+[06/06/14 19:40:37 -0700 chiachai.local (69054)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 19:40:37 -0700 chiachai.local (69054)] INFO : Installing Net instrumentation
+[06/06/14 19:40:37 -0700 chiachai.local (69054)] INFO : Installing Sinatra instrumentation
+[06/06/14 19:40:37 -0700 chiachai.local (69054)] INFO : Installing deferred Rack instrumentation
+[06/06/14 19:40:37 -0700 chiachai.local (69054)] INFO : Finished instrumentation
+[06/06/14 19:40:37 -0700 chiachai.local (69054)] INFO : Doing deferred dependency-detection before Rack startup
+[06/06/14 19:40:38 -0700 chiachai.local (69057)] INFO : Starting the New Relic agent in "development" environment.
+[06/06/14 19:40:38 -0700 chiachai.local (69057)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/06/14 19:40:38 -0700 chiachai.local (69057)] INFO : Reading configuration from config/newrelic.yml
+[06/06/14 19:40:38 -0700 chiachai.local (69057)] INFO : Environment: development
+[06/06/14 19:40:38 -0700 chiachai.local (69057)] INFO : Dispatcher: thin
+[06/06/14 19:40:38 -0700 chiachai.local (69057)] INFO : Application: What Animal Do You Lift?
+[06/06/14 19:40:38 -0700 chiachai.local (69057)] WARN : Agent configured not to send data in this environment.
+[06/06/14 19:40:38 -0700 chiachai.local (69057)] INFO : Installing ActiveRecord 4 instrumentation
+[06/06/14 19:40:38 -0700 chiachai.local (69057)] INFO : Installing Net instrumentation
+[06/06/14 19:40:38 -0700 chiachai.local (69057)] INFO : Installing Sinatra instrumentation
+[06/06/14 19:40:38 -0700 chiachai.local (69057)] INFO : Installing deferred Rack instrumentation
+[06/06/14 19:40:38 -0700 chiachai.local (69057)] INFO : Finished instrumentation
+[06/06/14 19:40:39 -0700 chiachai.local (69057)] INFO : Doing deferred dependency-detection before Rack startup
+[06/07/14 09:33:13 -0700 chiachai.local (77085)] INFO : Starting the New Relic agent in "development" environment.
+[06/07/14 09:33:13 -0700 chiachai.local (77085)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/07/14 09:33:13 -0700 chiachai.local (77085)] INFO : Reading configuration from config/newrelic.yml
+[06/07/14 09:33:13 -0700 chiachai.local (77085)] INFO : Environment: development
+[06/07/14 09:33:13 -0700 chiachai.local (77085)] INFO : Dispatcher: thin
+[06/07/14 09:33:13 -0700 chiachai.local (77085)] INFO : Application: What Animal Do You Lift?
+[06/07/14 09:33:13 -0700 chiachai.local (77085)] WARN : Agent configured not to send data in this environment.
+[06/07/14 09:33:13 -0700 chiachai.local (77085)] INFO : Installing ActiveRecord 4 instrumentation
+[06/07/14 09:33:13 -0700 chiachai.local (77085)] INFO : Installing Net instrumentation
+[06/07/14 09:33:13 -0700 chiachai.local (77085)] INFO : Installing Sinatra instrumentation
+[06/07/14 09:33:13 -0700 chiachai.local (77085)] INFO : Installing deferred Rack instrumentation
+[06/07/14 09:33:13 -0700 chiachai.local (77085)] INFO : Finished instrumentation
+[06/07/14 09:33:14 -0700 chiachai.local (77085)] INFO : Doing deferred dependency-detection before Rack startup
+[06/07/14 09:33:21 -0700 chiachai.local (77089)] INFO : Starting the New Relic agent in "development" environment.
+[06/07/14 09:33:21 -0700 chiachai.local (77089)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/07/14 09:33:21 -0700 chiachai.local (77089)] INFO : Reading configuration from config/newrelic.yml
+[06/07/14 09:33:21 -0700 chiachai.local (77089)] INFO : Environment: development
+[06/07/14 09:33:21 -0700 chiachai.local (77089)] INFO : Dispatcher: thin
+[06/07/14 09:33:21 -0700 chiachai.local (77089)] INFO : Application: What Animal Do You Lift?
+[06/07/14 09:33:21 -0700 chiachai.local (77089)] WARN : Agent configured not to send data in this environment.
+[06/07/14 09:33:21 -0700 chiachai.local (77089)] INFO : Installing ActiveRecord 4 instrumentation
+[06/07/14 09:33:21 -0700 chiachai.local (77089)] INFO : Installing Net instrumentation
+[06/07/14 09:33:21 -0700 chiachai.local (77089)] INFO : Installing Sinatra instrumentation
+[06/07/14 09:33:21 -0700 chiachai.local (77089)] INFO : Installing deferred Rack instrumentation
+[06/07/14 09:33:21 -0700 chiachai.local (77089)] INFO : Finished instrumentation
+[06/07/14 09:33:21 -0700 chiachai.local (77089)] INFO : Doing deferred dependency-detection before Rack startup
+[06/07/14 09:33:23 -0700 chiachai.local (77091)] INFO : Starting the New Relic agent in "development" environment.
+[06/07/14 09:33:23 -0700 chiachai.local (77091)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/07/14 09:33:23 -0700 chiachai.local (77091)] INFO : Reading configuration from config/newrelic.yml
+[06/07/14 09:33:23 -0700 chiachai.local (77091)] INFO : Environment: development
+[06/07/14 09:33:23 -0700 chiachai.local (77091)] INFO : Dispatcher: thin
+[06/07/14 09:33:23 -0700 chiachai.local (77091)] INFO : Application: What Animal Do You Lift?
+[06/07/14 09:33:23 -0700 chiachai.local (77091)] WARN : Agent configured not to send data in this environment.
+[06/07/14 09:33:23 -0700 chiachai.local (77091)] INFO : Installing ActiveRecord 4 instrumentation
+[06/07/14 09:33:23 -0700 chiachai.local (77091)] INFO : Installing Net instrumentation
+[06/07/14 09:33:23 -0700 chiachai.local (77091)] INFO : Installing Sinatra instrumentation
+[06/07/14 09:33:23 -0700 chiachai.local (77091)] INFO : Installing deferred Rack instrumentation
+[06/07/14 09:33:23 -0700 chiachai.local (77091)] INFO : Finished instrumentation
+[06/07/14 09:33:23 -0700 chiachai.local (77091)] INFO : Doing deferred dependency-detection before Rack startup
+[06/07/14 09:33:39 -0700 chiachai.local (77224)] INFO : Starting the New Relic agent in "development" environment.
+[06/07/14 09:33:39 -0700 chiachai.local (77224)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/07/14 09:33:39 -0700 chiachai.local (77224)] INFO : Reading configuration from config/newrelic.yml
+[06/07/14 09:33:39 -0700 chiachai.local (77224)] INFO : Environment: development
+[06/07/14 09:33:39 -0700 chiachai.local (77224)] INFO : No known dispatcher detected.
+[06/07/14 09:33:39 -0700 chiachai.local (77224)] INFO : Application: What Animal Do You Lift?
+[06/07/14 09:33:39 -0700 chiachai.local (77224)] WARN : Agent configured not to send data in this environment.
+[06/07/14 09:33:39 -0700 chiachai.local (77224)] INFO : Installing ActiveRecord 4 instrumentation
+[06/07/14 09:33:39 -0700 chiachai.local (77224)] INFO : Installing Net instrumentation
+[06/07/14 09:33:39 -0700 chiachai.local (77224)] INFO : Installing Sinatra instrumentation
+[06/07/14 09:33:39 -0700 chiachai.local (77224)] INFO : Installing deferred Rack instrumentation
+[06/07/14 09:33:39 -0700 chiachai.local (77224)] INFO : Finished instrumentation
+[06/07/14 09:33:42 -0700 chiachai.local (77260)] INFO : Starting the New Relic agent in "development" environment.
+[06/07/14 09:33:42 -0700 chiachai.local (77260)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/07/14 09:33:42 -0700 chiachai.local (77260)] INFO : Reading configuration from config/newrelic.yml
+[06/07/14 09:33:42 -0700 chiachai.local (77260)] INFO : Environment: development
+[06/07/14 09:33:42 -0700 chiachai.local (77260)] INFO : No known dispatcher detected.
+[06/07/14 09:33:42 -0700 chiachai.local (77260)] INFO : Application: What Animal Do You Lift?
+[06/07/14 09:33:42 -0700 chiachai.local (77260)] WARN : Agent configured not to send data in this environment.
+[06/07/14 09:33:42 -0700 chiachai.local (77260)] INFO : Installing ActiveRecord 4 instrumentation
+[06/07/14 09:33:42 -0700 chiachai.local (77260)] INFO : Installing Net instrumentation
+[06/07/14 09:33:42 -0700 chiachai.local (77260)] INFO : Installing Sinatra instrumentation
+[06/07/14 09:33:42 -0700 chiachai.local (77260)] INFO : Installing deferred Rack instrumentation
+[06/07/14 09:33:42 -0700 chiachai.local (77260)] INFO : Finished instrumentation
+[06/07/14 09:33:49 -0700 chiachai.local (77300)] INFO : Starting the New Relic agent in "development" environment.
+[06/07/14 09:33:49 -0700 chiachai.local (77300)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/07/14 09:33:49 -0700 chiachai.local (77300)] INFO : Reading configuration from config/newrelic.yml
+[06/07/14 09:33:49 -0700 chiachai.local (77300)] INFO : Environment: development
+[06/07/14 09:33:49 -0700 chiachai.local (77300)] INFO : Dispatcher: thin
+[06/07/14 09:33:49 -0700 chiachai.local (77300)] INFO : Application: What Animal Do You Lift?
+[06/07/14 09:33:49 -0700 chiachai.local (77300)] WARN : Agent configured not to send data in this environment.
+[06/07/14 09:33:49 -0700 chiachai.local (77300)] INFO : Installing ActiveRecord 4 instrumentation
+[06/07/14 09:33:49 -0700 chiachai.local (77300)] INFO : Installing Net instrumentation
+[06/07/14 09:33:49 -0700 chiachai.local (77300)] INFO : Installing Sinatra instrumentation
+[06/07/14 09:33:49 -0700 chiachai.local (77300)] INFO : Installing deferred Rack instrumentation
+[06/07/14 09:33:49 -0700 chiachai.local (77300)] INFO : Finished instrumentation
+[06/07/14 09:33:49 -0700 chiachai.local (77300)] INFO : Doing deferred dependency-detection before Rack startup
+[06/07/14 09:33:50 -0700 chiachai.local (77301)] INFO : Starting the New Relic agent in "development" environment.
+[06/07/14 09:33:50 -0700 chiachai.local (77301)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/07/14 09:33:50 -0700 chiachai.local (77301)] INFO : Reading configuration from config/newrelic.yml
+[06/07/14 09:33:50 -0700 chiachai.local (77301)] INFO : Environment: development
+[06/07/14 09:33:50 -0700 chiachai.local (77301)] INFO : Dispatcher: thin
+[06/07/14 09:33:50 -0700 chiachai.local (77301)] INFO : Application: What Animal Do You Lift?
+[06/07/14 09:33:50 -0700 chiachai.local (77301)] WARN : Agent configured not to send data in this environment.
+[06/07/14 09:33:50 -0700 chiachai.local (77301)] INFO : Installing ActiveRecord 4 instrumentation
+[06/07/14 09:33:50 -0700 chiachai.local (77301)] INFO : Installing Net instrumentation
+[06/07/14 09:33:50 -0700 chiachai.local (77301)] INFO : Installing Sinatra instrumentation
+[06/07/14 09:33:50 -0700 chiachai.local (77301)] INFO : Installing deferred Rack instrumentation
+[06/07/14 09:33:50 -0700 chiachai.local (77301)] INFO : Finished instrumentation
+[06/07/14 09:33:50 -0700 chiachai.local (77301)] INFO : Doing deferred dependency-detection before Rack startup
+[06/07/14 09:33:51 -0700 chiachai.local (77303)] INFO : Starting the New Relic agent in "development" environment.
+[06/07/14 09:33:51 -0700 chiachai.local (77303)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/07/14 09:33:51 -0700 chiachai.local (77303)] INFO : Reading configuration from config/newrelic.yml
+[06/07/14 09:33:51 -0700 chiachai.local (77303)] INFO : Environment: development
+[06/07/14 09:33:51 -0700 chiachai.local (77303)] INFO : Dispatcher: thin
+[06/07/14 09:33:51 -0700 chiachai.local (77303)] INFO : Application: What Animal Do You Lift?
+[06/07/14 09:33:51 -0700 chiachai.local (77303)] WARN : Agent configured not to send data in this environment.
+[06/07/14 09:33:51 -0700 chiachai.local (77303)] INFO : Installing ActiveRecord 4 instrumentation
+[06/07/14 09:33:51 -0700 chiachai.local (77303)] INFO : Installing Net instrumentation
+[06/07/14 09:33:51 -0700 chiachai.local (77303)] INFO : Installing Sinatra instrumentation
+[06/07/14 09:33:51 -0700 chiachai.local (77303)] INFO : Installing deferred Rack instrumentation
+[06/07/14 09:33:51 -0700 chiachai.local (77303)] INFO : Finished instrumentation
+[06/07/14 09:33:51 -0700 chiachai.local (77303)] INFO : Doing deferred dependency-detection before Rack startup
+[06/07/14 09:34:01 -0700 chiachai.local (77306)] INFO : Starting the New Relic agent in "development" environment.
+[06/07/14 09:34:01 -0700 chiachai.local (77306)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/07/14 09:34:01 -0700 chiachai.local (77306)] INFO : Reading configuration from config/newrelic.yml
+[06/07/14 09:34:01 -0700 chiachai.local (77306)] INFO : Environment: development
+[06/07/14 09:34:01 -0700 chiachai.local (77306)] INFO : Dispatcher: thin
+[06/07/14 09:34:01 -0700 chiachai.local (77306)] INFO : Application: What Animal Do You Lift?
+[06/07/14 09:34:01 -0700 chiachai.local (77306)] WARN : Agent configured not to send data in this environment.
+[06/07/14 09:34:01 -0700 chiachai.local (77306)] INFO : Installing ActiveRecord 4 instrumentation
+[06/07/14 09:34:01 -0700 chiachai.local (77306)] INFO : Installing Net instrumentation
+[06/07/14 09:34:01 -0700 chiachai.local (77306)] INFO : Installing Sinatra instrumentation
+[06/07/14 09:34:01 -0700 chiachai.local (77306)] INFO : Installing deferred Rack instrumentation
+[06/07/14 09:34:01 -0700 chiachai.local (77306)] INFO : Finished instrumentation
+[06/07/14 09:34:01 -0700 chiachai.local (77306)] INFO : Doing deferred dependency-detection before Rack startup
+[06/07/14 09:34:02 -0700 chiachai.local (77308)] INFO : Starting the New Relic agent in "development" environment.
+[06/07/14 09:34:02 -0700 chiachai.local (77308)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/07/14 09:34:02 -0700 chiachai.local (77308)] INFO : Reading configuration from config/newrelic.yml
+[06/07/14 09:34:02 -0700 chiachai.local (77308)] INFO : Environment: development
+[06/07/14 09:34:02 -0700 chiachai.local (77308)] INFO : Dispatcher: thin
+[06/07/14 09:34:02 -0700 chiachai.local (77308)] INFO : Application: What Animal Do You Lift?
+[06/07/14 09:34:02 -0700 chiachai.local (77308)] WARN : Agent configured not to send data in this environment.
+[06/07/14 09:34:02 -0700 chiachai.local (77308)] INFO : Installing ActiveRecord 4 instrumentation
+[06/07/14 09:34:02 -0700 chiachai.local (77308)] INFO : Installing Net instrumentation
+[06/07/14 09:34:02 -0700 chiachai.local (77308)] INFO : Installing Sinatra instrumentation
+[06/07/14 09:34:02 -0700 chiachai.local (77308)] INFO : Installing deferred Rack instrumentation
+[06/07/14 09:34:02 -0700 chiachai.local (77308)] INFO : Finished instrumentation
+[06/07/14 09:34:03 -0700 chiachai.local (77308)] INFO : Doing deferred dependency-detection before Rack startup
+[06/07/14 09:43:13 -0700 chiachai.local (77394)] INFO : Starting the New Relic agent in "development" environment.
+[06/07/14 09:43:13 -0700 chiachai.local (77394)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/07/14 09:43:13 -0700 chiachai.local (77394)] INFO : Reading configuration from config/newrelic.yml
+[06/07/14 09:43:13 -0700 chiachai.local (77394)] INFO : Environment: development
+[06/07/14 09:43:13 -0700 chiachai.local (77394)] INFO : No known dispatcher detected.
+[06/07/14 09:43:13 -0700 chiachai.local (77394)] INFO : Application: What Animal Do You Lift?
+[06/07/14 09:43:13 -0700 chiachai.local (77394)] WARN : Agent configured not to send data in this environment.
+[06/07/14 09:43:13 -0700 chiachai.local (77394)] INFO : Installing ActiveRecord 4 instrumentation
+[06/07/14 09:43:13 -0700 chiachai.local (77394)] INFO : Installing Net instrumentation
+[06/07/14 09:43:13 -0700 chiachai.local (77394)] INFO : Installing Sinatra instrumentation
+[06/07/14 09:43:13 -0700 chiachai.local (77394)] INFO : Installing deferred Rack instrumentation
+[06/07/14 09:43:13 -0700 chiachai.local (77394)] INFO : Finished instrumentation
+[06/07/14 09:44:28 -0700 chiachai.local (77443)] INFO : Starting the New Relic agent in "development" environment.
+[06/07/14 09:44:28 -0700 chiachai.local (77443)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/07/14 09:44:28 -0700 chiachai.local (77443)] INFO : Reading configuration from config/newrelic.yml
+[06/07/14 09:44:28 -0700 chiachai.local (77443)] INFO : Environment: development
+[06/07/14 09:44:28 -0700 chiachai.local (77443)] INFO : Dispatcher: thin
+[06/07/14 09:44:28 -0700 chiachai.local (77443)] INFO : Application: What Animal Do You Lift?
+[06/07/14 09:44:28 -0700 chiachai.local (77443)] WARN : Agent configured not to send data in this environment.
+[06/07/14 09:44:28 -0700 chiachai.local (77443)] INFO : Installing ActiveRecord 4 instrumentation
+[06/07/14 09:44:28 -0700 chiachai.local (77443)] INFO : Installing Net instrumentation
+[06/07/14 09:44:28 -0700 chiachai.local (77443)] INFO : Installing Sinatra instrumentation
+[06/07/14 09:44:28 -0700 chiachai.local (77443)] INFO : Installing deferred Rack instrumentation
+[06/07/14 09:44:28 -0700 chiachai.local (77443)] INFO : Finished instrumentation
+[06/07/14 09:44:28 -0700 chiachai.local (77443)] INFO : Doing deferred dependency-detection before Rack startup
+[06/07/14 09:44:29 -0700 chiachai.local (77446)] INFO : Starting the New Relic agent in "development" environment.
+[06/07/14 09:44:29 -0700 chiachai.local (77446)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/07/14 09:44:29 -0700 chiachai.local (77446)] INFO : Reading configuration from config/newrelic.yml
+[06/07/14 09:44:29 -0700 chiachai.local (77446)] INFO : Environment: development
+[06/07/14 09:44:29 -0700 chiachai.local (77446)] INFO : Dispatcher: thin
+[06/07/14 09:44:29 -0700 chiachai.local (77446)] INFO : Application: What Animal Do You Lift?
+[06/07/14 09:44:29 -0700 chiachai.local (77446)] WARN : Agent configured not to send data in this environment.
+[06/07/14 09:44:29 -0700 chiachai.local (77446)] INFO : Installing ActiveRecord 4 instrumentation
+[06/07/14 09:44:29 -0700 chiachai.local (77446)] INFO : Installing Net instrumentation
+[06/07/14 09:44:29 -0700 chiachai.local (77446)] INFO : Installing Sinatra instrumentation
+[06/07/14 09:44:29 -0700 chiachai.local (77446)] INFO : Installing deferred Rack instrumentation
+[06/07/14 09:44:29 -0700 chiachai.local (77446)] INFO : Finished instrumentation
+[06/07/14 09:44:29 -0700 chiachai.local (77446)] INFO : Doing deferred dependency-detection before Rack startup
+[06/07/14 09:44:41 -0700 chiachai.local (77452)] INFO : Starting the New Relic agent in "development" environment.
+[06/07/14 09:44:41 -0700 chiachai.local (77452)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/07/14 09:44:41 -0700 chiachai.local (77452)] INFO : Reading configuration from config/newrelic.yml
+[06/07/14 09:44:41 -0700 chiachai.local (77452)] INFO : Environment: development
+[06/07/14 09:44:41 -0700 chiachai.local (77452)] INFO : Dispatcher: thin
+[06/07/14 09:44:41 -0700 chiachai.local (77452)] INFO : Application: What Animal Do You Lift?
+[06/07/14 09:44:41 -0700 chiachai.local (77452)] WARN : Agent configured not to send data in this environment.
+[06/07/14 09:44:41 -0700 chiachai.local (77452)] INFO : Installing ActiveRecord 4 instrumentation
+[06/07/14 09:44:41 -0700 chiachai.local (77452)] INFO : Installing Net instrumentation
+[06/07/14 09:44:41 -0700 chiachai.local (77452)] INFO : Installing Sinatra instrumentation
+[06/07/14 09:44:41 -0700 chiachai.local (77452)] INFO : Installing deferred Rack instrumentation
+[06/07/14 09:44:41 -0700 chiachai.local (77452)] INFO : Finished instrumentation
+[06/07/14 09:44:41 -0700 chiachai.local (77452)] INFO : Doing deferred dependency-detection before Rack startup
+[06/07/14 09:44:42 -0700 chiachai.local (77454)] INFO : Starting the New Relic agent in "development" environment.
+[06/07/14 09:44:42 -0700 chiachai.local (77454)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/07/14 09:44:42 -0700 chiachai.local (77454)] INFO : Reading configuration from config/newrelic.yml
+[06/07/14 09:44:42 -0700 chiachai.local (77454)] INFO : Environment: development
+[06/07/14 09:44:42 -0700 chiachai.local (77454)] INFO : Dispatcher: thin
+[06/07/14 09:44:42 -0700 chiachai.local (77454)] INFO : Application: What Animal Do You Lift?
+[06/07/14 09:44:42 -0700 chiachai.local (77454)] WARN : Agent configured not to send data in this environment.
+[06/07/14 09:44:42 -0700 chiachai.local (77454)] INFO : Installing ActiveRecord 4 instrumentation
+[06/07/14 09:44:42 -0700 chiachai.local (77454)] INFO : Installing Net instrumentation
+[06/07/14 09:44:42 -0700 chiachai.local (77454)] INFO : Installing Sinatra instrumentation
+[06/07/14 09:44:42 -0700 chiachai.local (77454)] INFO : Installing deferred Rack instrumentation
+[06/07/14 09:44:42 -0700 chiachai.local (77454)] INFO : Finished instrumentation
+[06/07/14 09:44:42 -0700 chiachai.local (77454)] INFO : Doing deferred dependency-detection before Rack startup
+[06/10/14 16:22:18 -0700 chiachai.local (36457)] INFO : Starting the New Relic agent in "development" environment.
+[06/10/14 16:22:18 -0700 chiachai.local (36457)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/10/14 16:22:18 -0700 chiachai.local (36457)] INFO : Reading configuration from config/newrelic.yml
+[06/10/14 16:22:18 -0700 chiachai.local (36457)] INFO : Environment: development
+[06/10/14 16:22:18 -0700 chiachai.local (36457)] INFO : Dispatcher: thin
+[06/10/14 16:22:18 -0700 chiachai.local (36457)] INFO : Application: What Animal Do You Lift?
+[06/10/14 16:22:18 -0700 chiachai.local (36457)] WARN : Agent configured not to send data in this environment.
+[06/10/14 16:22:18 -0700 chiachai.local (36457)] INFO : Installing ActiveRecord 4 instrumentation
+[06/10/14 16:22:18 -0700 chiachai.local (36457)] INFO : Installing Net instrumentation
+[06/10/14 16:22:18 -0700 chiachai.local (36457)] INFO : Installing Sinatra instrumentation
+[06/10/14 16:22:18 -0700 chiachai.local (36457)] INFO : Installing deferred Rack instrumentation
+[06/10/14 16:22:18 -0700 chiachai.local (36457)] INFO : Finished instrumentation
+[06/10/14 16:22:18 -0700 chiachai.local (36457)] INFO : Doing deferred dependency-detection before Rack startup
+[06/10/14 16:22:26 -0700 chiachai.local (36460)] INFO : Starting the New Relic agent in "development" environment.
+[06/10/14 16:22:26 -0700 chiachai.local (36460)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/10/14 16:22:26 -0700 chiachai.local (36460)] INFO : Reading configuration from config/newrelic.yml
+[06/10/14 16:22:26 -0700 chiachai.local (36460)] INFO : Environment: development
+[06/10/14 16:22:26 -0700 chiachai.local (36460)] INFO : Dispatcher: thin
+[06/10/14 16:22:26 -0700 chiachai.local (36460)] INFO : Application: What Animal Do You Lift?
+[06/10/14 16:22:26 -0700 chiachai.local (36460)] WARN : Agent configured not to send data in this environment.
+[06/10/14 16:22:26 -0700 chiachai.local (36460)] INFO : Installing ActiveRecord 4 instrumentation
+[06/10/14 16:22:26 -0700 chiachai.local (36460)] INFO : Installing Net instrumentation
+[06/10/14 16:22:26 -0700 chiachai.local (36460)] INFO : Installing Sinatra instrumentation
+[06/10/14 16:22:26 -0700 chiachai.local (36460)] INFO : Installing deferred Rack instrumentation
+[06/10/14 16:22:26 -0700 chiachai.local (36460)] INFO : Finished instrumentation
+[06/10/14 16:22:26 -0700 chiachai.local (36460)] INFO : Doing deferred dependency-detection before Rack startup
+[06/10/14 16:22:27 -0700 chiachai.local (36464)] INFO : Starting the New Relic agent in "development" environment.
+[06/10/14 16:22:27 -0700 chiachai.local (36464)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/10/14 16:22:27 -0700 chiachai.local (36464)] INFO : Reading configuration from config/newrelic.yml
+[06/10/14 16:22:27 -0700 chiachai.local (36464)] INFO : Environment: development
+[06/10/14 16:22:27 -0700 chiachai.local (36464)] INFO : Dispatcher: thin
+[06/10/14 16:22:27 -0700 chiachai.local (36464)] INFO : Application: What Animal Do You Lift?
+[06/10/14 16:22:27 -0700 chiachai.local (36464)] WARN : Agent configured not to send data in this environment.
+[06/10/14 16:22:27 -0700 chiachai.local (36464)] INFO : Installing ActiveRecord 4 instrumentation
+[06/10/14 16:22:27 -0700 chiachai.local (36464)] INFO : Installing Net instrumentation
+[06/10/14 16:22:27 -0700 chiachai.local (36464)] INFO : Installing Sinatra instrumentation
+[06/10/14 16:22:27 -0700 chiachai.local (36464)] INFO : Installing deferred Rack instrumentation
+[06/10/14 16:22:27 -0700 chiachai.local (36464)] INFO : Finished instrumentation
+[06/10/14 16:22:28 -0700 chiachai.local (36464)] INFO : Doing deferred dependency-detection before Rack startup
+[06/10/14 16:56:29 -0700 chiachai.local (37122)] INFO : Starting the New Relic agent in "development" environment.
+[06/10/14 16:56:29 -0700 chiachai.local (37122)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/10/14 16:56:29 -0700 chiachai.local (37122)] INFO : Reading configuration from config/newrelic.yml
+[06/10/14 16:56:29 -0700 chiachai.local (37122)] INFO : Environment: development
+[06/10/14 16:56:29 -0700 chiachai.local (37122)] INFO : Dispatcher: thin
+[06/10/14 16:56:29 -0700 chiachai.local (37122)] INFO : Application: What Animal Do You Lift?
+[06/10/14 16:56:29 -0700 chiachai.local (37122)] WARN : Agent configured not to send data in this environment.
+[06/10/14 16:56:29 -0700 chiachai.local (37122)] INFO : Installing ActiveRecord 4 instrumentation
+[06/10/14 16:56:29 -0700 chiachai.local (37122)] INFO : Installing Net instrumentation
+[06/10/14 16:56:29 -0700 chiachai.local (37122)] INFO : Installing Sinatra instrumentation
+[06/10/14 16:56:29 -0700 chiachai.local (37122)] INFO : Installing deferred Rack instrumentation
+[06/10/14 16:56:29 -0700 chiachai.local (37122)] INFO : Finished instrumentation
+[06/10/14 16:56:29 -0700 chiachai.local (37122)] INFO : Doing deferred dependency-detection before Rack startup
+[06/10/14 16:56:34 -0700 chiachai.local (37125)] INFO : Starting the New Relic agent in "development" environment.
+[06/10/14 16:56:34 -0700 chiachai.local (37125)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/10/14 16:56:34 -0700 chiachai.local (37125)] INFO : Reading configuration from config/newrelic.yml
+[06/10/14 16:56:34 -0700 chiachai.local (37125)] INFO : Environment: development
+[06/10/14 16:56:34 -0700 chiachai.local (37125)] INFO : Dispatcher: thin
+[06/10/14 16:56:34 -0700 chiachai.local (37125)] INFO : Application: What Animal Do You Lift?
+[06/10/14 16:56:34 -0700 chiachai.local (37125)] WARN : Agent configured not to send data in this environment.
+[06/10/14 16:56:34 -0700 chiachai.local (37125)] INFO : Installing ActiveRecord 4 instrumentation
+[06/10/14 16:56:34 -0700 chiachai.local (37125)] INFO : Installing Net instrumentation
+[06/10/14 16:56:34 -0700 chiachai.local (37125)] INFO : Installing Sinatra instrumentation
+[06/10/14 16:56:34 -0700 chiachai.local (37125)] INFO : Installing deferred Rack instrumentation
+[06/10/14 16:56:34 -0700 chiachai.local (37125)] INFO : Finished instrumentation
+[06/10/14 16:56:35 -0700 chiachai.local (37125)] INFO : Doing deferred dependency-detection before Rack startup
+[06/10/14 16:56:36 -0700 chiachai.local (37128)] INFO : Starting the New Relic agent in "development" environment.
+[06/10/14 16:56:36 -0700 chiachai.local (37128)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/10/14 16:56:36 -0700 chiachai.local (37128)] INFO : Reading configuration from config/newrelic.yml
+[06/10/14 16:56:36 -0700 chiachai.local (37128)] INFO : Environment: development
+[06/10/14 16:56:36 -0700 chiachai.local (37128)] INFO : Dispatcher: thin
+[06/10/14 16:56:36 -0700 chiachai.local (37128)] INFO : Application: What Animal Do You Lift?
+[06/10/14 16:56:36 -0700 chiachai.local (37128)] WARN : Agent configured not to send data in this environment.
+[06/10/14 16:56:36 -0700 chiachai.local (37128)] INFO : Installing ActiveRecord 4 instrumentation
+[06/10/14 16:56:36 -0700 chiachai.local (37128)] INFO : Installing Net instrumentation
+[06/10/14 16:56:36 -0700 chiachai.local (37128)] INFO : Installing Sinatra instrumentation
+[06/10/14 16:56:36 -0700 chiachai.local (37128)] INFO : Installing deferred Rack instrumentation
+[06/10/14 16:56:36 -0700 chiachai.local (37128)] INFO : Finished instrumentation
+[06/10/14 16:56:36 -0700 chiachai.local (37128)] INFO : Doing deferred dependency-detection before Rack startup
+[06/12/14 20:41:10 -0700 chiachai.local (3179)] INFO : Starting the New Relic agent in "development" environment.
+[06/12/14 20:41:10 -0700 chiachai.local (3179)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/12/14 20:41:10 -0700 chiachai.local (3179)] INFO : Reading configuration from config/newrelic.yml
+[06/12/14 20:41:10 -0700 chiachai.local (3179)] ERROR : Failed to read or parse configuration file at config/newrelic.yml: uninitialized constant NewRelic::Agent::Configuration::YamlSource::NEW_RELIC_LICENSE_KEY
+[06/12/14 20:41:10 -0700 chiachai.local (3179)] INFO : Environment: development
+[06/12/14 20:41:10 -0700 chiachai.local (3179)] INFO : Dispatcher: thin
+[06/12/14 20:41:10 -0700 chiachai.local (3179)] INFO : Application: development
+[06/12/14 20:41:10 -0700 chiachai.local (3179)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[06/12/14 20:41:10 -0700 chiachai.local (3179)] INFO : Installing ActiveRecord 4 instrumentation
+[06/12/14 20:41:10 -0700 chiachai.local (3179)] INFO : Installing Net instrumentation
+[06/12/14 20:41:10 -0700 chiachai.local (3179)] INFO : Installing Sinatra instrumentation
+[06/12/14 20:41:10 -0700 chiachai.local (3179)] INFO : Installing deferred Rack instrumentation
+[06/12/14 20:41:10 -0700 chiachai.local (3179)] INFO : Finished instrumentation
+[06/12/14 20:41:32 -0700 chiachai.local (3196)] INFO : Starting the New Relic agent in "development" environment.
+[06/12/14 20:41:32 -0700 chiachai.local (3196)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/12/14 20:41:32 -0700 chiachai.local (3196)] INFO : Reading configuration from config/newrelic.yml
+[06/12/14 20:41:32 -0700 chiachai.local (3196)] ERROR : Failed to read or parse configuration file at config/newrelic.yml: uninitialized constant NewRelic::Agent::Configuration::YamlSource::NEW_RELIC_LICENSE_KEY
+[06/12/14 20:41:32 -0700 chiachai.local (3196)] INFO : Environment: development
+[06/12/14 20:41:32 -0700 chiachai.local (3196)] INFO : Dispatcher: thin
+[06/12/14 20:41:32 -0700 chiachai.local (3196)] INFO : Application: development
+[06/12/14 20:41:32 -0700 chiachai.local (3196)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[06/12/14 20:41:32 -0700 chiachai.local (3196)] INFO : Installing ActiveRecord 4 instrumentation
+[06/12/14 20:41:32 -0700 chiachai.local (3196)] INFO : Installing Net instrumentation
+[06/12/14 20:41:32 -0700 chiachai.local (3196)] INFO : Installing Sinatra instrumentation
+[06/12/14 20:41:32 -0700 chiachai.local (3196)] INFO : Installing deferred Rack instrumentation
+[06/12/14 20:41:32 -0700 chiachai.local (3196)] INFO : Finished instrumentation
+[06/12/14 20:41:40 -0700 chiachai.local (3210)] INFO : Starting the New Relic agent in "development" environment.
+[06/12/14 20:41:40 -0700 chiachai.local (3210)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/12/14 20:41:40 -0700 chiachai.local (3210)] INFO : Reading configuration from config/newrelic.yml
+[06/12/14 20:41:40 -0700 chiachai.local (3210)] ERROR : Failed to read or parse configuration file at config/newrelic.yml: uninitialized constant NewRelic::Agent::Configuration::YamlSource::NEW_RELIC_LICENSE_KEY
+[06/12/14 20:41:40 -0700 chiachai.local (3210)] INFO : Environment: development
+[06/12/14 20:41:40 -0700 chiachai.local (3210)] INFO : Dispatcher: thin
+[06/12/14 20:41:40 -0700 chiachai.local (3210)] INFO : Application: development
+[06/12/14 20:41:40 -0700 chiachai.local (3210)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[06/12/14 20:41:40 -0700 chiachai.local (3210)] INFO : Installing ActiveRecord 4 instrumentation
+[06/12/14 20:41:40 -0700 chiachai.local (3210)] INFO : Installing Net instrumentation
+[06/12/14 20:41:40 -0700 chiachai.local (3210)] INFO : Installing Sinatra instrumentation
+[06/12/14 20:41:40 -0700 chiachai.local (3210)] INFO : Installing deferred Rack instrumentation
+[06/12/14 20:41:40 -0700 chiachai.local (3210)] INFO : Finished instrumentation
+[06/12/14 20:42:37 -0700 chiachai.local (3508)] INFO : Starting the New Relic agent in "development" environment.
+[06/12/14 20:42:37 -0700 chiachai.local (3508)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/12/14 20:42:37 -0700 chiachai.local (3508)] INFO : Reading configuration from config/newrelic.yml
+[06/12/14 20:42:37 -0700 chiachai.local (3508)] ERROR : Failed to read or parse configuration file at config/newrelic.yml: uninitialized constant NewRelic::Agent::Configuration::YamlSource::NEW_RELIC_LICENSE_KEY
+[06/12/14 20:42:37 -0700 chiachai.local (3508)] INFO : Environment: development
+[06/12/14 20:42:37 -0700 chiachai.local (3508)] INFO : Dispatcher: thin
+[06/12/14 20:42:37 -0700 chiachai.local (3508)] INFO : Application: development
+[06/12/14 20:42:37 -0700 chiachai.local (3508)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[06/12/14 20:42:37 -0700 chiachai.local (3508)] INFO : Installing ActiveRecord 4 instrumentation
+[06/12/14 20:42:37 -0700 chiachai.local (3508)] INFO : Installing Net instrumentation
+[06/12/14 20:42:37 -0700 chiachai.local (3508)] INFO : Installing Sinatra instrumentation
+[06/12/14 20:42:37 -0700 chiachai.local (3508)] INFO : Installing deferred Rack instrumentation
+[06/12/14 20:42:37 -0700 chiachai.local (3508)] INFO : Finished instrumentation
+[06/12/14 20:42:37 -0700 chiachai.local (3508)] INFO : Doing deferred dependency-detection before Rack startup
+[06/12/14 20:43:39 -0700 chiachai.local (3569)] INFO : Starting the New Relic agent in "development" environment.
+[06/12/14 20:43:39 -0700 chiachai.local (3569)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/12/14 20:43:39 -0700 chiachai.local (3569)] INFO : Reading configuration from config/newrelic.yml
+[06/12/14 20:43:39 -0700 chiachai.local (3569)] ERROR : Failed to read or parse configuration file at config/newrelic.yml: uninitialized constant NewRelic::Agent::Configuration::YamlSource::NEW_RELIC_LICENSE_KEY
+[06/12/14 20:43:39 -0700 chiachai.local (3569)] INFO : Environment: development
+[06/12/14 20:43:39 -0700 chiachai.local (3569)] INFO : Dispatcher: thin
+[06/12/14 20:43:39 -0700 chiachai.local (3569)] INFO : Application: development
+[06/12/14 20:43:39 -0700 chiachai.local (3569)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[06/12/14 20:43:39 -0700 chiachai.local (3569)] INFO : Installing ActiveRecord 4 instrumentation
+[06/12/14 20:43:39 -0700 chiachai.local (3569)] INFO : Installing Net instrumentation
+[06/12/14 20:43:39 -0700 chiachai.local (3569)] INFO : Installing Sinatra instrumentation
+[06/12/14 20:43:39 -0700 chiachai.local (3569)] INFO : Installing deferred Rack instrumentation
+[06/12/14 20:43:39 -0700 chiachai.local (3569)] INFO : Finished instrumentation
+[06/12/14 20:43:40 -0700 chiachai.local (3569)] INFO : Doing deferred dependency-detection before Rack startup
+[06/12/14 20:47:05 -0700 chiachai.local (3793)] INFO : Starting the New Relic agent in "development" environment.
+[06/12/14 20:47:05 -0700 chiachai.local (3793)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/12/14 20:47:05 -0700 chiachai.local (3793)] INFO : Reading configuration from config/newrelic.yml
+[06/12/14 20:47:05 -0700 chiachai.local (3793)] ERROR : Failed to read or parse configuration file at config/newrelic.yml: uninitialized constant NewRelic::Agent::Configuration::YamlSource::NEW_RELIC_LICENSE_KEY
+[06/12/14 20:47:05 -0700 chiachai.local (3793)] INFO : Environment: development
+[06/12/14 20:47:05 -0700 chiachai.local (3793)] INFO : Dispatcher: thin
+[06/12/14 20:47:05 -0700 chiachai.local (3793)] INFO : Application: development
+[06/12/14 20:47:05 -0700 chiachai.local (3793)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[06/12/14 20:47:05 -0700 chiachai.local (3793)] INFO : Installing ActiveRecord 4 instrumentation
+[06/12/14 20:47:05 -0700 chiachai.local (3793)] INFO : Installing Net instrumentation
+[06/12/14 20:47:05 -0700 chiachai.local (3793)] INFO : Installing Sinatra instrumentation
+[06/12/14 20:47:05 -0700 chiachai.local (3793)] INFO : Installing deferred Rack instrumentation
+[06/12/14 20:47:05 -0700 chiachai.local (3793)] INFO : Finished instrumentation
+[06/12/14 20:47:06 -0700 chiachai.local (3793)] INFO : Doing deferred dependency-detection before Rack startup
+[06/13/14 00:54:55 -0700 chiachai.local (7228)] INFO : Starting the New Relic agent in "development" environment.
+[06/13/14 00:54:55 -0700 chiachai.local (7228)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/13/14 00:54:55 -0700 chiachai.local (7228)] INFO : Reading configuration from config/newrelic.yml
+[06/13/14 00:54:55 -0700 chiachai.local (7228)] ERROR : Failed to read or parse configuration file at config/newrelic.yml: uninitialized constant NewRelic::Agent::Configuration::YamlSource::NEW_RELIC_LICENSE_KEY
+[06/13/14 00:54:55 -0700 chiachai.local (7228)] INFO : Environment: development
+[06/13/14 00:54:55 -0700 chiachai.local (7228)] INFO : Dispatcher: thin
+[06/13/14 00:54:55 -0700 chiachai.local (7228)] INFO : Application: development
+[06/13/14 00:54:55 -0700 chiachai.local (7228)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[06/13/14 00:54:55 -0700 chiachai.local (7228)] INFO : Installing ActiveRecord 4 instrumentation
+[06/13/14 00:54:55 -0700 chiachai.local (7228)] INFO : Installing Net instrumentation
+[06/13/14 00:54:55 -0700 chiachai.local (7228)] INFO : Installing Sinatra instrumentation
+[06/13/14 00:54:55 -0700 chiachai.local (7228)] INFO : Installing deferred Rack instrumentation
+[06/13/14 00:54:55 -0700 chiachai.local (7228)] INFO : Finished instrumentation
+[06/13/14 00:54:56 -0700 chiachai.local (7228)] INFO : Doing deferred dependency-detection before Rack startup
+[06/13/14 00:56:38 -0700 chiachai.local (7313)] INFO : Starting the New Relic agent in "development" environment.
+[06/13/14 00:56:38 -0700 chiachai.local (7313)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/13/14 00:56:38 -0700 chiachai.local (7313)] INFO : Reading configuration from config/newrelic.yml
+[06/13/14 00:56:38 -0700 chiachai.local (7313)] ERROR : Failed to read or parse configuration file at config/newrelic.yml: uninitialized constant NewRelic::Agent::Configuration::YamlSource::NEW_RELIC_LICENSE_KEY
+[06/13/14 00:56:38 -0700 chiachai.local (7313)] INFO : Environment: development
+[06/13/14 00:56:38 -0700 chiachai.local (7313)] INFO : Dispatcher: thin
+[06/13/14 00:56:38 -0700 chiachai.local (7313)] INFO : Application: development
+[06/13/14 00:56:38 -0700 chiachai.local (7313)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[06/13/14 00:56:38 -0700 chiachai.local (7313)] INFO : Installing ActiveRecord 4 instrumentation
+[06/13/14 00:56:38 -0700 chiachai.local (7313)] INFO : Installing Net instrumentation
+[06/13/14 00:56:38 -0700 chiachai.local (7313)] INFO : Installing Sinatra instrumentation
+[06/13/14 00:56:38 -0700 chiachai.local (7313)] INFO : Installing deferred Rack instrumentation
+[06/13/14 00:56:38 -0700 chiachai.local (7313)] INFO : Finished instrumentation
+[06/13/14 00:56:39 -0700 chiachai.local (7313)] INFO : Doing deferred dependency-detection before Rack startup
+[06/13/14 00:56:48 -0700 chiachai.local (7334)] INFO : Starting the New Relic agent in "development" environment.
+[06/13/14 00:56:48 -0700 chiachai.local (7334)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/13/14 00:56:48 -0700 chiachai.local (7334)] INFO : Reading configuration from config/newrelic.yml
+[06/13/14 00:56:48 -0700 chiachai.local (7334)] ERROR : Failed to read or parse configuration file at config/newrelic.yml: uninitialized constant NewRelic::Agent::Configuration::YamlSource::NEW_RELIC_LICENSE_KEY
+[06/13/14 00:56:48 -0700 chiachai.local (7334)] INFO : Environment: development
+[06/13/14 00:56:48 -0700 chiachai.local (7334)] INFO : Dispatcher: thin
+[06/13/14 00:56:48 -0700 chiachai.local (7334)] INFO : Application: development
+[06/13/14 00:56:48 -0700 chiachai.local (7334)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[06/13/14 00:56:48 -0700 chiachai.local (7334)] INFO : Installing ActiveRecord 4 instrumentation
+[06/13/14 00:56:48 -0700 chiachai.local (7334)] INFO : Installing Net instrumentation
+[06/13/14 00:56:48 -0700 chiachai.local (7334)] INFO : Installing Sinatra instrumentation
+[06/13/14 00:56:48 -0700 chiachai.local (7334)] INFO : Installing deferred Rack instrumentation
+[06/13/14 00:56:48 -0700 chiachai.local (7334)] INFO : Finished instrumentation
+[06/13/14 00:56:49 -0700 chiachai.local (7334)] INFO : Doing deferred dependency-detection before Rack startup
+[06/13/14 00:57:36 -0700 chiachai.local (7355)] INFO : Starting the New Relic agent in "development" environment.
+[06/13/14 00:57:36 -0700 chiachai.local (7355)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/13/14 00:57:36 -0700 chiachai.local (7355)] INFO : Reading configuration from config/newrelic.yml
+[06/13/14 00:57:36 -0700 chiachai.local (7355)] ERROR : Failed to read or parse configuration file at config/newrelic.yml: uninitialized constant NewRelic::Agent::Configuration::YamlSource::NEW_RELIC_LICENSE_KEY
+[06/13/14 00:57:36 -0700 chiachai.local (7355)] INFO : Environment: development
+[06/13/14 00:57:36 -0700 chiachai.local (7355)] INFO : No known dispatcher detected.
+[06/13/14 00:57:36 -0700 chiachai.local (7355)] INFO : Application: development
+[06/13/14 00:57:36 -0700 chiachai.local (7355)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[06/13/14 00:57:36 -0700 chiachai.local (7355)] INFO : Installing ActiveRecord 4 instrumentation
+[06/13/14 00:57:36 -0700 chiachai.local (7355)] INFO : Installing Net instrumentation
+[06/13/14 00:57:36 -0700 chiachai.local (7355)] INFO : Installing Sinatra instrumentation
+[06/13/14 00:57:36 -0700 chiachai.local (7355)] INFO : Installing deferred Rack instrumentation
+[06/13/14 00:57:36 -0700 chiachai.local (7355)] INFO : Finished instrumentation
+[06/13/14 00:57:39 -0700 chiachai.local (7400)] INFO : Starting the New Relic agent in "development" environment.
+[06/13/14 00:57:39 -0700 chiachai.local (7400)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/13/14 00:57:39 -0700 chiachai.local (7400)] INFO : Reading configuration from config/newrelic.yml
+[06/13/14 00:57:39 -0700 chiachai.local (7400)] ERROR : Failed to read or parse configuration file at config/newrelic.yml: uninitialized constant NewRelic::Agent::Configuration::YamlSource::NEW_RELIC_LICENSE_KEY
+[06/13/14 00:57:39 -0700 chiachai.local (7400)] INFO : Environment: development
+[06/13/14 00:57:39 -0700 chiachai.local (7400)] INFO : Dispatcher: thin
+[06/13/14 00:57:39 -0700 chiachai.local (7400)] INFO : Application: development
+[06/13/14 00:57:39 -0700 chiachai.local (7400)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[06/13/14 00:57:39 -0700 chiachai.local (7400)] INFO : Installing ActiveRecord 4 instrumentation
+[06/13/14 00:57:39 -0700 chiachai.local (7400)] INFO : Installing Net instrumentation
+[06/13/14 00:57:39 -0700 chiachai.local (7400)] INFO : Installing Sinatra instrumentation
+[06/13/14 00:57:39 -0700 chiachai.local (7400)] INFO : Installing deferred Rack instrumentation
+[06/13/14 00:57:39 -0700 chiachai.local (7400)] INFO : Finished instrumentation
+[06/13/14 00:57:40 -0700 chiachai.local (7400)] INFO : Doing deferred dependency-detection before Rack startup
+[06/13/14 00:57:40 -0700 chiachai.local (7404)] INFO : Starting the New Relic agent in "development" environment.
+[06/13/14 00:57:40 -0700 chiachai.local (7404)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/13/14 00:57:40 -0700 chiachai.local (7404)] INFO : Reading configuration from config/newrelic.yml
+[06/13/14 00:57:40 -0700 chiachai.local (7404)] ERROR : Failed to read or parse configuration file at config/newrelic.yml: uninitialized constant NewRelic::Agent::Configuration::YamlSource::NEW_RELIC_LICENSE_KEY
+[06/13/14 00:57:40 -0700 chiachai.local (7404)] INFO : Environment: development
+[06/13/14 00:57:40 -0700 chiachai.local (7404)] INFO : Dispatcher: thin
+[06/13/14 00:57:40 -0700 chiachai.local (7404)] INFO : Application: development
+[06/13/14 00:57:40 -0700 chiachai.local (7404)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[06/13/14 00:57:40 -0700 chiachai.local (7404)] INFO : Installing ActiveRecord 4 instrumentation
+[06/13/14 00:57:40 -0700 chiachai.local (7404)] INFO : Installing Net instrumentation
+[06/13/14 00:57:40 -0700 chiachai.local (7404)] INFO : Installing Sinatra instrumentation
+[06/13/14 00:57:40 -0700 chiachai.local (7404)] INFO : Installing deferred Rack instrumentation
+[06/13/14 00:57:40 -0700 chiachai.local (7404)] INFO : Finished instrumentation
+[06/13/14 00:57:41 -0700 chiachai.local (7404)] INFO : Doing deferred dependency-detection before Rack startup
+[06/13/14 00:59:03 -0700 chiachai.local (7446)] INFO : Starting the New Relic agent in "development" environment.
+[06/13/14 00:59:03 -0700 chiachai.local (7446)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/13/14 00:59:03 -0700 chiachai.local (7446)] INFO : Reading configuration from config/newrelic.yml
+[06/13/14 00:59:03 -0700 chiachai.local (7446)] ERROR : Failed to read or parse configuration file at config/newrelic.yml: uninitialized constant NewRelic::Agent::Configuration::YamlSource::NEW_RELIC_LICENSE_KEY
+[06/13/14 00:59:03 -0700 chiachai.local (7446)] INFO : Environment: development
+[06/13/14 00:59:03 -0700 chiachai.local (7446)] INFO : Dispatcher: thin
+[06/13/14 00:59:03 -0700 chiachai.local (7446)] INFO : Application: development
+[06/13/14 00:59:03 -0700 chiachai.local (7446)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[06/13/14 00:59:03 -0700 chiachai.local (7446)] INFO : Installing ActiveRecord 4 instrumentation
+[06/13/14 00:59:03 -0700 chiachai.local (7446)] INFO : Installing Net instrumentation
+[06/13/14 00:59:03 -0700 chiachai.local (7446)] INFO : Installing Sinatra instrumentation
+[06/13/14 00:59:03 -0700 chiachai.local (7446)] INFO : Installing deferred Rack instrumentation
+[06/13/14 00:59:03 -0700 chiachai.local (7446)] INFO : Finished instrumentation
+[06/13/14 00:59:04 -0700 chiachai.local (7446)] INFO : Doing deferred dependency-detection before Rack startup
+[06/13/14 00:59:11 -0700 chiachai.local (7456)] INFO : Starting the New Relic agent in "development" environment.
+[06/13/14 00:59:11 -0700 chiachai.local (7456)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/13/14 00:59:11 -0700 chiachai.local (7456)] INFO : Reading configuration from config/newrelic.yml
+[06/13/14 00:59:11 -0700 chiachai.local (7456)] ERROR : Failed to read or parse configuration file at config/newrelic.yml: uninitialized constant NewRelic::Agent::Configuration::YamlSource::NEW_RELIC_LICENSE_KEY
+[06/13/14 00:59:11 -0700 chiachai.local (7456)] INFO : Environment: development
+[06/13/14 00:59:11 -0700 chiachai.local (7456)] INFO : No known dispatcher detected.
+[06/13/14 00:59:11 -0700 chiachai.local (7456)] INFO : Application: development
+[06/13/14 00:59:11 -0700 chiachai.local (7456)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[06/13/14 00:59:11 -0700 chiachai.local (7456)] INFO : Installing ActiveRecord 4 instrumentation
+[06/13/14 00:59:11 -0700 chiachai.local (7456)] INFO : Installing Net instrumentation
+[06/13/14 00:59:11 -0700 chiachai.local (7456)] INFO : Installing Sinatra instrumentation
+[06/13/14 00:59:11 -0700 chiachai.local (7456)] INFO : Installing deferred Rack instrumentation
+[06/13/14 00:59:11 -0700 chiachai.local (7456)] INFO : Finished instrumentation
+[06/13/14 00:59:14 -0700 chiachai.local (7501)] INFO : Starting the New Relic agent in "development" environment.
+[06/13/14 00:59:14 -0700 chiachai.local (7501)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/13/14 00:59:14 -0700 chiachai.local (7501)] INFO : Reading configuration from config/newrelic.yml
+[06/13/14 00:59:14 -0700 chiachai.local (7501)] ERROR : Failed to read or parse configuration file at config/newrelic.yml: uninitialized constant NewRelic::Agent::Configuration::YamlSource::NEW_RELIC_LICENSE_KEY
+[06/13/14 00:59:14 -0700 chiachai.local (7501)] INFO : Environment: development
+[06/13/14 00:59:14 -0700 chiachai.local (7501)] INFO : Dispatcher: thin
+[06/13/14 00:59:14 -0700 chiachai.local (7501)] INFO : Application: development
+[06/13/14 00:59:14 -0700 chiachai.local (7501)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[06/13/14 00:59:14 -0700 chiachai.local (7501)] INFO : Installing ActiveRecord 4 instrumentation
+[06/13/14 00:59:14 -0700 chiachai.local (7501)] INFO : Installing Net instrumentation
+[06/13/14 00:59:14 -0700 chiachai.local (7501)] INFO : Installing Sinatra instrumentation
+[06/13/14 00:59:14 -0700 chiachai.local (7501)] INFO : Installing deferred Rack instrumentation
+[06/13/14 00:59:14 -0700 chiachai.local (7501)] INFO : Finished instrumentation
+[06/13/14 00:59:15 -0700 chiachai.local (7501)] INFO : Doing deferred dependency-detection before Rack startup
+[06/13/14 01:01:55 -0700 chiachai.local (7604)] INFO : Starting the New Relic agent in "development" environment.
+[06/13/14 01:01:55 -0700 chiachai.local (7604)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/13/14 01:01:55 -0700 chiachai.local (7604)] INFO : Reading configuration from config/newrelic.yml
+[06/13/14 01:01:55 -0700 chiachai.local (7604)] ERROR : Failed to read or parse configuration file at config/newrelic.yml: uninitialized constant NewRelic::Agent::Configuration::YamlSource::NEW_RELIC_LICENSE_KEY
+[06/13/14 01:01:55 -0700 chiachai.local (7604)] INFO : Environment: development
+[06/13/14 01:01:55 -0700 chiachai.local (7604)] INFO : No known dispatcher detected.
+[06/13/14 01:01:55 -0700 chiachai.local (7604)] INFO : Application: development
+[06/13/14 01:01:55 -0700 chiachai.local (7604)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[06/13/14 01:01:55 -0700 chiachai.local (7604)] INFO : Installing ActiveRecord 4 instrumentation
+[06/13/14 01:01:55 -0700 chiachai.local (7604)] INFO : Installing Net instrumentation
+[06/13/14 01:01:55 -0700 chiachai.local (7604)] INFO : Installing Sinatra instrumentation
+[06/13/14 01:01:55 -0700 chiachai.local (7604)] INFO : Installing deferred Rack instrumentation
+[06/13/14 01:01:55 -0700 chiachai.local (7604)] INFO : Finished instrumentation
+[06/13/14 01:02:02 -0700 chiachai.local (7649)] INFO : Starting the New Relic agent in "development" environment.
+[06/13/14 01:02:02 -0700 chiachai.local (7649)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/13/14 01:02:02 -0700 chiachai.local (7649)] INFO : Reading configuration from config/newrelic.yml
+[06/13/14 01:02:02 -0700 chiachai.local (7649)] ERROR : Failed to read or parse configuration file at config/newrelic.yml: uninitialized constant NewRelic::Agent::Configuration::YamlSource::NEW_RELIC_LICENSE_KEY
+[06/13/14 01:02:02 -0700 chiachai.local (7649)] INFO : Environment: development
+[06/13/14 01:02:02 -0700 chiachai.local (7649)] INFO : Dispatcher: thin
+[06/13/14 01:02:02 -0700 chiachai.local (7649)] INFO : Application: development
+[06/13/14 01:02:02 -0700 chiachai.local (7649)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[06/13/14 01:02:02 -0700 chiachai.local (7649)] INFO : Installing ActiveRecord 4 instrumentation
+[06/13/14 01:02:02 -0700 chiachai.local (7649)] INFO : Installing Net instrumentation
+[06/13/14 01:02:02 -0700 chiachai.local (7649)] INFO : Installing Sinatra instrumentation
+[06/13/14 01:02:02 -0700 chiachai.local (7649)] INFO : Installing deferred Rack instrumentation
+[06/13/14 01:02:02 -0700 chiachai.local (7649)] INFO : Finished instrumentation
+[06/13/14 01:02:03 -0700 chiachai.local (7649)] INFO : Doing deferred dependency-detection before Rack startup
+[06/13/14 01:02:03 -0700 chiachai.local (7653)] INFO : Starting the New Relic agent in "development" environment.
+[06/13/14 01:02:03 -0700 chiachai.local (7653)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/13/14 01:02:03 -0700 chiachai.local (7653)] INFO : Reading configuration from config/newrelic.yml
+[06/13/14 01:02:03 -0700 chiachai.local (7653)] ERROR : Failed to read or parse configuration file at config/newrelic.yml: uninitialized constant NewRelic::Agent::Configuration::YamlSource::NEW_RELIC_LICENSE_KEY
+[06/13/14 01:02:03 -0700 chiachai.local (7653)] INFO : Environment: development
+[06/13/14 01:02:03 -0700 chiachai.local (7653)] INFO : Dispatcher: thin
+[06/13/14 01:02:03 -0700 chiachai.local (7653)] INFO : Application: development
+[06/13/14 01:02:03 -0700 chiachai.local (7653)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[06/13/14 01:02:03 -0700 chiachai.local (7653)] INFO : Installing ActiveRecord 4 instrumentation
+[06/13/14 01:02:03 -0700 chiachai.local (7653)] INFO : Installing Net instrumentation
+[06/13/14 01:02:03 -0700 chiachai.local (7653)] INFO : Installing Sinatra instrumentation
+[06/13/14 01:02:03 -0700 chiachai.local (7653)] INFO : Installing deferred Rack instrumentation
+[06/13/14 01:02:03 -0700 chiachai.local (7653)] INFO : Finished instrumentation
+[06/13/14 01:02:04 -0700 chiachai.local (7653)] INFO : Doing deferred dependency-detection before Rack startup
+[06/13/14 01:05:32 -0700 chiachai.local (7739)] INFO : Starting the New Relic agent in "development" environment.
+[06/13/14 01:05:32 -0700 chiachai.local (7739)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/13/14 01:05:32 -0700 chiachai.local (7739)] INFO : Reading configuration from config/newrelic.yml
+[06/13/14 01:05:32 -0700 chiachai.local (7739)] ERROR : Failed to read or parse configuration file at config/newrelic.yml: uninitialized constant NewRelic::Agent::Configuration::YamlSource::NEW_RELIC_LICENSE_KEY
+[06/13/14 01:05:32 -0700 chiachai.local (7739)] INFO : Environment: development
+[06/13/14 01:05:32 -0700 chiachai.local (7739)] INFO : No known dispatcher detected.
+[06/13/14 01:05:32 -0700 chiachai.local (7739)] INFO : Application: development
+[06/13/14 01:05:32 -0700 chiachai.local (7739)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[06/13/14 01:05:32 -0700 chiachai.local (7739)] INFO : Installing ActiveRecord 4 instrumentation
+[06/13/14 01:05:32 -0700 chiachai.local (7739)] INFO : Installing Net instrumentation
+[06/13/14 01:05:32 -0700 chiachai.local (7739)] INFO : Installing Sinatra instrumentation
+[06/13/14 01:05:32 -0700 chiachai.local (7739)] INFO : Installing deferred Rack instrumentation
+[06/13/14 01:05:32 -0700 chiachai.local (7739)] INFO : Finished instrumentation
+[06/13/14 01:05:57 -0700 chiachai.local (7792)] INFO : Starting the New Relic agent in "development" environment.
+[06/13/14 01:05:57 -0700 chiachai.local (7792)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/13/14 01:05:57 -0700 chiachai.local (7792)] INFO : Reading configuration from config/newrelic.yml
+[06/13/14 01:05:57 -0700 chiachai.local (7792)] ERROR : Failed to read or parse configuration file at config/newrelic.yml: uninitialized constant NewRelic::Agent::Configuration::YamlSource::NEW_RELIC_LICENSE_KEY
+[06/13/14 01:05:57 -0700 chiachai.local (7792)] INFO : Environment: development
+[06/13/14 01:05:57 -0700 chiachai.local (7792)] INFO : No known dispatcher detected.
+[06/13/14 01:05:57 -0700 chiachai.local (7792)] INFO : Application: development
+[06/13/14 01:05:57 -0700 chiachai.local (7792)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[06/13/14 01:05:57 -0700 chiachai.local (7792)] INFO : Installing ActiveRecord 4 instrumentation
+[06/13/14 01:05:57 -0700 chiachai.local (7792)] INFO : Installing Net instrumentation
+[06/13/14 01:05:57 -0700 chiachai.local (7792)] INFO : Installing Sinatra instrumentation
+[06/13/14 01:05:57 -0700 chiachai.local (7792)] INFO : Installing deferred Rack instrumentation
+[06/13/14 01:05:57 -0700 chiachai.local (7792)] INFO : Finished instrumentation
+[06/13/14 01:06:20 -0700 chiachai.local (7843)] INFO : Starting the New Relic agent in "development" environment.
+[06/13/14 01:06:20 -0700 chiachai.local (7843)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/13/14 01:06:20 -0700 chiachai.local (7843)] INFO : Reading configuration from config/newrelic.yml
+[06/13/14 01:06:20 -0700 chiachai.local (7843)] ERROR : Failed to read or parse configuration file at config/newrelic.yml: uninitialized constant NewRelic::Agent::Configuration::YamlSource::NEW_RELIC_LICENSE_KEY
+[06/13/14 01:06:20 -0700 chiachai.local (7843)] INFO : Environment: development
+[06/13/14 01:06:20 -0700 chiachai.local (7843)] INFO : No known dispatcher detected.
+[06/13/14 01:06:20 -0700 chiachai.local (7843)] INFO : Application: development
+[06/13/14 01:06:20 -0700 chiachai.local (7843)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[06/13/14 01:06:20 -0700 chiachai.local (7843)] INFO : Installing ActiveRecord 4 instrumentation
+[06/13/14 01:06:20 -0700 chiachai.local (7843)] INFO : Installing Net instrumentation
+[06/13/14 01:06:20 -0700 chiachai.local (7843)] INFO : Installing Sinatra instrumentation
+[06/13/14 01:06:20 -0700 chiachai.local (7843)] INFO : Installing deferred Rack instrumentation
+[06/13/14 01:06:20 -0700 chiachai.local (7843)] INFO : Finished instrumentation
+[06/13/14 01:06:25 -0700 chiachai.local (7882)] INFO : Starting the New Relic agent in "development" environment.
+[06/13/14 01:06:25 -0700 chiachai.local (7882)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/13/14 01:06:25 -0700 chiachai.local (7882)] INFO : Reading configuration from config/newrelic.yml
+[06/13/14 01:06:25 -0700 chiachai.local (7882)] ERROR : Failed to read or parse configuration file at config/newrelic.yml: uninitialized constant NewRelic::Agent::Configuration::YamlSource::NEW_RELIC_LICENSE_KEY
+[06/13/14 01:06:25 -0700 chiachai.local (7882)] INFO : Environment: development
+[06/13/14 01:06:25 -0700 chiachai.local (7882)] INFO : Dispatcher: thin
+[06/13/14 01:06:25 -0700 chiachai.local (7882)] INFO : Application: development
+[06/13/14 01:06:25 -0700 chiachai.local (7882)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[06/13/14 01:06:25 -0700 chiachai.local (7882)] INFO : Installing ActiveRecord 4 instrumentation
+[06/13/14 01:06:25 -0700 chiachai.local (7882)] INFO : Installing Net instrumentation
+[06/13/14 01:06:25 -0700 chiachai.local (7882)] INFO : Installing Sinatra instrumentation
+[06/13/14 01:06:25 -0700 chiachai.local (7882)] INFO : Installing deferred Rack instrumentation
+[06/13/14 01:06:25 -0700 chiachai.local (7882)] INFO : Finished instrumentation
+[06/13/14 01:06:25 -0700 chiachai.local (7882)] INFO : Doing deferred dependency-detection before Rack startup
+[06/13/14 01:07:36 -0700 chiachai.local (7918)] INFO : Starting the New Relic agent in "development" environment.
+[06/13/14 01:07:36 -0700 chiachai.local (7918)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/13/14 01:07:36 -0700 chiachai.local (7918)] INFO : Reading configuration from config/newrelic.yml
+[06/13/14 01:07:36 -0700 chiachai.local (7918)] ERROR : Failed to read or parse configuration file at config/newrelic.yml: uninitialized constant NewRelic::Agent::Configuration::YamlSource::NEW_RELIC_LICENSE_KEY
+[06/13/14 01:07:36 -0700 chiachai.local (7918)] INFO : Environment: development
+[06/13/14 01:07:36 -0700 chiachai.local (7918)] INFO : No known dispatcher detected.
+[06/13/14 01:07:36 -0700 chiachai.local (7918)] INFO : Application: development
+[06/13/14 01:07:36 -0700 chiachai.local (7918)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[06/13/14 01:07:36 -0700 chiachai.local (7918)] INFO : Installing ActiveRecord 4 instrumentation
+[06/13/14 01:07:36 -0700 chiachai.local (7918)] INFO : Installing Net instrumentation
+[06/13/14 01:07:36 -0700 chiachai.local (7918)] INFO : Installing Sinatra instrumentation
+[06/13/14 01:07:36 -0700 chiachai.local (7918)] INFO : Installing deferred Rack instrumentation
+[06/13/14 01:07:36 -0700 chiachai.local (7918)] INFO : Finished instrumentation
+[06/13/14 01:07:50 -0700 chiachai.local (7964)] INFO : Starting the New Relic agent in "development" environment.
+[06/13/14 01:07:50 -0700 chiachai.local (7964)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/13/14 01:07:50 -0700 chiachai.local (7964)] INFO : Reading configuration from config/newrelic.yml
+[06/13/14 01:07:50 -0700 chiachai.local (7964)] ERROR : Failed to read or parse configuration file at config/newrelic.yml: uninitialized constant NewRelic::Agent::Configuration::YamlSource::NEW_RELIC_LICENSE_KEY
+[06/13/14 01:07:50 -0700 chiachai.local (7964)] INFO : Environment: development
+[06/13/14 01:07:50 -0700 chiachai.local (7964)] INFO : Dispatcher: thin
+[06/13/14 01:07:50 -0700 chiachai.local (7964)] INFO : Application: development
+[06/13/14 01:07:50 -0700 chiachai.local (7964)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[06/13/14 01:07:50 -0700 chiachai.local (7964)] INFO : Installing ActiveRecord 4 instrumentation
+[06/13/14 01:07:50 -0700 chiachai.local (7964)] INFO : Installing Net instrumentation
+[06/13/14 01:07:50 -0700 chiachai.local (7964)] INFO : Installing Sinatra instrumentation
+[06/13/14 01:07:50 -0700 chiachai.local (7964)] INFO : Installing deferred Rack instrumentation
+[06/13/14 01:07:50 -0700 chiachai.local (7964)] INFO : Finished instrumentation
+[06/13/14 01:07:50 -0700 chiachai.local (7964)] INFO : Doing deferred dependency-detection before Rack startup
+[06/13/14 01:12:05 -0700 chiachai.local (8061)] INFO : Starting the New Relic agent in "development" environment.
+[06/13/14 01:12:05 -0700 chiachai.local (8061)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/13/14 01:12:05 -0700 chiachai.local (8061)] INFO : Reading configuration from config/newrelic.yml
+[06/13/14 01:12:05 -0700 chiachai.local (8061)] ERROR : Failed to read or parse configuration file at config/newrelic.yml: uninitialized constant NewRelic::Agent::Configuration::YamlSource::NEW_RELIC_LICENSE_KEY
+[06/13/14 01:12:05 -0700 chiachai.local (8061)] INFO : Environment: development
+[06/13/14 01:12:05 -0700 chiachai.local (8061)] INFO : No known dispatcher detected.
+[06/13/14 01:12:05 -0700 chiachai.local (8061)] INFO : Application: development
+[06/13/14 01:12:05 -0700 chiachai.local (8061)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[06/13/14 01:12:05 -0700 chiachai.local (8061)] INFO : Installing ActiveRecord 4 instrumentation
+[06/13/14 01:12:05 -0700 chiachai.local (8061)] INFO : Installing Net instrumentation
+[06/13/14 01:12:05 -0700 chiachai.local (8061)] INFO : Installing Sinatra instrumentation
+[06/13/14 01:12:05 -0700 chiachai.local (8061)] INFO : Installing deferred Rack instrumentation
+[06/13/14 01:12:05 -0700 chiachai.local (8061)] INFO : Finished instrumentation
+[06/13/14 01:12:08 -0700 chiachai.local (8100)] INFO : Starting the New Relic agent in "development" environment.
+[06/13/14 01:12:08 -0700 chiachai.local (8100)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/13/14 01:12:08 -0700 chiachai.local (8100)] INFO : Reading configuration from config/newrelic.yml
+[06/13/14 01:12:08 -0700 chiachai.local (8100)] ERROR : Failed to read or parse configuration file at config/newrelic.yml: uninitialized constant NewRelic::Agent::Configuration::YamlSource::NEW_RELIC_LICENSE_KEY
+[06/13/14 01:12:08 -0700 chiachai.local (8100)] INFO : Environment: development
+[06/13/14 01:12:08 -0700 chiachai.local (8100)] INFO : Dispatcher: thin
+[06/13/14 01:12:08 -0700 chiachai.local (8100)] INFO : Application: development
+[06/13/14 01:12:08 -0700 chiachai.local (8100)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[06/13/14 01:12:08 -0700 chiachai.local (8100)] INFO : Installing ActiveRecord 4 instrumentation
+[06/13/14 01:12:08 -0700 chiachai.local (8100)] INFO : Installing Net instrumentation
+[06/13/14 01:12:08 -0700 chiachai.local (8100)] INFO : Installing Sinatra instrumentation
+[06/13/14 01:12:08 -0700 chiachai.local (8100)] INFO : Installing deferred Rack instrumentation
+[06/13/14 01:12:08 -0700 chiachai.local (8100)] INFO : Finished instrumentation
+[06/13/14 01:12:08 -0700 chiachai.local (8100)] INFO : Doing deferred dependency-detection before Rack startup
+[06/13/14 01:13:50 -0700 chiachai.local (8152)] INFO : Starting the New Relic agent in "development" environment.
+[06/13/14 01:13:50 -0700 chiachai.local (8152)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/13/14 01:13:50 -0700 chiachai.local (8152)] INFO : Reading configuration from config/newrelic.yml
+[06/13/14 01:13:50 -0700 chiachai.local (8152)] ERROR : Failed to read or parse configuration file at config/newrelic.yml: uninitialized constant NewRelic::Agent::Configuration::YamlSource::NEW_RELIC_LICENSE_KEY
+[06/13/14 01:13:50 -0700 chiachai.local (8152)] INFO : Environment: development
+[06/13/14 01:13:50 -0700 chiachai.local (8152)] INFO : No known dispatcher detected.
+[06/13/14 01:13:50 -0700 chiachai.local (8152)] INFO : Application: development
+[06/13/14 01:13:50 -0700 chiachai.local (8152)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[06/13/14 01:13:50 -0700 chiachai.local (8152)] INFO : Installing ActiveRecord 4 instrumentation
+[06/13/14 01:13:50 -0700 chiachai.local (8152)] INFO : Installing Net instrumentation
+[06/13/14 01:13:50 -0700 chiachai.local (8152)] INFO : Installing Sinatra instrumentation
+[06/13/14 01:13:50 -0700 chiachai.local (8152)] INFO : Installing deferred Rack instrumentation
+[06/13/14 01:13:50 -0700 chiachai.local (8152)] INFO : Finished instrumentation
+[06/13/14 01:13:55 -0700 chiachai.local (8197)] INFO : Starting the New Relic agent in "development" environment.
+[06/13/14 01:13:55 -0700 chiachai.local (8197)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/13/14 01:13:55 -0700 chiachai.local (8197)] INFO : Reading configuration from config/newrelic.yml
+[06/13/14 01:13:55 -0700 chiachai.local (8197)] ERROR : Failed to read or parse configuration file at config/newrelic.yml: uninitialized constant NewRelic::Agent::Configuration::YamlSource::NEW_RELIC_LICENSE_KEY
+[06/13/14 01:13:55 -0700 chiachai.local (8197)] INFO : Environment: development
+[06/13/14 01:13:55 -0700 chiachai.local (8197)] INFO : Dispatcher: thin
+[06/13/14 01:13:55 -0700 chiachai.local (8197)] INFO : Application: development
+[06/13/14 01:13:55 -0700 chiachai.local (8197)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[06/13/14 01:13:55 -0700 chiachai.local (8197)] INFO : Installing ActiveRecord 4 instrumentation
+[06/13/14 01:13:55 -0700 chiachai.local (8197)] INFO : Installing Net instrumentation
+[06/13/14 01:13:55 -0700 chiachai.local (8197)] INFO : Installing Sinatra instrumentation
+[06/13/14 01:13:55 -0700 chiachai.local (8197)] INFO : Installing deferred Rack instrumentation
+[06/13/14 01:13:55 -0700 chiachai.local (8197)] INFO : Finished instrumentation
+[06/13/14 01:13:56 -0700 chiachai.local (8197)] INFO : Doing deferred dependency-detection before Rack startup
+[06/13/14 01:14:04 -0700 chiachai.local (8215)] INFO : Starting the New Relic agent in "development" environment.
+[06/13/14 01:14:04 -0700 chiachai.local (8215)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/13/14 01:14:04 -0700 chiachai.local (8215)] INFO : Reading configuration from config/newrelic.yml
+[06/13/14 01:14:04 -0700 chiachai.local (8215)] ERROR : Failed to read or parse configuration file at config/newrelic.yml: uninitialized constant NewRelic::Agent::Configuration::YamlSource::NEW_RELIC_LICENSE_KEY
+[06/13/14 01:14:04 -0700 chiachai.local (8215)] INFO : Environment: development
+[06/13/14 01:14:04 -0700 chiachai.local (8215)] INFO : No known dispatcher detected.
+[06/13/14 01:14:04 -0700 chiachai.local (8215)] INFO : Application: development
+[06/13/14 01:14:04 -0700 chiachai.local (8215)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[06/13/14 01:14:04 -0700 chiachai.local (8215)] INFO : Installing ActiveRecord 4 instrumentation
+[06/13/14 01:14:04 -0700 chiachai.local (8215)] INFO : Installing Net instrumentation
+[06/13/14 01:14:04 -0700 chiachai.local (8215)] INFO : Installing Sinatra instrumentation
+[06/13/14 01:14:04 -0700 chiachai.local (8215)] INFO : Installing deferred Rack instrumentation
+[06/13/14 01:14:04 -0700 chiachai.local (8215)] INFO : Finished instrumentation
+[06/13/14 01:14:08 -0700 chiachai.local (8255)] INFO : Starting the New Relic agent in "development" environment.
+[06/13/14 01:14:08 -0700 chiachai.local (8255)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/13/14 01:14:08 -0700 chiachai.local (8255)] INFO : Reading configuration from config/newrelic.yml
+[06/13/14 01:14:08 -0700 chiachai.local (8255)] ERROR : Failed to read or parse configuration file at config/newrelic.yml: uninitialized constant NewRelic::Agent::Configuration::YamlSource::NEW_RELIC_LICENSE_KEY
+[06/13/14 01:14:08 -0700 chiachai.local (8255)] INFO : Environment: development
+[06/13/14 01:14:08 -0700 chiachai.local (8255)] INFO : Dispatcher: thin
+[06/13/14 01:14:08 -0700 chiachai.local (8255)] INFO : Application: development
+[06/13/14 01:14:08 -0700 chiachai.local (8255)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[06/13/14 01:14:08 -0700 chiachai.local (8255)] INFO : Installing ActiveRecord 4 instrumentation
+[06/13/14 01:14:08 -0700 chiachai.local (8255)] INFO : Installing Net instrumentation
+[06/13/14 01:14:08 -0700 chiachai.local (8255)] INFO : Installing Sinatra instrumentation
+[06/13/14 01:14:08 -0700 chiachai.local (8255)] INFO : Installing deferred Rack instrumentation
+[06/13/14 01:14:08 -0700 chiachai.local (8255)] INFO : Finished instrumentation
+[06/13/14 01:14:09 -0700 chiachai.local (8255)] INFO : Doing deferred dependency-detection before Rack startup
+[06/13/14 01:15:14 -0700 chiachai.local (8318)] INFO : Starting the New Relic agent in "development" environment.
+[06/13/14 01:15:14 -0700 chiachai.local (8318)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/13/14 01:15:14 -0700 chiachai.local (8318)] INFO : Reading configuration from config/newrelic.yml
+[06/13/14 01:15:14 -0700 chiachai.local (8318)] ERROR : Failed to read or parse configuration file at config/newrelic.yml: uninitialized constant NewRelic::Agent::Configuration::YamlSource::NEW_RELIC_LICENSE_KEY
+[06/13/14 01:15:14 -0700 chiachai.local (8318)] INFO : Environment: development
+[06/13/14 01:15:14 -0700 chiachai.local (8318)] INFO : Dispatcher: thin
+[06/13/14 01:15:14 -0700 chiachai.local (8318)] INFO : Application: development
+[06/13/14 01:15:14 -0700 chiachai.local (8318)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[06/13/14 01:15:14 -0700 chiachai.local (8318)] INFO : Installing ActiveRecord 4 instrumentation
+[06/13/14 01:15:14 -0700 chiachai.local (8318)] INFO : Installing Net instrumentation
+[06/13/14 01:15:14 -0700 chiachai.local (8318)] INFO : Installing Sinatra instrumentation
+[06/13/14 01:15:14 -0700 chiachai.local (8318)] INFO : Installing deferred Rack instrumentation
+[06/13/14 01:15:14 -0700 chiachai.local (8318)] INFO : Finished instrumentation
+[06/13/14 01:15:14 -0700 chiachai.local (8318)] INFO : Doing deferred dependency-detection before Rack startup
+[06/13/14 01:15:18 -0700 chiachai.local (8324)] INFO : Starting the New Relic agent in "development" environment.
+[06/13/14 01:15:18 -0700 chiachai.local (8324)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/13/14 01:15:18 -0700 chiachai.local (8324)] INFO : Reading configuration from config/newrelic.yml
+[06/13/14 01:15:18 -0700 chiachai.local (8324)] ERROR : Failed to read or parse configuration file at config/newrelic.yml: uninitialized constant NewRelic::Agent::Configuration::YamlSource::NEW_RELIC_LICENSE_KEY
+[06/13/14 01:15:18 -0700 chiachai.local (8324)] INFO : Environment: development
+[06/13/14 01:15:18 -0700 chiachai.local (8324)] INFO : Dispatcher: thin
+[06/13/14 01:15:18 -0700 chiachai.local (8324)] INFO : Application: development
+[06/13/14 01:15:18 -0700 chiachai.local (8324)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[06/13/14 01:15:18 -0700 chiachai.local (8324)] INFO : Installing ActiveRecord 4 instrumentation
+[06/13/14 01:15:18 -0700 chiachai.local (8324)] INFO : Installing Net instrumentation
+[06/13/14 01:15:18 -0700 chiachai.local (8324)] INFO : Installing Sinatra instrumentation
+[06/13/14 01:15:18 -0700 chiachai.local (8324)] INFO : Installing deferred Rack instrumentation
+[06/13/14 01:15:18 -0700 chiachai.local (8324)] INFO : Finished instrumentation
+[06/13/14 01:15:18 -0700 chiachai.local (8324)] INFO : Doing deferred dependency-detection before Rack startup
+[06/13/14 01:16:41 -0700 chiachai.local (8361)] INFO : Starting the New Relic agent in "development" environment.
+[06/13/14 01:16:41 -0700 chiachai.local (8361)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/13/14 01:16:41 -0700 chiachai.local (8361)] INFO : Reading configuration from config/newrelic.yml
+[06/13/14 01:16:41 -0700 chiachai.local (8361)] ERROR : Failed to read or parse configuration file at config/newrelic.yml: uninitialized constant NewRelic::Agent::Configuration::YamlSource::NEW_RELIC_LICENSE_KEY
+[06/13/14 01:16:41 -0700 chiachai.local (8361)] INFO : Environment: development
+[06/13/14 01:16:41 -0700 chiachai.local (8361)] INFO : Dispatcher: thin
+[06/13/14 01:16:41 -0700 chiachai.local (8361)] INFO : Application: development
+[06/13/14 01:16:41 -0700 chiachai.local (8361)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[06/13/14 01:16:41 -0700 chiachai.local (8361)] INFO : Installing ActiveRecord 4 instrumentation
+[06/13/14 01:16:41 -0700 chiachai.local (8361)] INFO : Installing Net instrumentation
+[06/13/14 01:16:41 -0700 chiachai.local (8361)] INFO : Installing Sinatra instrumentation
+[06/13/14 01:16:41 -0700 chiachai.local (8361)] INFO : Installing deferred Rack instrumentation
+[06/13/14 01:16:41 -0700 chiachai.local (8361)] INFO : Finished instrumentation
+[06/13/14 01:16:41 -0700 chiachai.local (8361)] INFO : Doing deferred dependency-detection before Rack startup
+[06/13/14 01:19:58 -0700 chiachai.local (8511)] INFO : Starting the New Relic agent in "development" environment.
+[06/13/14 01:19:58 -0700 chiachai.local (8511)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/13/14 01:19:58 -0700 chiachai.local (8511)] INFO : Reading configuration from config/newrelic.yml
+[06/13/14 01:19:58 -0700 chiachai.local (8511)] ERROR : Failed to read or parse configuration file at config/newrelic.yml: uninitialized constant NewRelic::Agent::Configuration::YamlSource::NEW_RELIC_LICENSE_KEY
+[06/13/14 01:19:58 -0700 chiachai.local (8511)] INFO : Environment: development
+[06/13/14 01:19:58 -0700 chiachai.local (8511)] INFO : No known dispatcher detected.
+[06/13/14 01:19:58 -0700 chiachai.local (8511)] INFO : Application: development
+[06/13/14 01:19:58 -0700 chiachai.local (8511)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[06/13/14 01:19:58 -0700 chiachai.local (8511)] INFO : Installing ActiveRecord 4 instrumentation
+[06/13/14 01:19:58 -0700 chiachai.local (8511)] INFO : Installing Net instrumentation
+[06/13/14 01:19:58 -0700 chiachai.local (8511)] INFO : Installing Sinatra instrumentation
+[06/13/14 01:19:58 -0700 chiachai.local (8511)] INFO : Installing deferred Rack instrumentation
+[06/13/14 01:19:58 -0700 chiachai.local (8511)] INFO : Finished instrumentation
+[06/13/14 01:20:03 -0700 chiachai.local (8552)] INFO : Starting the New Relic agent in "development" environment.
+[06/13/14 01:20:03 -0700 chiachai.local (8552)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/13/14 01:20:03 -0700 chiachai.local (8552)] INFO : Reading configuration from config/newrelic.yml
+[06/13/14 01:20:03 -0700 chiachai.local (8552)] ERROR : Failed to read or parse configuration file at config/newrelic.yml: uninitialized constant NewRelic::Agent::Configuration::YamlSource::NEW_RELIC_LICENSE_KEY
+[06/13/14 01:20:03 -0700 chiachai.local (8552)] INFO : Environment: development
+[06/13/14 01:20:03 -0700 chiachai.local (8552)] INFO : Dispatcher: thin
+[06/13/14 01:20:03 -0700 chiachai.local (8552)] INFO : Application: development
+[06/13/14 01:20:03 -0700 chiachai.local (8552)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[06/13/14 01:20:03 -0700 chiachai.local (8552)] INFO : Installing ActiveRecord 4 instrumentation
+[06/13/14 01:20:03 -0700 chiachai.local (8552)] INFO : Installing Net instrumentation
+[06/13/14 01:20:03 -0700 chiachai.local (8552)] INFO : Installing Sinatra instrumentation
+[06/13/14 01:20:03 -0700 chiachai.local (8552)] INFO : Installing deferred Rack instrumentation
+[06/13/14 01:20:03 -0700 chiachai.local (8552)] INFO : Finished instrumentation
+[06/13/14 01:20:03 -0700 chiachai.local (8552)] INFO : Doing deferred dependency-detection before Rack startup
+[06/13/14 01:20:04 -0700 chiachai.local (8557)] INFO : Starting the New Relic agent in "development" environment.
+[06/13/14 01:20:04 -0700 chiachai.local (8557)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/13/14 01:20:04 -0700 chiachai.local (8557)] INFO : Reading configuration from config/newrelic.yml
+[06/13/14 01:20:04 -0700 chiachai.local (8557)] ERROR : Failed to read or parse configuration file at config/newrelic.yml: uninitialized constant NewRelic::Agent::Configuration::YamlSource::NEW_RELIC_LICENSE_KEY
+[06/13/14 01:20:04 -0700 chiachai.local (8557)] INFO : Environment: development
+[06/13/14 01:20:04 -0700 chiachai.local (8557)] INFO : Dispatcher: thin
+[06/13/14 01:20:04 -0700 chiachai.local (8557)] INFO : Application: development
+[06/13/14 01:20:04 -0700 chiachai.local (8557)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[06/13/14 01:20:04 -0700 chiachai.local (8557)] INFO : Installing ActiveRecord 4 instrumentation
+[06/13/14 01:20:04 -0700 chiachai.local (8557)] INFO : Installing Net instrumentation
+[06/13/14 01:20:04 -0700 chiachai.local (8557)] INFO : Installing Sinatra instrumentation
+[06/13/14 01:20:04 -0700 chiachai.local (8557)] INFO : Installing deferred Rack instrumentation
+[06/13/14 01:20:04 -0700 chiachai.local (8557)] INFO : Finished instrumentation
+[06/13/14 01:20:04 -0700 chiachai.local (8557)] INFO : Doing deferred dependency-detection before Rack startup
+[06/13/14 01:20:45 -0700 chiachai.local (8589)] INFO : Starting the New Relic agent in "development" environment.
+[06/13/14 01:20:45 -0700 chiachai.local (8589)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/13/14 01:20:45 -0700 chiachai.local (8589)] INFO : Reading configuration from config/newrelic.yml
+[06/13/14 01:20:45 -0700 chiachai.local (8589)] ERROR : Failed to read or parse configuration file at config/newrelic.yml: uninitialized constant NewRelic::Agent::Configuration::YamlSource::NEW_RELIC_LICENSE_KEY
+[06/13/14 01:20:45 -0700 chiachai.local (8589)] INFO : Environment: development
+[06/13/14 01:20:45 -0700 chiachai.local (8589)] INFO : No known dispatcher detected.
+[06/13/14 01:20:45 -0700 chiachai.local (8589)] INFO : Application: development
+[06/13/14 01:20:45 -0700 chiachai.local (8589)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[06/13/14 01:20:45 -0700 chiachai.local (8589)] INFO : Installing ActiveRecord 4 instrumentation
+[06/13/14 01:20:45 -0700 chiachai.local (8589)] INFO : Installing Net instrumentation
+[06/13/14 01:20:45 -0700 chiachai.local (8589)] INFO : Installing Sinatra instrumentation
+[06/13/14 01:20:45 -0700 chiachai.local (8589)] INFO : Installing deferred Rack instrumentation
+[06/13/14 01:20:45 -0700 chiachai.local (8589)] INFO : Finished instrumentation
+[06/13/14 01:20:48 -0700 chiachai.local (8629)] INFO : Starting the New Relic agent in "development" environment.
+[06/13/14 01:20:48 -0700 chiachai.local (8629)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/13/14 01:20:48 -0700 chiachai.local (8629)] INFO : Reading configuration from config/newrelic.yml
+[06/13/14 01:20:48 -0700 chiachai.local (8629)] ERROR : Failed to read or parse configuration file at config/newrelic.yml: uninitialized constant NewRelic::Agent::Configuration::YamlSource::NEW_RELIC_LICENSE_KEY
+[06/13/14 01:20:48 -0700 chiachai.local (8629)] INFO : Environment: development
+[06/13/14 01:20:48 -0700 chiachai.local (8629)] INFO : Dispatcher: thin
+[06/13/14 01:20:48 -0700 chiachai.local (8629)] INFO : Application: development
+[06/13/14 01:20:48 -0700 chiachai.local (8629)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[06/13/14 01:20:48 -0700 chiachai.local (8629)] INFO : Installing ActiveRecord 4 instrumentation
+[06/13/14 01:20:48 -0700 chiachai.local (8629)] INFO : Installing Net instrumentation
+[06/13/14 01:20:48 -0700 chiachai.local (8629)] INFO : Installing Sinatra instrumentation
+[06/13/14 01:20:48 -0700 chiachai.local (8629)] INFO : Installing deferred Rack instrumentation
+[06/13/14 01:20:48 -0700 chiachai.local (8629)] INFO : Finished instrumentation
+[06/13/14 01:20:48 -0700 chiachai.local (8629)] INFO : Doing deferred dependency-detection before Rack startup
+[06/13/14 01:20:50 -0700 chiachai.local (8634)] INFO : Starting the New Relic agent in "development" environment.
+[06/13/14 01:20:50 -0700 chiachai.local (8634)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/13/14 01:20:50 -0700 chiachai.local (8634)] INFO : Reading configuration from config/newrelic.yml
+[06/13/14 01:20:50 -0700 chiachai.local (8634)] ERROR : Failed to read or parse configuration file at config/newrelic.yml: uninitialized constant NewRelic::Agent::Configuration::YamlSource::NEW_RELIC_LICENSE_KEY
+[06/13/14 01:20:50 -0700 chiachai.local (8634)] INFO : Environment: development
+[06/13/14 01:20:50 -0700 chiachai.local (8634)] INFO : Dispatcher: thin
+[06/13/14 01:20:50 -0700 chiachai.local (8634)] INFO : Application: development
+[06/13/14 01:20:50 -0700 chiachai.local (8634)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[06/13/14 01:20:50 -0700 chiachai.local (8634)] INFO : Installing ActiveRecord 4 instrumentation
+[06/13/14 01:20:50 -0700 chiachai.local (8634)] INFO : Installing Net instrumentation
+[06/13/14 01:20:50 -0700 chiachai.local (8634)] INFO : Installing Sinatra instrumentation
+[06/13/14 01:20:50 -0700 chiachai.local (8634)] INFO : Installing deferred Rack instrumentation
+[06/13/14 01:20:50 -0700 chiachai.local (8634)] INFO : Finished instrumentation
+[06/13/14 01:20:50 -0700 chiachai.local (8634)] INFO : Doing deferred dependency-detection before Rack startup
+[06/13/14 01:21:51 -0700 chiachai.local (8681)] INFO : Starting the New Relic agent in "development" environment.
+[06/13/14 01:21:51 -0700 chiachai.local (8681)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/13/14 01:21:51 -0700 chiachai.local (8681)] INFO : Reading configuration from config/newrelic.yml
+[06/13/14 01:21:51 -0700 chiachai.local (8681)] ERROR : Failed to read or parse configuration file at config/newrelic.yml: uninitialized constant NewRelic::Agent::Configuration::YamlSource::NEW_RELIC_LICENSE_KEY
+[06/13/14 01:21:51 -0700 chiachai.local (8681)] INFO : Environment: development
+[06/13/14 01:21:51 -0700 chiachai.local (8681)] INFO : Dispatcher: thin
+[06/13/14 01:21:51 -0700 chiachai.local (8681)] INFO : Application: development
+[06/13/14 01:21:51 -0700 chiachai.local (8681)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[06/13/14 01:21:51 -0700 chiachai.local (8681)] INFO : Installing ActiveRecord 4 instrumentation
+[06/13/14 01:21:51 -0700 chiachai.local (8681)] INFO : Installing Net instrumentation
+[06/13/14 01:21:51 -0700 chiachai.local (8681)] INFO : Installing Sinatra instrumentation
+[06/13/14 01:21:51 -0700 chiachai.local (8681)] INFO : Installing deferred Rack instrumentation
+[06/13/14 01:21:51 -0700 chiachai.local (8681)] INFO : Finished instrumentation
+[06/13/14 01:21:51 -0700 chiachai.local (8681)] INFO : Doing deferred dependency-detection before Rack startup
+[06/13/14 01:21:52 -0700 chiachai.local (8687)] INFO : Starting the New Relic agent in "development" environment.
+[06/13/14 01:21:52 -0700 chiachai.local (8687)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/13/14 01:21:52 -0700 chiachai.local (8687)] INFO : Reading configuration from config/newrelic.yml
+[06/13/14 01:21:52 -0700 chiachai.local (8687)] ERROR : Failed to read or parse configuration file at config/newrelic.yml: uninitialized constant NewRelic::Agent::Configuration::YamlSource::NEW_RELIC_LICENSE_KEY
+[06/13/14 01:21:52 -0700 chiachai.local (8687)] INFO : Environment: development
+[06/13/14 01:21:52 -0700 chiachai.local (8687)] INFO : Dispatcher: thin
+[06/13/14 01:21:52 -0700 chiachai.local (8687)] INFO : Application: development
+[06/13/14 01:21:52 -0700 chiachai.local (8687)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[06/13/14 01:21:52 -0700 chiachai.local (8687)] INFO : Installing ActiveRecord 4 instrumentation
+[06/13/14 01:21:52 -0700 chiachai.local (8687)] INFO : Installing Net instrumentation
+[06/13/14 01:21:52 -0700 chiachai.local (8687)] INFO : Installing Sinatra instrumentation
+[06/13/14 01:21:53 -0700 chiachai.local (8687)] INFO : Installing deferred Rack instrumentation
+[06/13/14 01:21:53 -0700 chiachai.local (8687)] INFO : Finished instrumentation
+[06/13/14 01:21:53 -0700 chiachai.local (8687)] INFO : Doing deferred dependency-detection before Rack startup
+[06/13/14 04:00:00 -0700 chiachai.local (11509)] INFO : Starting the New Relic agent in "development" environment.
+[06/13/14 04:00:00 -0700 chiachai.local (11509)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/13/14 04:00:00 -0700 chiachai.local (11509)] INFO : Reading configuration from config/newrelic.yml
+[06/13/14 04:00:00 -0700 chiachai.local (11509)] ERROR : Failed to read or parse configuration file at config/newrelic.yml: uninitialized constant NewRelic::Agent::Configuration::YamlSource::NEW_RELIC_LICENSE_KEY
+[06/13/14 04:00:00 -0700 chiachai.local (11509)] INFO : Environment: development
+[06/13/14 04:00:00 -0700 chiachai.local (11509)] INFO : Dispatcher: thin
+[06/13/14 04:00:00 -0700 chiachai.local (11509)] INFO : Application: development
+[06/13/14 04:00:00 -0700 chiachai.local (11509)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[06/13/14 04:00:00 -0700 chiachai.local (11509)] INFO : Installing ActiveRecord 4 instrumentation
+[06/13/14 04:00:00 -0700 chiachai.local (11509)] INFO : Installing Net instrumentation
+[06/13/14 04:00:00 -0700 chiachai.local (11509)] INFO : Installing Sinatra instrumentation
+[06/13/14 04:00:00 -0700 chiachai.local (11509)] INFO : Installing deferred Rack instrumentation
+[06/13/14 04:00:00 -0700 chiachai.local (11509)] INFO : Finished instrumentation
+[06/13/14 04:00:00 -0700 chiachai.local (11509)] INFO : Doing deferred dependency-detection before Rack startup
+[06/13/14 04:00:01 -0700 chiachai.local (11514)] INFO : Starting the New Relic agent in "development" environment.
+[06/13/14 04:00:01 -0700 chiachai.local (11514)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/13/14 04:00:01 -0700 chiachai.local (11514)] INFO : Reading configuration from config/newrelic.yml
+[06/13/14 04:00:01 -0700 chiachai.local (11514)] ERROR : Failed to read or parse configuration file at config/newrelic.yml: uninitialized constant NewRelic::Agent::Configuration::YamlSource::NEW_RELIC_LICENSE_KEY
+[06/13/14 04:00:01 -0700 chiachai.local (11514)] INFO : Environment: development
+[06/13/14 04:00:01 -0700 chiachai.local (11514)] INFO : Dispatcher: thin
+[06/13/14 04:00:01 -0700 chiachai.local (11514)] INFO : Application: development
+[06/13/14 04:00:01 -0700 chiachai.local (11514)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'.
+[06/13/14 04:00:01 -0700 chiachai.local (11514)] INFO : Installing ActiveRecord 4 instrumentation
+[06/13/14 04:00:01 -0700 chiachai.local (11514)] INFO : Installing Net instrumentation
+[06/13/14 04:00:01 -0700 chiachai.local (11514)] INFO : Installing Sinatra instrumentation
+[06/13/14 04:00:01 -0700 chiachai.local (11514)] INFO : Installing deferred Rack instrumentation
+[06/13/14 04:00:01 -0700 chiachai.local (11514)] INFO : Finished instrumentation
+[06/13/14 04:00:02 -0700 chiachai.local (11514)] INFO : Doing deferred dependency-detection before Rack startup
+[06/13/14 04:01:10 -0700 chiachai.local (11614)] INFO : Starting the New Relic agent in "development" environment.
+[06/13/14 04:01:10 -0700 chiachai.local (11614)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/13/14 04:01:10 -0700 chiachai.local (11614)] INFO : Reading configuration from config/newrelic.yml
+[06/13/14 04:01:10 -0700 chiachai.local (11614)] INFO : Environment: development
+[06/13/14 04:01:10 -0700 chiachai.local (11614)] INFO : Dispatcher: thin
+[06/13/14 04:01:10 -0700 chiachai.local (11614)] INFO : Application: What Animal Do You Lift?
+[06/13/14 04:01:10 -0700 chiachai.local (11614)] WARN : Agent configured not to send data in this environment.
+[06/13/14 04:01:10 -0700 chiachai.local (11614)] INFO : Installing ActiveRecord 4 instrumentation
+[06/13/14 04:01:10 -0700 chiachai.local (11614)] INFO : Installing Net instrumentation
+[06/13/14 04:01:10 -0700 chiachai.local (11614)] INFO : Installing Sinatra instrumentation
+[06/13/14 04:01:10 -0700 chiachai.local (11614)] INFO : Installing deferred Rack instrumentation
+[06/13/14 04:01:10 -0700 chiachai.local (11614)] INFO : Finished instrumentation
+[06/13/14 04:01:10 -0700 chiachai.local (11614)] INFO : Doing deferred dependency-detection before Rack startup
+[06/13/14 04:01:40 -0700 chiachai.local (11645)] INFO : Starting the New Relic agent in "development" environment.
+[06/13/14 04:01:40 -0700 chiachai.local (11645)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/13/14 04:01:40 -0700 chiachai.local (11645)] INFO : Reading configuration from config/newrelic.yml
+[06/13/14 04:01:40 -0700 chiachai.local (11645)] INFO : Environment: development
+[06/13/14 04:01:40 -0700 chiachai.local (11645)] INFO : Dispatcher: thin
+[06/13/14 04:01:40 -0700 chiachai.local (11645)] INFO : Application: What Animal Do You Lift?
+[06/13/14 04:01:40 -0700 chiachai.local (11645)] WARN : Agent configured not to send data in this environment.
+[06/13/14 04:01:40 -0700 chiachai.local (11645)] INFO : Installing ActiveRecord 4 instrumentation
+[06/13/14 04:01:40 -0700 chiachai.local (11645)] INFO : Installing Net instrumentation
+[06/13/14 04:01:40 -0700 chiachai.local (11645)] INFO : Installing Sinatra instrumentation
+[06/13/14 04:01:40 -0700 chiachai.local (11645)] INFO : Installing deferred Rack instrumentation
+[06/13/14 04:01:40 -0700 chiachai.local (11645)] INFO : Finished instrumentation
+[06/13/14 04:01:40 -0700 chiachai.local (11645)] INFO : Doing deferred dependency-detection before Rack startup
+[06/13/14 04:02:29 -0700 chiachai.local (11699)] INFO : Starting the New Relic agent in "development" environment.
+[06/13/14 04:02:29 -0700 chiachai.local (11699)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/13/14 04:02:29 -0700 chiachai.local (11699)] INFO : Reading configuration from config/newrelic.yml
+[06/13/14 04:02:29 -0700 chiachai.local (11699)] INFO : Environment: development
+[06/13/14 04:02:29 -0700 chiachai.local (11699)] INFO : Dispatcher: thin
+[06/13/14 04:02:29 -0700 chiachai.local (11699)] INFO : Application: What Animal Do You Lift?
+[06/13/14 04:02:29 -0700 chiachai.local (11699)] WARN : Agent configured not to send data in this environment.
+[06/13/14 04:02:29 -0700 chiachai.local (11699)] INFO : Installing ActiveRecord 4 instrumentation
+[06/13/14 04:02:29 -0700 chiachai.local (11699)] INFO : Installing Net instrumentation
+[06/13/14 04:02:29 -0700 chiachai.local (11699)] INFO : Installing Sinatra instrumentation
+[06/13/14 04:02:29 -0700 chiachai.local (11699)] INFO : Installing deferred Rack instrumentation
+[06/13/14 04:02:29 -0700 chiachai.local (11699)] INFO : Finished instrumentation
+[06/13/14 04:02:29 -0700 chiachai.local (11699)] INFO : Doing deferred dependency-detection before Rack startup
+[06/13/14 04:02:51 -0700 chiachai.local (11715)] INFO : Starting the New Relic agent in "development" environment.
+[06/13/14 04:02:51 -0700 chiachai.local (11715)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/13/14 04:02:51 -0700 chiachai.local (11715)] INFO : Reading configuration from config/newrelic.yml
+[06/13/14 04:02:51 -0700 chiachai.local (11715)] INFO : Environment: development
+[06/13/14 04:02:51 -0700 chiachai.local (11715)] INFO : Dispatcher: thin
+[06/13/14 04:02:51 -0700 chiachai.local (11715)] INFO : Application: What Animal Do You Lift?
+[06/13/14 04:02:51 -0700 chiachai.local (11715)] WARN : Agent configured not to send data in this environment.
+[06/13/14 04:02:51 -0700 chiachai.local (11715)] INFO : Installing ActiveRecord 4 instrumentation
+[06/13/14 04:02:51 -0700 chiachai.local (11715)] INFO : Installing Net instrumentation
+[06/13/14 04:02:51 -0700 chiachai.local (11715)] INFO : Installing Sinatra instrumentation
+[06/13/14 04:02:51 -0700 chiachai.local (11715)] INFO : Installing deferred Rack instrumentation
+[06/13/14 04:02:51 -0700 chiachai.local (11715)] INFO : Finished instrumentation
+[06/13/14 04:02:51 -0700 chiachai.local (11715)] INFO : Doing deferred dependency-detection before Rack startup
+[06/13/14 04:03:29 -0700 chiachai.local (11752)] INFO : Starting the New Relic agent in "development" environment.
+[06/13/14 04:03:29 -0700 chiachai.local (11752)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/13/14 04:03:29 -0700 chiachai.local (11752)] INFO : Reading configuration from config/newrelic.yml
+[06/13/14 04:03:29 -0700 chiachai.local (11752)] INFO : Environment: development
+[06/13/14 04:03:29 -0700 chiachai.local (11752)] INFO : Dispatcher: thin
+[06/13/14 04:03:29 -0700 chiachai.local (11752)] INFO : Application: What Animal Do You Lift?
+[06/13/14 04:03:29 -0700 chiachai.local (11752)] WARN : Agent configured not to send data in this environment.
+[06/13/14 04:03:29 -0700 chiachai.local (11752)] INFO : Installing ActiveRecord 4 instrumentation
+[06/13/14 04:03:29 -0700 chiachai.local (11752)] INFO : Installing Net instrumentation
+[06/13/14 04:03:29 -0700 chiachai.local (11752)] INFO : Installing Sinatra instrumentation
+[06/13/14 04:03:29 -0700 chiachai.local (11752)] INFO : Installing deferred Rack instrumentation
+[06/13/14 04:03:29 -0700 chiachai.local (11752)] INFO : Finished instrumentation
+[06/13/14 04:03:29 -0700 chiachai.local (11752)] INFO : Doing deferred dependency-detection before Rack startup
+[06/13/14 04:04:26 -0700 chiachai.local (11782)] INFO : Starting the New Relic agent in "development" environment.
+[06/13/14 04:04:26 -0700 chiachai.local (11782)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/13/14 04:04:26 -0700 chiachai.local (11782)] INFO : Reading configuration from config/newrelic.yml
+[06/13/14 04:04:26 -0700 chiachai.local (11782)] INFO : Environment: development
+[06/13/14 04:04:26 -0700 chiachai.local (11782)] INFO : Dispatcher: thin
+[06/13/14 04:04:26 -0700 chiachai.local (11782)] INFO : Application: What Animal Do You Lift?
+[06/13/14 04:04:26 -0700 chiachai.local (11782)] WARN : Agent configured not to send data in this environment.
+[06/13/14 04:04:26 -0700 chiachai.local (11782)] INFO : Installing ActiveRecord 4 instrumentation
+[06/13/14 04:04:26 -0700 chiachai.local (11782)] INFO : Installing Net instrumentation
+[06/13/14 04:04:26 -0700 chiachai.local (11782)] INFO : Installing Sinatra instrumentation
+[06/13/14 04:04:26 -0700 chiachai.local (11782)] INFO : Installing deferred Rack instrumentation
+[06/13/14 04:04:26 -0700 chiachai.local (11782)] INFO : Finished instrumentation
+[06/13/14 04:04:26 -0700 chiachai.local (11782)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-12-16 23:16:17 -0800 catloef (26526)] INFO : Starting the New Relic agent in "development" environment.
+[2016-12-16 23:16:17 -0800 catloef (26526)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-12-16 23:16:17 -0800 catloef (26526)] INFO : Reading configuration from config/newrelic.yml (/Users/littlebean/Dropbox/code/whatanimaldoyoulift)
+[2016-12-16 23:16:17 -0800 catloef (26526)] INFO : Environment: development
+[2016-12-16 23:16:17 -0800 catloef (26526)] INFO : Dispatcher: thin
+[2016-12-16 23:16:17 -0800 catloef (26526)] INFO : Application: What Animal Do You Lift?
+[2016-12-16 23:16:17 -0800 catloef (26526)] WARN : Agent configured not to send data in this environment.
+[2016-12-16 23:16:17 -0800 catloef (26526)] INFO : Installing ActiveRecord 5 instrumentation
+[2016-12-16 23:16:17 -0800 catloef (26526)] INFO : Installing http.rb instrumentation
+[2016-12-16 23:16:17 -0800 catloef (26526)] INFO : Installing Net instrumentation
+[2016-12-16 23:16:17 -0800 catloef (26526)] INFO : Installing Sinatra instrumentation
+[2016-12-16 23:16:17 -0800 catloef (26526)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-12-16 23:16:17 -0800 catloef (26526)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-12-16 23:16:17 -0800 catloef (26526)] INFO : Finished instrumentation
+[2016-12-16 23:16:18 -0800 catloef (26526)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-12-16 23:19:52 -0800 catloef (26588)] INFO : Starting the New Relic agent in "development" environment.
+[2016-12-16 23:19:52 -0800 catloef (26588)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-12-16 23:19:52 -0800 catloef (26588)] INFO : Reading configuration from config/newrelic.yml (/Users/littlebean/Dropbox/code/whatanimaldoyoulift)
+[2016-12-16 23:19:52 -0800 catloef (26588)] INFO : Environment: development
+[2016-12-16 23:19:52 -0800 catloef (26588)] INFO : Dispatcher: thin
+[2016-12-16 23:19:52 -0800 catloef (26588)] INFO : Application: What Animal Do You Lift?
+[2016-12-16 23:19:52 -0800 catloef (26588)] WARN : Agent configured not to send data in this environment.
+[2016-12-16 23:19:53 -0800 catloef (26588)] INFO : Installing ActiveRecord 5 instrumentation
+[2016-12-16 23:19:53 -0800 catloef (26588)] INFO : Installing http.rb instrumentation
+[2016-12-16 23:19:53 -0800 catloef (26588)] INFO : Installing Net instrumentation
+[2016-12-16 23:19:53 -0800 catloef (26588)] INFO : Installing Sinatra instrumentation
+[2016-12-16 23:19:53 -0800 catloef (26588)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-12-16 23:19:53 -0800 catloef (26588)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-12-16 23:19:53 -0800 catloef (26588)] INFO : Finished instrumentation
+[2016-12-16 23:19:53 -0800 catloef (26588)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-12-16 23:21:34 -0800 catloef (26779)] INFO : Starting the New Relic agent in "development" environment.
+[2016-12-16 23:21:34 -0800 catloef (26779)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-12-16 23:21:34 -0800 catloef (26779)] INFO : Reading configuration from config/newrelic.yml (/Users/littlebean/Dropbox/code/whatanimaldoyoulift)
+[2016-12-16 23:21:34 -0800 catloef (26779)] INFO : Environment: development
+[2016-12-16 23:21:34 -0800 catloef (26779)] INFO : Dispatcher: thin
+[2016-12-16 23:21:34 -0800 catloef (26779)] INFO : Application: What Animal Do You Lift?
+[2016-12-16 23:21:34 -0800 catloef (26779)] WARN : Agent configured not to send data in this environment.
+[2016-12-16 23:21:34 -0800 catloef (26779)] INFO : Installing ActiveRecord 5 instrumentation
+[2016-12-16 23:21:34 -0800 catloef (26779)] INFO : Installing http.rb instrumentation
+[2016-12-16 23:21:34 -0800 catloef (26779)] INFO : Installing Net instrumentation
+[2016-12-16 23:21:34 -0800 catloef (26779)] INFO : Installing Sinatra instrumentation
+[2016-12-16 23:21:34 -0800 catloef (26779)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-12-16 23:21:34 -0800 catloef (26779)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-12-16 23:21:34 -0800 catloef (26779)] INFO : Finished instrumentation
+[2016-12-16 23:21:35 -0800 catloef (26779)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-12-16 23:39:33 -0800 catloef (26998)] INFO : Starting the New Relic agent in "development" environment.
+[2016-12-16 23:39:33 -0800 catloef (26998)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-12-16 23:39:33 -0800 catloef (26998)] INFO : Reading configuration from config/newrelic.yml (/Users/littlebean/Dropbox/code/whatanimaldoyoulift)
+[2016-12-16 23:39:33 -0800 catloef (26998)] INFO : Environment: development
+[2016-12-16 23:39:33 -0800 catloef (26998)] INFO : No known dispatcher detected.
+[2016-12-16 23:39:33 -0800 catloef (26998)] INFO : Application: What Animal Do You Lift?
+[2016-12-16 23:39:33 -0800 catloef (26998)] WARN : Agent configured not to send data in this environment.
+[2016-12-16 23:39:33 -0800 catloef (26998)] INFO : Installing ActiveRecord 5 instrumentation
+[2016-12-16 23:39:33 -0800 catloef (26998)] INFO : Installing http.rb instrumentation
+[2016-12-16 23:39:33 -0800 catloef (26998)] INFO : Installing Net instrumentation
+[2016-12-16 23:39:33 -0800 catloef (26998)] INFO : Installing Sinatra instrumentation
+[2016-12-16 23:39:33 -0800 catloef (26998)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-12-16 23:39:33 -0800 catloef (26998)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-12-16 23:39:33 -0800 catloef (26998)] INFO : Finished instrumentation
+[2016-12-16 23:39:34 -0800 catloef (26998)] INFO : Doing deferred dependency-detection before Rack startup
