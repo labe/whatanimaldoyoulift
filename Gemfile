@@ -1,10 +1,11 @@
 source 'https://rubygems.org'
+ruby "2.3.1"
 
 # PostgreSQL driver
 gem 'pg'
 
 # Use SCSS for stylesheets
-# gem 'sass', '~> 3.2.0' 
+# gem 'sass', '~> 3.2.0'
 
 # Sinatra driver
 gem 'sinatra'
