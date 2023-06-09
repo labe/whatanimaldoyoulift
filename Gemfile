@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
-ruby "2.3.1"
+ruby '3.2.2'
 
 # PostgreSQL driver
-gem 'pg'
+gem 'pg', '~> 1.5.3'
 
 # Use SCSS for stylesheets
 # gem 'sass', '~> 3.2.0'
